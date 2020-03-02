@@ -1,0 +1,10024 @@
+eclair
+1554948538
+         2
+        X4
+       OX2
+       OX4
+       X 4
+       XO4
+      O X4
+      OX 2
+      OX 4
+      OXX0
+      OXX1
+      OXX2
+      OXX3
+      OXX4
+      OXX5
+      X  4
+      X O4
+      XO 2
+      XOX3
+      XOX4
+      XXO1
+      XXO2
+     O  X4
+     O X 4
+     O XX0
+     O XX1
+     O XX3
+     O XX4
+     O XX6
+     OOXX0
+     OOXX1
+     OOXX2
+     OOXX3
+     OOXX4
+     OX  2
+     OX  3
+     OX X2
+     OXOX3
+     OXOX4
+     OXX 0
+     OXX 1
+     OXX 2
+     X   4
+     X  O0
+     X  O6
+     X O 0
+     X O 1
+     X O 2
+     X O 3
+     X O 4
+     X O 6
+     X O 8
+     X OX0
+     X OX1
+     X OX2
+     X OX3
+     X OX4
+     X OX6
+     X XO4
+     XO  0
+     XO  4
+     XO  7
+     XO X0
+     XO X1
+     XO X3
+     XO X4
+     XO X7
+     XOOX0
+     XOOX1
+     XOOX2
+     XOOX3
+     XOOX4
+     XOX 0
+     XOX 4
+     XOXO0
+     XOXO1
+     XOXO3
+     XOXO4
+     XX O3
+     XXO 4
+     XXOO0
+     XXOO1
+     XXOO2
+     XXOO4
+    O   X7
+    O  X 8
+    O  XX6
+    O OXX2
+    O X  1
+    O X  2
+    O X  3
+    O X  5
+    O X  7
+    O X  8
+    O X X7
+    O XOX1
+    O XX 8
+    O XXO0
+    OO XX3
+    OO XX6
+    OOX X3
+    OOX X7
+    OOXX 8
+    OX   6
+    OX   8
+    OX  X2
+    OX OX1
+    OX OX2
+    OX X 8
+    OX XO0
+    OX XO2
+    OX XO3
+    OX XO6
+    OXO X0
+    OXO X1
+    OXO X2
+    OXOX 0
+    OXOX 2
+    OXOX 3
+    OXOX 8
+    OXOXX2
+    OXX  7
+    OXX O0
+    OXXO 1
+    OXXOX1
+    OXXOX2
+    OXXXO0
+    OXXXO1
+    OXXXO2
+    OXXXO3
+    X    6
+    X   O2
+    X  O 8
+    X  OX0
+    X  OX1
+    X  OX2
+    X  OX5
+    X  OX6
+    X  XO1
+    X O X0
+    X OOX0
+    X OOX2
+    X OOX3
+    X OOX5
+    X OX 1
+    X OXO0
+    X OXO1
+    X OXO2
+    X OXO3
+    X OXO5
+    X X O2
+    X XO 0
+    X XO 2
+    X XO 5
+    X XO 8
+    X XOO0
+    X XOO1
+    X XOO2
+    X XOO3
+    X XOO5
+    XO   1
+    XO   2
+    XO   3
+    XO   7
+    XO   8
+    XO  X2
+    XO  X6
+    XO OX0
+    XO OX1
+    XO OX2
+    XO OX3
+    XO OX6
+    XO X 1
+    XO X 3
+    XO X 6
+    XO X 8
+    XO XO1
+    XO XO2
+    XOO X0
+    XOO X2
+    XOO X3
+    XOOX 1
+    XOOX 2
+    XOOX 3
+    XOOX 8
+    XOOXX2
+    XOX  1
+    XOX  7
+    XOX O1
+    XOX O2
+    XOXO 0
+    XOXO 2
+    XOXO 3
+    XOXO 8
+    XOXOX1
+    XOXOX3
+    XOXXO2
+    XX  O1
+    XX  O3
+    XX  O7
+    XX O 0
+    XX O 2
+    XX O 8
+    XX OO3
+    XX OO6
+    XXO  3
+    XXO O3
+    XXOO 3
+    XXOOX0
+    XXOOX3
+    XXOXO0
+    XXOXO1
+    XXOXO2
+    XXOXO3
+    XXXOO1
+    XXXOO2
+   O    X5
+   O   X 0
+   O   X 1
+   O   X 2
+   O   X 4
+   O   X 6
+   O   X 8
+   O   XX0
+   O   XX1
+   O   XX2
+   O   XX4
+   O   XX6
+   O  OXX1
+   O  OXX4
+   O  X  0
+   O  X  2
+   O  X  4
+   O  X  5
+   O  X  7
+   O  X  8
+   O  X X0
+   O  X X1
+   O  X X2
+   O  X X5
+   O  X X7
+   O  XOX1
+   O  XOX4
+   O  XOX5
+   O  XX 0
+   O  XX 1
+   O  XX 5
+   O  XX 8
+   O  XXO4
+   O  XXO5
+   O O XX0
+   O O XX2
+   O O XX4
+   O O XX6
+   O OX X4
+   O OX X7
+   O OXX 0
+   O OXX 1
+   O OXX 2
+   O OXX 4
+   O OXX 8
+   O X   0
+   O X   1
+   O X   2
+   O X   4
+   O X   6
+   O X   8
+   O X  X2
+   O X OX0
+   O X OX1
+   O X OX2
+   O X OX4
+   O X OX6
+   O X X 1
+   O X X 2
+   O X X 4
+   O X X 8
+   O X XO0
+   O X XO2
+   O X XO4
+   O X XO6
+   O XO X2
+   O XOX 2
+   O XOX 4
+   O XOXX0
+   O XOXX1
+   O XOXX2
+   O XOXX4
+   O XX  8
+   O XX O0
+   O XX O2
+   O XX O4
+   O XX O7
+   O XXO 0
+   O XXO 1
+   O XXO 2
+   O XXO 4
+   O XXO 8
+   O XXOX2
+   O XXXO1
+   O XXXO2
+   O XXXO4
+   OO  XX6
+   OO X X7
+   OO XX 8
+   OOX  X0
+   OOX  X1
+   OOX  X2
+   OOX  X6
+   OOX  X7
+   OOX X 0
+   OOX X 1
+   OOX X 2
+   OOX X 6
+   OOX X 8
+   OOX XX0
+   OOX XX6
+   OOXOXX2
+   OOXX  0
+   OOXX  1
+   OOXX  7
+   OOXX  8
+   OOXX X0
+   OOXX X1
+   OOXX X2
+   OOXX X7
+   OOXXOX1
+   OOXXOX2
+   OOXXX 2
+   OOXXX 8
+   OOXXXO0
+   OX    0
+   OX   X0
+   OX   X2
+   OX   X5
+   OX   X7
+   OX  OX0
+   OX  OX1
+   OX  OX2
+   OX  OX5
+   OX  OX6
+   OX  X 8
+   OX  XO0
+   OX  XO1
+   OX  XO2
+   OX  XO5
+   OX  XO6
+   OX O X0
+   OX OX 0
+   OX OX 1
+   OX OXX0
+   OX OXX1
+   OX OXX2
+   OX X  0
+   OX X  1
+   OX X  2
+   OX X  5
+   OX X  7
+   OX X  8
+   OX X O1
+   OX X O2
+   OX X O5
+   OX XO 0
+   OX XO 1
+   OX XO 2
+   OX XO 5
+   OX XO 8
+   OX XOX0
+   OX XOX2
+   OX XOX5
+   OX XXO0
+   OX XXO1
+   OX XXO2
+   OX XXO5
+   OXO  X0
+   OXO  X1
+   OXO  X6
+   OXO  X7
+   OXO X 0
+   OXO X 1
+   OXO X 6
+   OXO X 8
+   OXO XX0
+   OXOOXX0
+   OXOOXX1
+   OXOX  0
+   OXOX  1
+   OXOX  2
+   OXOX  8
+   OXOX X2
+   OXOX X7
+   OXOXOX0
+   OXOXOX1
+   OXOXOX2
+   OXOXX 0
+   OXOXX 1
+   OXOXX 2
+   OXOXX 8
+   OXOXXO1
+   OXOXXO2
+   OXX   0
+   OXX  O1
+   OXX  O6
+   OXX  O7
+   OXX O 6
+   OXX O 8
+   OXX OX0
+   OXX OX1
+   OXX OX2
+   OXX OX6
+   OXX XO1
+   OXXO  0
+   OXXO X0
+   OXXOOX0
+   OXXOOX2
+   OXXOX 0
+   OXXOX 1
+   OXXOXO0
+   OXXOXO1
+   OXXOXO2
+   OXXX O2
+   OXXXO 2
+   OXXXO 8
+   OXXXOO0
+   OXXXOO1
+   OXXXOO2
+   X     4
+   X    O0
+   X    O1
+   X    O2
+   X    O7
+   X   O 1
+   X   O 4
+   X   O 6
+   X   O 8
+   X   OX0
+   X   OX4
+   X   XO0
+   X   XO1
+   X   XO2
+   X   XO4
+   X   XO5
+   X   XO6
+   X  O  1
+   X  O  2
+   X  O  4
+   X  O  7
+   X  O X4
+   X  OOX0
+   X  OOX2
+   X  OOX4
+   X  OOX5
+   X  OX 4
+   X  OXO1
+   X  OXO2
+   X  OXO4
+   X  XO 0
+   X  XO 1
+   X  XO 2
+   X  XO 4
+   X  XO 5
+   X  XO 8
+   X  XOO0
+   X  XOO1
+   X  XOO2
+   X  XOO4
+   X  XOO5
+   X O   0
+   X O   1
+   X O   2
+   X O   4
+   X O   7
+   X O   8
+   X O  X0
+   X O  X1
+   X O  X4
+   X O  X6
+   X O  X7
+   X O OX0
+   X O OX1
+   X O OX2
+   X O OX4
+   X O OX6
+   X O X 6
+   X O XO2
+   X O XO4
+   X O XO6
+   X OO X0
+   X OO X1
+   X OO X2
+   X OO X4
+   X OO X7
+   X OOX 1
+   X OOX 2
+   X OOX 4
+   X OOX 8
+   X OOXX0
+   X OOXX1
+   X OOXX2
+   X OOXX4
+   X OX  0
+   X OX  1
+   X OX  4
+   X OX  7
+   X OX  8
+   X OX O0
+   X OXO 0
+   X OXO 1
+   X OXO 8
+   X OXOX0
+   X OXOX2
+   X OXXO0
+   X OXXO2
+   X OXXO4
+   X X  O0
+   X X  O4
+   X X  O6
+   X X O 1
+   X X O 2
+   X X O 6
+   X X OO0
+   X X OO1
+   X X OO2
+   X X OO4
+   X X OO6
+   X XO  0
+   X XO  1
+   X XO  7
+   X XO O0
+   X XO O1
+   X XO O4
+   X XOO 0
+   X XOO 4
+   X XOOX1
+   X XOOX2
+   X XOXO0
+   X XOXO1
+   X XOXO2
+   X XOXO4
+   X XXOO0
+   X XXOO1
+   X XXOO2
+   X XXOO4
+   XO    0
+   XO    2
+   XO   X0
+   XO   X6
+   XO  OX0
+   XO  OX1
+   XO  OX6
+   XO  X 6
+   XO  XO0
+   XO O X0
+   XO O X2
+   XO O X5
+   XO O X7
+   XO OX 2
+   XO OXX0
+   XO OXX2
+   XO OXX5
+   XO X  0
+   XO X O0
+   XO XO 0
+   XO XO 1
+   XO XOX0
+   XO XOX1
+   XO XXO0
+   XOO  X1
+   XOO  X2
+   XOO  X6
+   XOO  X7
+   XOO X 0
+   XOO X 1
+   XOO X 2
+   XOO X 6
+   XOO X 8
+   XOO XX0
+   XOO XX6
+   XOOOXX2
+   XOOX  0
+   XOOX  1
+   XOOX  2
+   XOOX  8
+   XOOX X0
+   XOOX X7
+   XOOXOX0
+   XOOXOX1
+   XOOXX 0
+   XOOXX 1
+   XOOXX 8
+   XOOXXO0
+   XOOXXO2
+   XOX   7
+   XOX  O1
+   XOX  O2
+   XOX OX1
+   XOX OX2
+   XOX XO0
+   XOX XO1
+   XOX XO2
+   XOX XO6
+   XOXO  1
+   XOXO  2
+   XOXO  7
+   XOXO  8
+   XOXO X1
+   XOXO X2
+   XOXOOX0
+   XOXOOX2
+   XOXOX 0
+   XOXOX 1
+   XOXOX 2
+   XOXOX 8
+   XOXOXO1
+   XOXX O0
+   XOXX O2
+   XOXX O7
+   XOXXO 0
+   XOXXO 1
+   XOXXOO0
+   XOXXOO1
+   XX   O5
+   XX  O 0
+   XX  O 2
+   XX  O 8
+   XX  OO5
+   XX  OO6
+   XX O  5
+   XX O O5
+   XX O O7
+   XX OO 5
+   XX OO 8
+   XX OOX1
+   XX OXO1
+   XX OXO5
+   XX XOO0
+   XX XOO1
+   XX XOO2
+   XX XOO5
+   XXO   2
+   XXO   8
+   XXO  O2
+   XXO O 0
+   XXO O 2
+   XXO O 6
+   XXO O 8
+   XXO OX0
+   XXO XO0
+   XXO XO1
+   XXO XO2
+   XXO XO6
+   XXOO  1
+   XXOO  2
+   XXOO  7
+   XXOO  8
+   XXOO X0
+   XXOOOX0
+   XXOOOX1
+   XXOOOX2
+   XXOOX 1
+   XXOOXO0
+   XXOOXO1
+   XXOOXO2
+   XXOX O2
+   XXOX O7
+   XXOXO 2
+   XXOXOO0
+   XXOXOO2
+  O     X4
+  O    X 0
+  O    X 1
+  O    X 3
+  O    X 8
+  O    XX1
+  O    XX3
+  O    XX4
+  O    XX5
+  O    XX6
+  O   OXX0
+  O   OXX1
+  O   OXX3
+  O   OXX4
+  O   OXX5
+  O   X  4
+  O   X X4
+  O   XOX1
+  O   XX 0
+  O   XX 1
+  O   XX 3
+  O   XX 4
+  O   XX 5
+  O   XX 8
+  O   XXO0
+  O   XXO4
+  O   XXO5
+  O  O XX0
+  O  O XX4
+  O  O XX6
+  O  OX X0
+  O  OX X1
+  O  OX X4
+  O  OX X7
+  O  OXX 0
+  O  OXX 8
+  O  X   1
+  O  X   4
+  O  X  X0
+  O  X  X3
+  O  X  X4
+  O  X  X6
+  O  X  X7
+  O  X OX0
+  O  X OX1
+  O  X OX3
+  O  X OX4
+  O  X OX6
+  O  X X 0
+  O  X X 3
+  O  X X 4
+  O  X X 6
+  O  X X 8
+  O  X XO0
+  O  X XO3
+  O  X XO4
+  O  XO X0
+  O  XO X1
+  O  XO X4
+  O  XO X7
+  O  XOX 0
+  O  XOX 1
+  O  XOX 3
+  O  XOX 4
+  O  XOX 8
+  O  XOXX0
+  O  XOXX1
+  O  XOXX3
+  O  XOXX4
+  O  XX  0
+  O  XX  4
+  O  XX O0
+  O  XX O1
+  O  XX O4
+  O  XX O7
+  O  XXO 1
+  O  XXO 3
+  O  XXO 4
+  O  XXOX0
+  O  XXOX1
+  O  XXOX3
+  O  XXOX4
+  O  XXXO0
+  O  XXXO1
+  O  XXXO3
+  O O  XX6
+  O O X X0
+  O O X X1
+  O O X X3
+  O O X X5
+  O O X X7
+  O O XX 0
+  O O XX 8
+  O OX  X6
+  O OX X 0
+  O OX X 1
+  O OX X 6
+  O OX X 8
+  O OX XX6
+  O OXX  0
+  O OXX  1
+  O OXX  7
+  O OXX X7
+  O OXXOX1
+  O OXXX 0
+  O OXXX 1
+  O OXXX 3
+  O OXXX 8
+  O OXXXO0
+  O OXXXO1
+  O X    6
+  O X   X0
+  O X  OX0
+  O X  OX1
+  O X  OX3
+  O X  OX5
+  O X  X 1
+  O X  XO1
+  O X  XO5
+  O X O X0
+  O X O X1
+  O X O X3
+  O X O X5
+  O X O X7
+  O X OX 1
+  O X OX 5
+  O X OXX0
+  O X OXX1
+  O X OXX3
+  O X OXX5
+  O X X  0
+  O X X  3
+  O X X  5
+  O X X  8
+  O X X O5
+  O X XO 0
+  O X XO 1
+  O X XO 3
+  O X XO 5
+  O X XOX0
+  O X XOX3
+  O X XXO1
+  O X XXO5
+  O XO  X0
+  O XO  X1
+  O XO  X6
+  O XO  X7
+  O XO X 1
+  O XO X 8
+  O XO XX0
+  O XO XX1
+  O XO XX6
+  O XOOXX0
+  O XOOXX1
+  O XOOXX3
+  O XOX  8
+  O XOX X0
+  O XOX X1
+  O XOX X7
+  O XOXOX0
+  O XOXOX1
+  O XOXOX3
+  O XOXX 0
+  O XOXX 1
+  O XOXX 3
+  O XOXX 8
+  O XX   3
+  O XX  O0
+  O XX  O1
+  O XX  O3
+  O XX  O6
+  O XX O 0
+  O XX O 1
+  O XX O 3
+  O XX O 6
+  O XX O 8
+  O XX OX0
+  O XX OX3
+  O XX OX6
+  O XX XO0
+  O XX XO1
+  O XX XO3
+  O XXO  0
+  O XXO  3
+  O XXO  7
+  O XXO X1
+  O XXO X3
+  O XXO X7
+  O XXOOX0
+  O XXOOX1
+  O XXOOX3
+  O XXOX 0
+  O XXOX 3
+  O XXOX 8
+  O XXOXO0
+  O XXOXO1
+  O XXOXO3
+  O XXX O3
+  O XXXO 3
+  O XXXOO0
+  O XXXOO1
+  O XXXOO3
+  OO   XX0
+  OO   XX1
+  OO   XX6
+  OO  X X1
+  OO  X X4
+  OO  X X5
+  OO  X X7
+  OO  XX 0
+  OO  XX 1
+  OO  XX 4
+  OO  XX 5
+  OO  XX 8
+  OO X  X6
+  OO X X 1
+  OO X X 4
+  OO X X 6
+  OO X XX6
+  OO XOXX4
+  OO XX  0
+  OO XX  1
+  OO XX  4
+  OO XX  7
+  OO XX  8
+  OO XX X7
+  OO XXOX0
+  OO XXOX1
+  OO XXOX4
+  OO XXX 8
+  OO XXXO0
+  OO XXXO1
+  OO XXXO4
+  OOOX XX0
+  OOOX XX1
+  OOOX XX6
+  OOOXX X0
+  OOOXX X1
+  OOOXX X7
+  OOOXXX 0
+  OOOXXX 1
+  OOOXXX 8
+  OOX   X0
+  OOX   X1
+  OOX   X6
+  OOX   X7
+  OOX  X 0
+  OOX  X 1
+  OOX  X 5
+  OOX  X 6
+  OOX  X 8
+  OOX  XX1
+  OOX  XX5
+  OOX  XX6
+  OOX OXX0
+  OOX OXX1
+  OOX X  0
+  OOX X  5
+  OOX X  8
+  OOX X X1
+  OOX X X5
+  OOX X X7
+  OOX XOX0
+  OOX XOX1
+  OOX XOX5
+  OOX XX 0
+  OOX XX 1
+  OOX XX 5
+  OOX XX 8
+  OOX XXO1
+  OOX XXO5
+  OOXO XX0
+  OOXO XX1
+  OOXO XX6
+  OOXOX X0
+  OOXOX X1
+  OOXOX X7
+  OOXOXX 0
+  OOXOXX 1
+  OOXOXX 8
+  OOXX   0
+  OOXX   1
+  OOXX   6
+  OOXX  X0
+  OOXX OX0
+  OOXX OX1
+  OOXX OX6
+  OOXX X 1
+  OOXX XO0
+  OOXX XO1
+  OOXX XO6
+  OOXXO X0
+  OOXXO X1
+  OOXXOX 0
+  OOXXOX 1
+  OOXXOX 8
+  OOXXOXX0
+  OOXXOXX1
+  OOXXX  7
+  OOXXX O0
+  OOXXX O1
+  OOXXX O7
+  OOXXXO 0
+  OOXXXO 1
+  OOXXXO 8
+  OOXXXOX0
+  OOXXXXO1
+  OX     4
+  OX    X0
+  OX   OX1
+  OX   OX4
+  OX   OX5
+  OX   OX6
+  OX   X 8
+  OX   XO1
+  OX   XO6
+  OX  O X4
+  OX  OX 0
+  OX  OX 4
+  OX  OX 5
+  OX  OXX0
+  OX  OXX1
+  OX  OXX4
+  OX  OXX5
+  OX  X  0
+  OX  X  1
+  OX  X  4
+  OX  X  5
+  OX  X  7
+  OX  X  8
+  OX  X O0
+  OX  X O5
+  OX  XO 0
+  OX  XO 1
+  OX  XO 4
+  OX  XO 5
+  OX  XO 8
+  OX  XOX0
+  OX  XOX1
+  OX  XOX4
+  OX  XOX5
+  OX  XXO0
+  OX  XXO1
+  OX  XXO5
+  OX O  X0
+  OX O  X4
+  OX O  X6
+  OX O X 0
+  OX O X 4
+  OX O X 6
+  OX O X 8
+  OX O XX0
+  OX OOXX4
+  OX OX  0
+  OX OX  8
+  OX OX X0
+  OX OX X4
+  OX OX X7
+  OX OXOX0
+  OX OXOX1
+  OX OXOX4
+  OX OXX 8
+  OX X   0
+  OX X   1
+  OX X   4
+  OX X   8
+  OX X  O1
+  OX X  O4
+  OX X  O6
+  OX X  O7
+  OX X O 1
+  OX X O 4
+  OX X O 6
+  OX X OX0
+  OX X OX1
+  OX X OX4
+  OX X XO1
+  OX X XO4
+  OX X XO6
+  OX XO  0
+  OX XO  1
+  OX XO  4
+  OX XO  8
+  OX XO X0
+  OX XO X4
+  OX XO X7
+  OX XOOX1
+  OX XOOX4
+  OX XOX 4
+  OX XOXO1
+  OX XOXO4
+  OX XX O0
+  OX XX O7
+  OX XXO 1
+  OX XXO 4
+  OX XXOO0
+  OX XXOO1
+  OX XXOO4
+  OXO   X1
+  OXO   X6
+  OXO  X 1
+  OXO  X 5
+  OXO  X 6
+  OXO  X 8
+  OXO  XX0
+  OXO  XX5
+  OXO  XX6
+  OXO X  0
+  OXO X  1
+  OXO X X0
+  OXO X X1
+  OXO X X5
+  OXO X X7
+  OXO XOX0
+  OXO XOX1
+  OXO XX 1
+  OXO XX 8
+  OXO XXO0
+  OXOO XX0
+  OXOO XX6
+  OXOOX X0
+  OXOOX X1
+  OXOOX X7
+  OXOOXX 0
+  OXOOXX 8
+  OXOX   0
+  OXOX  X0
+  OXOX  X1
+  OXOX  X6
+  OXOX  X7
+  OXOX X 0
+  OXOX X 1
+  OXOX X 6
+  OXOX XO0
+  OXOX XO1
+  OXOX XO6
+  OXOXX  0
+  OXOXX O0
+  OXOXXO 0
+  OXOXXO 1
+  OXOXXOX0
+  OXOXXOX1
+  OXOXXXO0
+  OXX    5
+  OXX   O5
+  OXX  O 0
+  OXX  O 1
+  OXX  O 5
+  OXX  O 6
+  OXX  O 8
+  OXX  OX6
+  OXX  XO0
+  OXX  XO5
+  OXX  XO6
+  OXX O  5
+  OXX O  7
+  OXX O X0
+  OXX O X1
+  OXX OOX0
+  OXX OOX1
+  OXX OOX5
+  OXX OX 0
+  OXX OX 1
+  OXX OX 5
+  OXX OX 8
+  OXX OXO0
+  OXX OXO1
+  OXX OXO5
+  OXX X O0
+  OXX X O1
+  OXX X O5
+  OXX XO 0
+  OXX XO 5
+  OXX XOO0
+  OXX XOO5
+  OXXO   8
+  OXXO  X0
+  OXXO OX0
+  OXXO OX1
+  OXXO OX6
+  OXXO X 1
+  OXXO X 8
+  OXXOO X0
+  OXXOO X1
+  OXXOO X7
+  OXXOOX 1
+  OXXOOX 8
+  OXXOOXX0
+  OXXOOXX1
+  OXXOX  0
+  OXXOX  1
+  OXXOX  7
+  OXXOX  8
+  OXXOXO 0
+  OXXOXO 8
+  OXXOXOX0
+  X      4
+  X     O4
+  X    O 1
+  X    O 6
+  X    OX3
+  X    OX6
+  X    XO4
+  X   O  4
+  X   O X0
+  X   O X4
+  X   O X5
+  X   O X7
+  X   OOX0
+  X   OOX1
+  X   OOX3
+  X   OOX4
+  X   OOX5
+  X   OX 0
+  X   OX 1
+  X   OX 4
+  X   OXO0
+  X   OXO1
+  X   OXO3
+  X   OXO4
+  X   OXO5
+  X   X O0
+  X   X O1
+  X   X O4
+  X   X O7
+  X   XO 0
+  X   XO 3
+  X   XO 5
+  X   XO 8
+  X   XOO0
+  X   XOO1
+  X   XOO3
+  X   XOO4
+  X   XOO5
+  X  O   0
+  X  O   3
+  X  O   4
+  X  O   8
+  X  O  X0
+  X  O  X4
+  X  O  X6
+  X  O OX1
+  X  O OX4
+  X  O X 0
+  X  O X 1
+  X  O X 4
+  X  O XO0
+  X  O XO1
+  X  O XO3
+  X  O XO4
+  X  OO X0
+  X  OO X3
+  X  OO X4
+  X  OOX 0
+  X  OOX 1
+  X  OOX 3
+  X  OOX 4
+  X  OOXX0
+  X  OOXX1
+  X  OOXX3
+  X  OOXX4
+  X  OX  0
+  X  OX  4
+  X  OX O0
+  X  OX O1
+  X  OX O4
+  X  OX O7
+  X  OXO 1
+  X  OXO 3
+  X  OXO 4
+  X  OXOX0
+  X  OXOX3
+  X  OXOX4
+  X  OXXO4
+  X  X  O0
+  X  X  O3
+  X  X  O4
+  X  X  O7
+  X  X O 0
+  X  X O 1
+  X  X O 3
+  X  X O 6
+  X  X OO1
+  X  X OO3
+  X  X OO4
+  X  X OO6
+  X  XO  8
+  X  XO O0
+  X  XOO 0
+  X  XOO 4
+  X  XOO 8
+  X  XOXO0
+  X  XOXO1
+  X  XOXO3
+  X  XOXO4
+  X  XXOO0
+  X  XXOO1
+  X  XXOO3
+  X  XXOO4
+  X O    8
+  X O   X5
+  X O  OX1
+  X O  OX5
+  X O  X 5
+  X O  X 8
+  X O  XO0
+  X O  XO5
+  X O O X0
+  X O O X1
+  X O O X3
+  X O O X5
+  X O OX 0
+  X O OX 1
+  X O OX 3
+  X O OXX5
+  X O X  3
+  X O X O7
+  X O XO 1
+  X O XOX0
+  X O XOX1
+  X O XOX3
+  X O XOX5
+  X O XXO0
+  X O XXO1
+  X O XXO3
+  X O XXO5
+  X OO  X3
+  X OO X 3
+  X OO XX3
+  X OO XX6
+  X OOOXX3
+  X OOX  3
+  X OOX X3
+  X OOX X7
+  X OOXX 1
+  X OOXX 3
+  X OOXXO0
+  X OOXXO3
+  X OX   8
+  X OX  O0
+  X OX O 1
+  X OX O 6
+  X OX O 8
+  X OX XO0
+  X OX XO1
+  X OX XO3
+  X OX XO6
+  X OXO  0
+  X OXO  1
+  X OXO  3
+  X OXO  7
+  X OXO  8
+  X OXOX 8
+  X OXOXO0
+  X OXX O0
+  X OXX O1
+  X OXX O3
+  X OXX O7
+  X OXXO 1
+  X OXXO 3
+  X OXXO 8
+  X OXXOO0
+  X X   O0
+  X X   O6
+  X X  O 1
+  X X  O 5
+  X X  O 6
+  X X  O 8
+  X X  OO6
+  X X O  0
+  X X O O7
+  X X OO 0
+  X X OO 3
+  X X OO 8
+  X X OOX5
+  X X OXO1
+  X XO  O0
+  X XO  O6
+  X XO  O7
+  X XO O 0
+  X XO O 6
+  X XO O 8
+  X XO OX0
+  X XO OX1
+  X XO OX6
+  X XO XO1
+  X XOO  7
+  X XOO  8
+  X XOO X0
+  X XOOOX0
+  X XOOOX1
+  X XOOOX3
+  X XOOX 0
+  X XOOX 1
+  X XOOXO0
+  X XOOXO1
+  X XOOXO3
+  X XX OO6
+  X XXO O0
+  X XXO O1
+  X XXO O3
+  X XXO O7
+  X XXOO 8
+  XO     0
+  XO     4
+  XO     6
+  XO     8
+  XO    X7
+  XO   OX1
+  XO   OX4
+  XO   OX5
+  XO   OX6
+  XO   X 4
+  XO   X 6
+  XO   X 8
+  XO   XO0
+  XO  O X5
+  XO  OX 0
+  XO  OX 1
+  XO  OX 4
+  XO  OX 8
+  XO  OXX0
+  XO  OXX1
+  XO  OXX5
+  XO  X  4
+  XO  X O0
+  XO  X O1
+  XO  X O4
+  XO  X O5
+  XO  XO 0
+  XO  XO 1
+  XO  XO 4
+  XO  XO 5
+  XO  XO 8
+  XO  XOX0
+  XO  XOX1
+  XO  XOX4
+  XO  XOX5
+  XO  XXO0
+  XO  XXO4
+  XO  XXO5
+  XO O  X4
+  XO O X 1
+  XO O X 4
+  XO O XX0
+  XO O XX1
+  XO O XX4
+  XO O XX6
+  XO OOXX0
+  XO OOXX1
+  XO OOXX4
+  XO OX  4
+  XO OX X4
+  XO OXOX1
+  XO OXOX4
+  XO OXX 4
+  XO OXX 8
+  XO OXXO1
+  XO OXXO4
+  XO X   8
+  XO X  O6
+  XO X O 0
+  XO X O 1
+  XO X O 4
+  XO X O 6
+  XO X O 8
+  XO X XO0
+  XO X XO1
+  XO X XO4
+  XO X XO6
+  XO XO  0
+  XO XO  8
+  XO XOX 0
+  XO XOX 1
+  XO XOX 4
+  XO XOX 8
+  XO XOXO0
+  XO XOXO1
+  XO XOXO4
+  XO XX O4
+  XO XXO 0
+  XO XXO 1
+  XO XXO 4
+  XO XXO 8
+  XO XXOO0
+  XO XXOO1
+  XO XXOO4
+  XOO   X5
+  XOO  X 0
+  XOO  X 1
+  XOO  X 5
+  XOO  X 6
+  XOO  X 8
+  XOO  XX5
+  XOO OXX5
+  XOO X  5
+  XOO X X5
+  XOO XOX5
+  XOO XX 0
+  XOO XX 1
+  XOO XX 5
+  XOO XX 8
+  XOO XXO5
+  XOOX   0
+  XOOX   6
+  XOOX   7
+  XOOX   8
+  XOOX X 0
+  XOOX X 1
+  XOOX X 8
+  XOOX XO0
+  XOOXOX 0
+  XOOXOX 1
+  XOOXOX 8
+  XOOXX  8
+  XOOXX O0
+  XOOXXO 1
+  XOOXXO 8
+  XOOXXXO0
+  XOOXXXO1
+  XOX    1
+  XOX    5
+  XOX    6
+  XOX    7
+  XOX   O0
+  XOX   O1
+  XOX   O6
+  XOX   O7
+  XOX  O 0
+  XOX  O 5
+  XOX  O 6
+  XOX  OX1
+  XOX  OX6
+  XOX  XO5
+  XOX O  0
+  XOX O X0
+  XOX O X7
+  XOX OOX0
+  XOX OOX5
+  XOX OX 0
+  XOX OX 5
+  XOX OXO0
+  XOX OXO1
+  XOXO   0
+  XOXO   1
+  XOXO   6
+  XOXO   7
+  XOXO   8
+  XOXO  X0
+  XOXO OX0
+  XOXO OX1
+  XOXO OX6
+  XOXO X 0
+  XOXO X 1
+  XOXO X 8
+  XOXO XO0
+  XOXO XO1
+  XOXO XO6
+  XOXOO X0
+  XOXOO X1
+  XOXOOX 0
+  XOXOOX 1
+  XOXOOXX0
+  XOXX  O6
+  XOXX O 0
+  XOXX OO0
+  XOXX OO6
+  XOXXO  0
+  XOXXO  7
+  XOXXO  8
+  XOXXO O1
+  XOXXOO 0
+  XOXXOO 8
+  XOXXOXO0
+  XOXXOXO1
+  XX    O6
+  XX   O 4
+  XX  O  8
+  XX  O O7
+  XX  OO 0
+  XX  OO 4
+  XX  OO 8
+  XX  OOX0
+  XX  OOX1
+  XX  OOX4
+  XX  OOX5
+  XX  OXO1
+  XX  OXO4
+  XX  XOO1
+  XX  XOO4
+  XX  XOO5
+  XX O   0
+  XX O   1
+  XX O   6
+  XX O  O0
+  XX O  O1
+  XX O  O4
+  XX O  O6
+  XX O  O7
+  XX O O 0
+  XX O O 1
+  XX O O 4
+  XX O O 6
+  XX O O 8
+  XX O OX0
+  XX O OX1
+  XX O OX4
+  XX O XO0
+  XX O XO1
+  XX O XO4
+  XX O XO6
+  XX OO  0
+  XX OO  4
+  XX OO  7
+  XX OO  8
+  XX OO X0
+  XX OO X4
+  XX OOOX0
+  XX OOOX1
+  XX OOOX4
+  XX OOX 0
+  XX OOX 1
+  XX OOX 4
+  XX OOXO0
+  XX OOXO1
+  XX OOXO4
+  XX OX O0
+  XX OX O1
+  XX OX O7
+  XX OXO 4
+  XX OXOO0
+  XX OXOO1
+  XX OXOO4
+  XX X OO4
+  XX X OO6
+  XX XO O1
+  XX XO O4
+  XX XO O7
+  XX XOO 0
+  XX XOO 1
+  XX XOO 4
+  XX XOO 8
+  XXO    0
+  XXO    1
+  XXO    6
+  XXO   O0
+  XXO  O 1
+  XXO  OX0
+  XXO  OX1
+  XXO  OX6
+  XXO  XO0
+  XXO  XO1
+  XXO  XO5
+  XXO  XO6
+  XXO O  0
+  XXO O  7
+  XXO O  8
+  XXO O X5
+  XXO OOX1
+  XXO OOX5
+  XXO OX 5
+  XXO OX 8
+  XXO OXO0
+  XXO X O0
+  XXO X O1
+  XXO X O7
+  XXO XO 0
+  XXO XO 1
+  XXO XO 8
+  XXOO   1
+  XXOO   6
+  XXOO   7
+  XXOO   8
+  XXOO  X1
+  XXOO  X6
+  XXOO OX1
+  XXOO X 0
+  XXOO X 6
+  XXOO XO0
+  XXOO XO6
+  XXOOO X0
+  XXOOO X1
+  XXOOO X7
+  XXOOOX 0
+  XXOOOX 1
+  XXOOOX 8
+  XXOOOXX0
+  XXOOOXX1
+  XXOOX  0
+  XXOOX  8
+  XXOOX O0
+  XXOOXO 0
+  XXOOXO 1
+  XXOOXOX0
+  XXOOXOX1
+  XXOOXXO0
+  XXOX  O0
+  XXOX  O1
+  XXOX  O6
+  XXOX  O7
+  XXOX O 0
+  XXOX O 1
+  XXOX O 6
+  XXOX O 8
+  XXOX OO0
+  XXOXO  7
+  XXOXO  8
+  XXOXO O0
+  XXOXO O1
+  XXOXO O7
+  XXOXOO 8
+  XXOXOXO0
+  XXOXOXO1
+  XXOXXOO0
+  XXOXXOO1
+  XXX  OO6
+  XXX O O0
+  XXX O O5
+  XXX O O7
+  XXX OO 0
+  XXX OO 1
+  XXX OO 5
+  XXX OO 8
+  XXXO  O6
+  XXXO O 6
+  XXXO OO0
+  XXXO OO6
+  XXXOO  0
+  XXXOO  1
+  XXXOO  7
+  XXXOO  8
+  XXXOO O7
+  XXXOOO 8
+  XXXOOOX0
+  XXXOOXO1
+ O      X2
+ O      X6
+ O     X 0
+ O     X 2
+ O     X 3
+ O     X 4
+ O     X 6
+ O     X 8
+ O     XX6
+ O    OXX0
+ O    OXX2
+ O    X  0
+ O    X  2
+ O    X  8
+ O    X X0
+ O    X X2
+ O    X X3
+ O    X X4
+ O    X X5
+ O    X X7
+ O    XOX4
+ O    XX 8
+ O    XXO0
+ O   O XX0
+ O   O XX2
+ O   O XX3
+ O   O XX6
+ O   OX X0
+ O   OX X3
+ O   OX X4
+ O   OX X7
+ O   OXX 0
+ O   OXX 2
+ O   OXX 3
+ O   OXX 4
+ O   OXX 8
+ O   X   4
+ O   X  X0
+ O   X  X2
+ O   X  X3
+ O   X  X4
+ O   X  X6
+ O   X  X7
+ O   X OX2
+ O   X OX4
+ O   X X 2
+ O   X X 3
+ O   X X 8
+ O   X XO0
+ O   X XO2
+ O   X XO4
+ O   X XO6
+ O   XO X2
+ O   XO X3
+ O   XO X4
+ O   XOX 0
+ O   XOX 2
+ O   XOX 3
+ O   XOX 4
+ O   XOXX3
+ O   XOXX4
+ O   XX  0
+ O   XX  3
+ O   XX  4
+ O   XX  8
+ O   XX O0
+ O   XXO 4
+ O   XXOX0
+ O   XXOX2
+ O   XXOX3
+ O   XXOX4
+ O   XXXO0
+ O   XXXO2
+ O   XXXO3
+ O   XXXO4
+ O  O  XX0
+ O  O  XX2
+ O  O  XX3
+ O  O  XX5
+ O  O  XX6
+ O  O X X7
+ O  O XX 0
+ O  O XX 2
+ O  O XX 5
+ O  O XX 8
+ O  OX  X2
+ O  OX  X7
+ O  OX X 0
+ O  OX X 2
+ O  OX X 3
+ O  OX X 8
+ O  OX XX3
+ O  OXOXX2
+ O  OXX  7
+ O  OXX X2
+ O  OXX X3
+ O  OXX X7
+ O  OXXX 0
+ O  OXXX 8
+ O  OXXXO0
+ O  X    0
+ O  X    6
+ O  X   X0
+ O  X   X2
+ O  X   X6
+ O  X  OX0
+ O  X  OX2
+ O  X  OX3
+ O  X  OX5
+ O  X  X 6
+ O  X  XO2
+ O  X  XO5
+ O  X O X0
+ O  X O X2
+ O  X O X3
+ O  X O X5
+ O  X OX 0
+ O  X OX 3
+ O  X OXX0
+ O  X X  0
+ O  X X  2
+ O  X X  3
+ O  X X  7
+ O  X X  8
+ O  X X O0
+ O  X X O2
+ O  X X O5
+ O  X XO 0
+ O  X XO 2
+ O  X XO 3
+ O  X XO 8
+ O  X XXO2
+ O  XO  X0
+ O  XO  X2
+ O  XO  X7
+ O  XO X 2
+ O  XO X 8
+ O  XO XX6
+ O  XOOXX0
+ O  XOOXX2
+ O  XOOXX3
+ O  XOX  2
+ O  XOX  3
+ O  XOX  8
+ O  XOX X0
+ O  XOX X2
+ O  XOXOX0
+ O  XOXOX2
+ O  XOXOX3
+ O  XOXX 0
+ O  XOXX 2
+ O  XOXX 8
+ O  XOXXO2
+ O  XOXXO3
+ O  XX   2
+ O  XX   7
+ O  XX  O0
+ O  XX  O2
+ O  XX  O3
+ O  XX  O6
+ O  XX  O7
+ O  XX O 0
+ O  XX O 2
+ O  XX O 3
+ O  XX O 6
+ O  XX O 8
+ O  XX OX2
+ O  XX OX3
+ O  XX OX6
+ O  XX XO3
+ O  XXO  0
+ O  XXO  3
+ O  XXO  8
+ O  XXO X0
+ O  XXO X2
+ O  XXO X3
+ O  XXO X7
+ O  XXOOX0
+ O  XXOOX2
+ O  XXOOX3
+ O  XXOX 3
+ O  XXOXO0
+ O  XXOXO2
+ O  XXOXO3
+ O  XXX O3
+ O  XXXO 0
+ O  XXXO 8
+ O  XXXOO0
+ O  XXXOO2
+ O  XXXOO3
+ O O   XX0
+ O O   XX2
+ O O   XX4
+ O O   XX5
+ O O   XX6
+ O O  X X4
+ O O  X X7
+ O O  XX 0
+ O O  XX 2
+ O O  XX 4
+ O O  XX 5
+ O O  XX 8
+ O O X  X0
+ O O X  X2
+ O O X  X4
+ O O X  X6
+ O O X  X7
+ O O X X 0
+ O O X X 2
+ O O X X 4
+ O O X X 6
+ O O X X 8
+ O O X XX0
+ O O X XX2
+ O O X XX4
+ O O X XX6
+ O O XOXX0
+ O O XOXX2
+ O O XOXX4
+ O O XX  0
+ O O XX  2
+ O O XX  7
+ O O XX  8
+ O O XX X0
+ O O XX X2
+ O O XX X4
+ O O XX X7
+ O O XXOX2
+ O O XXOX4
+ O O XXX 0
+ O O XXX 2
+ O O XXX 8
+ O O XXXO0
+ O O XXXO2
+ O O XXXO4
+ O OOX XX0
+ O OOX XX2
+ O OOX XX6
+ O OOXX X2
+ O OOXX X7
+ O OOXXX 0
+ O OOXXX 2
+ O OOXXX 8
+ O OX   X0
+ O OX   X2
+ O OX   X5
+ O OX   X6
+ O OX  X 0
+ O OX  X 2
+ O OX  X 5
+ O OX  X 6
+ O OX  XX5
+ O OX OXX0
+ O OX OXX2
+ O OX X  0
+ O OX X  2
+ O OX X  7
+ O OX XOX0
+ O OX XOX2
+ O OX XOX5
+ O OX XX 0
+ O OX XX 5
+ O OX XXO0
+ O OX XXO2
+ O OX XXO5
+ O OXO XX0
+ O OXO XX2
+ O OXO XX6
+ O OXOX X0
+ O OXOX X2
+ O OXOX X7
+ O OXOXX 0
+ O OXOXX 2
+ O OXOXX 8
+ O OXX   0
+ O OXX   2
+ O OXX   6
+ O OXX  X0
+ O OXX  X2
+ O OXX  X6
+ O OXX  X7
+ O OXX OX0
+ O OXX OX2
+ O OXX OX6
+ O OXX X 0
+ O OXX X 2
+ O OXX X 6
+ O OXX X 8
+ O OXX XO0
+ O OXX XO2
+ O OXX XO6
+ O OXXO X0
+ O OXXO X2
+ O OXXO X7
+ O OXXOX 0
+ O OXXOXX0
+ O OXXOXX2
+ O OXXX  2
+ O OXXX  8
+ O OXXX O0
+ O OXXX O2
+ O OXXX O7
+ O OXXXO 0
+ O OXXXO 2
+ O OXXXO 8
+ O OXXXOX2
+ O OXXXXO2
+ O X     4
+ O X    X5
+ O X   OX0
+ O X   OX4
+ O X   OX5
+ O X   X 6
+ O X   XO0
+ O X   XO2
+ O X   XO4
+ O X   XO5
+ O X   XO6
+ O X  O X2
+ O X  O X4
+ O X  OX 2
+ O X  OX 4
+ O X  OXX0
+ O X  OXX2
+ O X  OXX4
+ O X  X  0
+ O X  X  2
+ O X  X O0
+ O X  X O2
+ O X  X O4
+ O X  X O5
+ O X  X O7
+ O X  XO 0
+ O X  XO 4
+ O X  XOX0
+ O X  XOX2
+ O X  XOX4
+ O X  XOX5
+ O X  XXO2
+ O X  XXO4
+ O X  XXO5
+ O X O  X0
+ O X O  X4
+ O X O  X6
+ O X O X 0
+ O X O X 2
+ O X O X 4
+ O X O X 6
+ O X O X 8
+ O X O XX6
+ O X OOXX0
+ O X OOXX2
+ O X OOXX4
+ O X OX  0
+ O X OX  2
+ O X OX  4
+ O X OX  7
+ O X OX  8
+ O X OX X0
+ O X OX X2
+ O X OX X7
+ O X OXOX0
+ O X OXOX2
+ O X OXOX4
+ O X OXX 2
+ O X OXX 8
+ O X OXXO0
+ O X OXXO2
+ O X OXXO4
+ O X X   0
+ O X X   2
+ O X X   4
+ O X X   6
+ O X X  O0
+ O X X  O2
+ O X X  O4
+ O X X  O6
+ O X X  O7
+ O X X O 4
+ O X X O 8
+ O X X OX2
+ O X X OX4
+ O X X OX6
+ O X X XO2
+ O X X XO4
+ O X X XO6
+ O X XO  0
+ O X XO  2
+ O X XO  4
+ O X XO  7
+ O X XO  8
+ O X XO X0
+ O X XO X4
+ O X XOOX0
+ O X XOOX2
+ O X XOOX4
+ O X XOX 4
+ O X XOXO0
+ O X XOXO2
+ O X XOXO4
+ O X XXO 0
+ O X XXO 4
+ O X XXO 8
+ O X XXOO0
+ O X XXOO2
+ O X XXOO4
+ O XO   X2
+ O XO   X7
+ O XO  X 0
+ O XO  X 2
+ O XO  X 5
+ O XO  X 8
+ O XO  XX2
+ O XO  XX6
+ O XO OXX0
+ O XO OXX2
+ O XO X  0
+ O XO X X2
+ O XO X X5
+ O XO X X7
+ O XO XX 5
+ O XO XXO0
+ O XO XXO2
+ O XO XXO5
+ O XOO XX0
+ O XOO XX2
+ O XOO XX6
+ O XOOX X0
+ O XOOX X2
+ O XOOX X7
+ O XOOXX 0
+ O XOOXX 2
+ O XOOXX 8
+ O XOX   0
+ O XOX   6
+ O XOX  X2
+ O XOX  X6
+ O XOX  X7
+ O XOX X 0
+ O XOX X 2
+ O XOX X 6
+ O XOX X 8
+ O XOX XO0
+ O XOXO X0
+ O XOXO X2
+ O XOXOX 2
+ O XOXOXX2
+ O XOXX  0
+ O XOXX  2
+ O XOXX  7
+ O XOXX  8
+ O XOXX O0
+ O XOXX O2
+ O XOXX O7
+ O XOXXXO0
+ O XX    5
+ O XX   O0
+ O XX   O2
+ O XX   O5
+ O XX   O7
+ O XX  O 0
+ O XX  O 5
+ O XX  O 6
+ O XX  O 8
+ O XX  OX2
+ O XX  OX6
+ O XX  XO5
+ O XX O  0
+ O XX O  2
+ O XX O  5
+ O XX O  7
+ O XX O  8
+ O XX O X5
+ O XX OOX0
+ O XX OOX2
+ O XX OOX5
+ O XX OX 5
+ O XX OXO0
+ O XX OXO2
+ O XX OXO5
+ O XX X O2
+ O XX XO 0
+ O XX XO 2
+ O XX XO 5
+ O XX XO 8
+ O XX XOO0
+ O XX XOO2
+ O XX XOO5
+ O XXO   0
+ O XXO   2
+ O XXO   6
+ O XXO   8
+ O XXO  X0
+ O XXO  X6
+ O XXO OX0
+ O XXO OX2
+ O XXO OX6
+ O XXO X 0
+ O XXO X 2
+ O XXO X 6
+ O XXO X 8
+ O XXO XO0
+ O XXO XO2
+ O XXOO X0
+ O XXOO X2
+ O XXOO X7
+ O XXOOX 0
+ O XXOOX 2
+ O XXOOX 8
+ O XXOOXX0
+ O XXOX  0
+ O XXOX  2
+ O XXOX  7
+ O XXOX O0
+ O XXOX O2
+ O XXOXO 0
+ O XXOXO 2
+ O XXOXO 8
+ O XXOXOX0
+ O XXOXOX2
+ O XXOXXO2
+ OO    XX6
+ OO   X X0
+ OO   X X7
+ OO   XX 0
+ OO   XX 3
+ OO   XX 8
+ OO  X  X6
+ OO  X X 0
+ OO  X X 8
+ OO  X XX0
+ OO  X XX3
+ OO  X XX4
+ OO  X XX6
+ OO  XOXX0
+ OO  XOXX3
+ OO  XOXX4
+ OO  XX  0
+ OO  XX  4
+ OO  XX  8
+ OO  XX X0
+ OO  XX X3
+ OO  XX X7
+ OO  XXOX0
+ OO  XXX 0
+ OO  XXX 4
+ OO  XXX 8
+ OO  XXXO0
+ OO  XXXO4
+ OO OX XX0
+ OO OX XX6
+ OO OXX X7
+ OO OXXX 0
+ OO OXXX 8
+ OO X   X0
+ OO X   X6
+ OO X  X 0
+ OO X  X 3
+ OO X  X 5
+ OO X  XX0
+ OO X OXX0
+ OO X OXX3
+ OO X X  0
+ OO X X X0
+ OO X X X3
+ OO X X X5
+ OO X XOX0
+ OO X XX 0
+ OO X XX 3
+ OO X XX 5
+ OO X XX 8
+ OO X XXO3
+ OO X XXO5
+ OO XO XX0
+ OO XO XX6
+ OO XOX X0
+ OO XOX X7
+ OO XOXX 8
+ OO XX   0
+ OO XX   3
+ OO XX   6
+ OO XX  X0
+ OO XX OX0
+ OO XX OX3
+ OO XX X 0
+ OO XX XO0
+ OO XX XO3
+ OO XXO X0
+ OO XXO X3
+ OO XXOX 0
+ OO XXOX 3
+ OO XXOXX0
+ OO XXOXX3
+ OO XXX  0
+ OO XXX  3
+ OO XXX  8
+ OO XXX O0
+ OO XXX O3
+ OO XXXO 0
+ OO XXXO 3
+ OO XXXOX0
+ OO XXXXO0
+ OO XXXXO3
+ OOO X XX0
+ OOO X XX4
+ OOO X XX6
+ OOO XX X0
+ OOO XX X4
+ OOO XX X7
+ OOO XXX 0
+ OOO XXX 4
+ OOO XXX 8
+ OOOX  XX0
+ OOOX  XX6
+ OOOX X X0
+ OOOX X X7
+ OOOX XX 0
+ OOOX XX 8
+ OOOXX  X0
+ OOOXX  X6
+ OOOXX X 0
+ OOOXX X 6
+ OOOXX XX0
+ OOOXXOXX0
+ OOOXXX  0
+ OOOXXX X0
+ OOOXXXOX0
+ OOOXXXX 0
+ OOOXXXX 8
+ OOOXXXXO0
+ OOX    X0
+ OOX    X5
+ OOX   X 0
+ OOX   X 4
+ OOX   X 5
+ OOX   X 6
+ OOX   X 8
+ OOX   XX0
+ OOX   XX5
+ OOX   XX6
+ OOX  OXX0
+ OOX  OXX4
+ OOX  OXX5
+ OOX  X  0
+ OOX  X  4
+ OOX  X  5
+ OOX  X  8
+ OOX  X X0
+ OOX  X X7
+ OOX  XOX0
+ OOX  XX 0
+ OOX  XX 5
+ OOX  XX 8
+ OOX  XXO0
+ OOX  XXO4
+ OOX  XXO5
+ OOX O XX0
+ OOX O XX4
+ OOX O XX6
+ OOX OX X0
+ OOX OX X4
+ OOX OX X7
+ OOX OXX 0
+ OOX OXX 4
+ OOX OXX 8
+ OOX X   0
+ OOX X   4
+ OOX X   8
+ OOX X  X0
+ OOX X  X4
+ OOX X  X6
+ OOX X OX0
+ OOX X OX4
+ OOX X X 0
+ OOX X X 6
+ OOX X X 8
+ OOX X XO0
+ OOX X XO4
+ OOX XO X0
+ OOX XO X4
+ OOX XO X7
+ OOX XOX 4
+ OOX XOXX0
+ OOX XOXX4
+ OOX XX  0
+ OOX XX  4
+ OOX XX O0
+ OOX XX O4
+ OOX XX O7
+ OOX XXO 0
+ OOX XXO 4
+ OOX XXO 8
+ OOX XXOX0
+ OOX XXOX4
+ OOX XXXO0
+ OOX XXXO4
+ OOXO  XX0
+ OOXO  XX5
+ OOXO  XX6
+ OOXO X X0
+ OOXO X X7
+ OOXO XX 0
+ OOXO XX 8
+ OOXOX  X6
+ OOXOX X 6
+ OOXOX X 8
+ OOXOX XX0
+ OOXOX XX6
+ OOXOXX  0
+ OOXOXX  8
+ OOXOXX X0
+ OOXOXX X7
+ OOXOXXX 0
+ OOXOXXXO0
+ OOXX    0
+ OOXX    5
+ OOXX   X0
+ OOXX   X5
+ OOXX   X7
+ OOXX  OX0
+ OOXX  OX5
+ OOXX  X 0
+ OOXX  X 5
+ OOXX  XO5
+ OOXX  XO6
+ OOXX O X0
+ OOXX O X5
+ OOXX O X7
+ OOXX OX 0
+ OOXX OX 5
+ OOXX OX 8
+ OOXX OXX0
+ OOXX X  0
+ OOXX X  5
+ OOXX X  7
+ OOXX X O0
+ OOXX X O5
+ OOXX XO 0
+ OOXX XO 5
+ OOXX XOX0
+ OOXX XXO0
+ OOXX XXO5
+ OOXXO  X0
+ OOXXO XX0
+ OOXXOOXX0
+ OOXXOX  0
+ OOXXOX X0
+ OOXXOX X7
+ OOXXOXOX0
+ OOXXOXX 0
+ OOXXOXX 8
+ OX      4
+ OX     X4
+ OX     X6
+ OX    OX4
+ OX    OX5
+ OX    X 4
+ OX    X 6
+ OX    X 8
+ OX    XO0
+ OX    XO4
+ OX    XO5
+ OX    XO6
+ OX   O X0
+ OX   O X3
+ OX   O X4
+ OX   O X5
+ OX   O X7
+ OX   OX 0
+ OX   OX 3
+ OX   OX 4
+ OX   OX 5
+ OX   OX 8
+ OX   OXX5
+ OX   X  4
+ OX   X O0
+ OX   X O3
+ OX   X O4
+ OX   X O5
+ OX   X O7
+ OX   XO 4
+ OX   XOX3
+ OX   XOX4
+ OX   XXO0
+ OX   XXO4
+ OX  O  X4
+ OX  O  X7
+ OX  O X 3
+ OX  O X 4
+ OX  O X 6
+ OX  O X 8
+ OX  O XX0
+ OX  O XX4
+ OX  O XX6
+ OX  OOXX0
+ OX  OOXX3
+ OX  OOXX4
+ OX  OX  3
+ OX  OX  4
+ OX  OX  7
+ OX  OX  8
+ OX  OX X4
+ OX  OXOX4
+ OX  OXX 3
+ OX  OXXO0
+ OX  OXXO3
+ OX  OXXO4
+ OX  X   0
+ OX  X   3
+ OX  X   4
+ OX  X   6
+ OX  X   8
+ OX  X  O3
+ OX  X  O4
+ OX  X  O7
+ OX  X O 0
+ OX  X O 3
+ OX  X O 8
+ OX  X XO3
+ OX  X XO4
+ OX  X XO6
+ OX  XO  3
+ OX  XO  7
+ OX  XO  8
+ OX  XOX 8
+ OX  XOXO0
+ OX  XOXO3
+ OX  XOXO4
+ OX  XX O0
+ OX  XX O3
+ OX  XX O4
+ OX  XXO 4
+ OX  XXO 8
+ OX  XXOO3
+ OX  XXOO4
+ OX O   X5
+ OX O  XX3
+ OX O  XX5
+ OX O OXX0
+ OX O OXX3
+ OX O OXX5
+ OX O X  7
+ OX O X X7
+ OX O XX 8
+ OX O XXO0
+ OX OO XX3
+ OX OO XX6
+ OX OOX X7
+ OX OOXX 0
+ OX OOXX 3
+ OX OOXX 8
+ OX OX   8
+ OX OX X 8
+ OX OX XO0
+ OX OXOX 0
+ OX OXOX 3
+ OX OXOX 8
+ OX OXX  7
+ OX OXX  8
+ OX OXX O3
+ OX OXX O7
+ OX OXXXO0
+ OX OXXXO3
+ OX X    0
+ OX X    3
+ OX X    5
+ OX X    6
+ OX X    7
+ OX X   O0
+ OX X   O3
+ OX X   O5
+ OX X   O6
+ OX X   O7
+ OX X  O 0
+ OX X  O 3
+ OX X  O 5
+ OX X  O 6
+ OX X  O 8
+ OX X  OX0
+ OX X  OX3
+ OX X  OX6
+ OX X  XO6
+ OX X O  0
+ OX X O  3
+ OX X O X0
+ OX X O X5
+ OX X OOX0
+ OX X OOX3
+ OX X OOX5
+ OX X OX 3
+ OX X OX 8
+ OX X OXO0
+ OX X OXO3
+ OX X OXO5
+ OX XO   0
+ OX XO   3
+ OX XO   6
+ OX XO   7
+ OX XO   8
+ OX XO  X0
+ OX XO  X3
+ OX XO  X6
+ OX XO OX0
+ OX XO OX3
+ OX XO OX6
+ OX XO X 6
+ OX XO XO0
+ OX XO XO3
+ OX XO XO6
+ OX XOO X0
+ OX XOO X3
+ OX XOO X7
+ OX XOOX 0
+ OX XOOX 3
+ OX XOOX 8
+ OX XOOXX0
+ OX XX O 0
+ OX XX OO3
+ OX XX OO6
+ OX XXO  0
+ OX XXO O3
+ OX XXO O7
+ OX XXOO 3
+ OX XXOO 8
+ OX XXOXO3
+ OXO    X4
+ OXO    X5
+ OXO    X6
+ OXO   X 0
+ OXO   X 4
+ OXO   X 5
+ OXO   X 6
+ OXO   X 8
+ OXO   XX4
+ OXO   XX6
+ OXO  OXX0
+ OXO  OXX5
+ OXO  X  4
+ OXO  X  5
+ OXO  X  7
+ OXO  X  8
+ OXO  X X0
+ OXO  XOX4
+ OXO  XOX5
+ OXO  XX 4
+ OXO  XXO0
+ OXO  XXO4
+ OXO  XXO5
+ OXO O XX0
+ OXO O XX4
+ OXO O XX6
+ OXO OX X0
+ OXO OX X4
+ OXO OX X7
+ OXO OXX 0
+ OXO OXX 4
+ OXO OXX 8
+ OXO X   0
+ OXO X   4
+ OXO X   6
+ OXO X   7
+ OXO X   8
+ OXO X X 4
+ OXO X X 8
+ OXO X XO0
+ OXO X XO4
+ OXO X XO6
+ OXO XOX 0
+ OXO XOX 4
+ OXO XOX 8
+ OXO XX  4
+ OXO XX  7
+ OXO XX O0
+ OXO XX O4
+ OXO XX O7
+ OXO XXO 0
+ OXO XXO 4
+ OXO XXO 8
+ OXO XXXO4
+ OXOO  XX5
+ OXOO  XX6
+ OXOO X X5
+ OXOO X X7
+ OXOO XX 0
+ OXOO XX 5
+ OXOO XX 8
+ OXOOX X 0
+ OXOOX X 6
+ OXOOX X 8
+ OXOOXX  7
+ OXOOXX  8
+ OXOOXXX 8
+ OXOOXXXO0
+ OXOX    0
+ OXOX    5
+ OXOX    6
+ OXOX    7
+ OXOX    8
+ OXOX   X0
+ OXOX   X5
+ OXOX   X6
+ OXOX   X7
+ OXOX  OX0
+ OXOX  OX5
+ OXOX  OX6
+ OXOX  X 6
+ OXOX  X 8
+ OXOX  XO0
+ OXOX  XO5
+ OXOX  XO6
+ OXOX O X0
+ OXOX O X5
+ OXOX OX 0
+ OXOX OXX0
+ OXOXO  X0
+ OXOXO  X6
+ OXOXO  X7
+ OXOXO X 0
+ OXOXO X 6
+ OXOXO X 8
+ OXOXO XX0
+ OXOXO XX6
+ OXOXOOXX0
+ OXOXX   6
+ OXOXX   7
+ OXOXX  O0
+ OXOXX  O6
+ OXOXX  O7
+ OXOXX O 0
+ OXOXX O 6
+ OXOXX O 8
+ OXOXX XO6
+ OXOXXO  0
+ OXOXXO  7
+ OXOXXO  8
+ OXOXXOX 0
+ OXOXXOX 8
+ OXOXXOXO0
+ OXX     4
+ OXX     5
+ OXX     7
+ OXX    O4
+ OXX    O5
+ OXX    O6
+ OXX    O7
+ OXX   O 4
+ OXX   O 8
+ OXX   OX4
+ OXX   OX5
+ OXX   OX6
+ OXX   XO4
+ OXX   XO5
+ OXX  O  0
+ OXX  O  5
+ OXX  O  7
+ OXX  O X5
+ OXX  OOX4
+ OXX  OOX5
+ OXX  OX 0
+ OXX  OX 4
+ OXX  OX 5
+ OXX  OX 8
+ OXX  OXO0
+ OXX  OXO4
+ OXX  OXO5
+ OXX  X O0
+ OXX  X O4
+ OXX  X O5
+ OXX  X O7
+ OXX  XO 4
+ OXX  XO 5
+ OXX  XO 8
+ OXX  XOO0
+ OXX  XOO4
+ OXX  XOO5
+ OXX O   0
+ OXX O   4
+ OXX O   6
+ OXX O   7
+ OXX O   8
+ OXX O  X4
+ OXX O  X6
+ OXX O OX4
+ OXX O OX6
+ OXX O X 6
+ OXX O XO0
+ OXX O XO4
+ OXX O XO6
+ OXX OO X0
+ OXX OO X4
+ OXX OO X7
+ OXX OOX 0
+ OXX OOX 4
+ OXX OOX 8
+ OXX OOXX0
+ OXX OOXX4
+ OXX OX  7
+ OXX OX O0
+ OXX OX O4
+ OXX OX O7
+ OXX OXO 0
+ OXX OXO 4
+ OXX OXO 8
+ OXX OXOX0
+ OXX OXOX4
+ OXX OXXO4
+ OXX X  O4
+ OXX X  O6
+ OXX X  O7
+ OXX X O 0
+ OXX X O 4
+ OXX X O 8
+ OXX X OO0
+ OXX X OO4
+ OXX X OO6
+ OXX XO  7
+ OXX XO O0
+ OXX XO O4
+ OXX XO O7
+ OXX XOO 0
+ OXX XOO 4
+ OXX XOO 8
+ OXX XOXO4
+ OXX XXOO4
+ OXXO    5
+ OXXO    6
+ OXXO    7
+ OXXO   X5
+ OXXO   X7
+ OXXO  X 6
+ OXXO  X 8
+ OXXO  XO0
+ OXXO O X0
+ OXXO O X5
+ OXXO O X7
+ OXXO OX 0
+ OXXO OX 5
+ OXXO OX 8
+ OXXO OXX5
+ OXXO X  0
+ OXXO X  7
+ OXXO X O0
+ OXXO XXO0
+ OXXOO  X7
+ OXXOO X 0
+ OXXOO X 6
+ OXXOO X 8
+ OXXOO XX6
+ OXXOOOXX0
+ OXXOOX  0
+ OXXOOX  7
+ OXXOOX  8
+ OXXOOX X0
+ OXXOOX X7
+ OXXOOXX 0
+ OXXOOXXO0
+ OXXOX   6
+ OXXOX   7
+ OXXOX   8
+ OXXOX  O0
+ OXXOX XO0
+ OXXOX XO6
+ OXXOXO  0
+ OXXOXO  7
+ OXXOXO  8
+ OXXOXOX 8
+ OXXOXOXO0
+ OXXOXX O0
+ OXXOXX O7
+ OXXX   O0
+ OXXX   O6
+ OXXX  O 0
+ OXXX  O 5
+ OXXX  O 6
+ OXXX  O 8
+ OXXX  OO5
+ OXXX  OO6
+ OXXX O  0
+ OXXX O  5
+ OXXX O O5
+ OXXX O O7
+ OXXX OO 0
+ OXXX OO 5
+ OXXX OO 8
+ OXXX OOX0
+ OXXX OXO5
+ OXXXO   0
+ OXXXO   6
+ OXXXO   8
+ OXXXO  O0
+ OXXXO  O6
+ OXXXO  O7
+ OXXXO O 0
+ OXXXO O 6
+ OXXXO O 8
+ OXXXO OX0
+ OXXXO XO6
+ OXXXOO  0
+ OXXXOO  7
+ OXXXOO  8
+ OXXXOO X0
+ OXXXOOOX0
+ OXXXOOX 0
+ OXXXOOX 8
+ OXXXOOXO0
+ X       4
+ X      O4
+ X     O 0
+ X     O 8
+ X     OX0
+ X     OX2
+ X     OX3
+ X     OX4
+ X     OX6
+ X     XO0
+ X     XO2
+ X     XO3
+ X     XO4
+ X     XO6
+ X    O  0
+ X    O  3
+ X    O  4
+ X    O X0
+ X    O X3
+ X    OOX2
+ X    OOX3
+ X    OOX4
+ X    OXO0
+ X    OXO2
+ X    OXO4
+ X    X O2
+ X    XO 2
+ X    XOO2
+ X    XOO4
+ X   O   4
+ X   O  X4
+ X   O  X6
+ X   O  X7
+ X   O OX0
+ X   O OX2
+ X   O OX3
+ X   O OX4
+ X   O OX6
+ X   O X 4
+ X   O XO4
+ X   OO X0
+ X   OO X2
+ X   OO X3
+ X   OO X4
+ X   OOX 0
+ X   OOX 2
+ X   OOX 3
+ X   OOX 4
+ X   OOX 8
+ X   OOXX0
+ X   OOXX4
+ X   OX  4
+ X   OXO 0
+ X   OXO 3
+ X   OXO 4
+ X   OXO 8
+ X   OXOX0
+ X   OXOX4
+ X   OXXO0
+ X   OXXO2
+ X   OXXO4
+ X   X  O3
+ X   X  O4
+ X   X O 0
+ X   X O 2
+ X   X O 6
+ X   X OO0
+ X   X OO2
+ X   X OO3
+ X   X OO4
+ X   X OO6
+ X   XO  0
+ X   XO  2
+ X   XO  3
+ X   XO  4
+ X   XO  8
+ X   XOO 0
+ X   XOOX0
+ X   XOOX3
+ X   XOXO0
+ X   XOXO2
+ X   XOXO3
+ X   XOXO4
+ X   XXOO0
+ X  O    0
+ X  O    2
+ X  O    3
+ X  O    6
+ X  O   X2
+ X  O   X5
+ X  O  OX0
+ X  O  OX3
+ X  O  OX6
+ X  O  X 0
+ X  O  XO5
+ X  O  XO6
+ X  O O X3
+ X  O OXX0
+ X  O OXX2
+ X  O OXX3
+ X  O OXX5
+ X  O X  2
+ X  O X  3
+ X  O XO 0
+ X  O XOX0
+ X  O XOX5
+ X  O XXO0
+ X  O XXO2
+ X  O XXO3
+ X  O XXO5
+ X  OO  X3
+ X  OO X 3
+ X  OO XX3
+ X  OO XX6
+ X  OOOXX3
+ X  OOX  3
+ X  OOX X0
+ X  OOX X2
+ X  OOX X3
+ X  OOX X7
+ X  OOXOX3
+ X  OOXX 3
+ X  OOXX 8
+ X  OOXXO0
+ X  OOXXO2
+ X  OX   0
+ X  OX   2
+ X  OX  O0
+ X  OX  O2
+ X  OX  O6
+ X  OX O 0
+ X  OX O 2
+ X  OX O 6
+ X  OX O 8
+ X  OX OX2
+ X  OX OX3
+ X  OX XO0
+ X  OX XO2
+ X  OX XO3
+ X  OX XO6
+ X  OXO  0
+ X  OXO  3
+ X  OXO X0
+ X  OXO X2
+ X  OXOOX2
+ X  OXOX 0
+ X  OXOX 2
+ X  OXOX 3
+ X  OXOX 8
+ X  OXX O0
+ X  OXX O2
+ X  OXX O3
+ X  OXXO 0
+ X  OXXO 2
+ X  OXXOO0
+ X  OXXOO2
+ X  OXXOO3
+ X  X   O7
+ X  X  O 8
+ X  X  OO6
+ X  X O  7
+ X  X O O7
+ X  X OO 8
+ X  X OOX0
+ X  X XOO2
+ X  XO   7
+ X  XO  O2
+ X  XO  O7
+ X  XO O 2
+ X  XO O 8
+ X  XO OX0
+ X  XOO  0
+ X  XOO  2
+ X  XOO  3
+ X  XOO  7
+ X  XOO  8
+ X  XOOOX0
+ X  XOOOX2
+ X  XOOOX3
+ X  XOX O2
+ X  XOXO 0
+ X  XOXO 2
+ X  XOXO 8
+ X  XOXOO2
+ X  XX OO2
+ X  XX OO3
+ X  XX OO6
+ X  XXO O3
+ X  XXO O7
+ X  XXOO 0
+ X  XXOO 8
+ X O     0
+ X O     2
+ X O     4
+ X O     5
+ X O     6
+ X O     7
+ X O     8
+ X O    X2
+ X O    X4
+ X O   OX2
+ X O   OX5
+ X O   X 4
+ X O   X 6
+ X O   XO0
+ X O   XO4
+ X O   XO5
+ X O  O X0
+ X O  O X2
+ X O  OX 2
+ X O  OX 4
+ X O  OX 8
+ X O  OXX0
+ X O  OXX2
+ X O  OXX4
+ X O  OXX5
+ X O  X  2
+ X O  X  4
+ X O  X  7
+ X O  X  8
+ X O  X O0
+ X O  X O2
+ X O  X O4
+ X O  X O5
+ X O  X O7
+ X O  XO 0
+ X O  XO 2
+ X O  XO 4
+ X O  XO 5
+ X O  XO 8
+ X O  XOX2
+ X O  XOX4
+ X O  XXO0
+ X O  XXO2
+ X O  XXO4
+ X O O  X0
+ X O O  X2
+ X O O  X4
+ X O O  X6
+ X O O  X7
+ X O O X 0
+ X O O X 2
+ X O O X 4
+ X O O X 8
+ X O O XX4
+ X O O XX6
+ X O OOXX0
+ X O OOXX2
+ X O OOXX4
+ X O OX  0
+ X O OX  2
+ X O OX  4
+ X O OX  7
+ X O OX  8
+ X O OX X0
+ X O OX X2
+ X O OX X4
+ X O OXOX4
+ X O OXX 2
+ X O OXX 4
+ X O OXX 8
+ X O OXXO0
+ X O OXXO2
+ X O OXXO4
+ X O X   2
+ X O X  O2
+ X O X  O4
+ X O X  O7
+ X O X O 0
+ X O X O 2
+ X O X O 4
+ X O X O 6
+ X O X OX2
+ X O X OX4
+ X O X XO0
+ X O X XO2
+ X O X XO4
+ X O XO  0
+ X O XO X0
+ X O XO X2
+ X O XO X4
+ X O XO X7
+ X O XOOX0
+ X O XOOX2
+ X O XOX 0
+ X O XOX 2
+ X O XOX 8
+ X O XX O2
+ X O XX O4
+ X O XXO 2
+ X O XXOO0
+ X O XXOO2
+ X O XXOO4
+ X OO   X5
+ X OO  X 8
+ X OO  XX0
+ X OO  XX2
+ X OO  XX5
+ X OO  XX6
+ X OO OXX0
+ X OO OXX2
+ X OO OXX5
+ X OO X  5
+ X OO X X0
+ X OO X X5
+ X OO X X7
+ X OO XOX5
+ X OO XX 5
+ X OO XX 8
+ X OO XXO0
+ X OOX   0
+ X OOX   2
+ X OOX   6
+ X OOX   7
+ X OOX   8
+ X OOX  X2
+ X OOX OX0
+ X OOX OX2
+ X OOX OX6
+ X OOX X 0
+ X OOX X 2
+ X OOX X 6
+ X OOX X 8
+ X OOX XO0
+ X OOXO X2
+ X OOXO X7
+ X OOXOX 0
+ X OOXOX 2
+ X OOXOX 8
+ X OOXOXX0
+ X OOXOXX2
+ X OOXX  8
+ X OOXX O0
+ X OOXXO 0
+ X OOXXO 2
+ X OOXXO 8
+ X OOXXOX2
+ X OOXXXO0
+ X OOXXXO2
+ X OX    0
+ X OX    2
+ X OX    5
+ X OX    6
+ X OX    7
+ X OX    8
+ X OX   O0
+ X OX   O2
+ X OX   O5
+ X OX   O6
+ X OX   O7
+ X OX  O 0
+ X OX  O 6
+ X OX  OX0
+ X OX O  0
+ X OX O  7
+ X OX O X0
+ X OX OOX0
+ X OX X O0
+ X OX X O2
+ X OX X O5
+ X OX X O7
+ X OX XO 0
+ X OX XO 2
+ X OX XO 8
+ X OX XOO0
+ X OX XOO2
+ X OX XOO5
+ X OXO   0
+ X OXO   2
+ X OXO   6
+ X OXO   7
+ X OXO   8
+ X OXO  X6
+ X OXO  X7
+ X OXO OX0
+ X OXO OX2
+ X OXO OX6
+ X OXOO X0
+ X OXOO X7
+ X OXOX  0
+ X OXOX  8
+ X OXOX O2
+ X OXOX O7
+ X OXOXO 0
+ X OXOXO 2
+ X OXOXO 8
+ X OXOXOX0
+ X OXX  O7
+ X OXX O 0
+ X OXX O 6
+ X OXX O 8
+ X OXX OO6
+ X OXXO  0
+ X OXXO  7
+ X OXXO O7
+ X OXXOO 2
+ X OXXOOX0
+ X OXXXOO2
+ X X    O2
+ X X    O4
+ X X   O 0
+ X X   O 2
+ X X   O 4
+ X X   O 6
+ X X   O 8
+ X X   OO4
+ X X  O  0
+ X X  O  2
+ X X  O  4
+ X X  O  5
+ X X  O O0
+ X X  O O2
+ X X  O O4
+ X X  O O7
+ X X  OO 2
+ X X  OO 5
+ X X  OO 8
+ X X  OOX0
+ X X  OOX2
+ X X  OOX4
+ X X  OOX5
+ X X  OXO2
+ X X  OXO4
+ X X  XOO0
+ X X  XOO2
+ X X  XOO4
+ X X  XOO5
+ X X O   0
+ X X O   4
+ X X O   6
+ X X O   7
+ X X O  O2
+ X X O  O4
+ X X O O 2
+ X X O O 4
+ X X O O 6
+ X X O O 8
+ X X O OX0
+ X X O OX6
+ X X O XO0
+ X X O XO2
+ X X O XO4
+ X X O XO6
+ X X OO  2
+ X X OO  7
+ X X OO  8
+ X X OO X0
+ X X OO X2
+ X X OO X4
+ X X OOOX0
+ X X OOOX2
+ X X OOOX4
+ X X OOX 0
+ X X OOX 4
+ X X OOXO0
+ X X OOXO2
+ X X OOXO4
+ X X OX O0
+ X X OX O2
+ X X OX O4
+ X X OXO 4
+ X X OXO 8
+ X X OXOO0
+ X X OXOO2
+ X X X OO4
+ X X X OO6
+ X X XO O4
+ X X XO O7
+ X X XOO 0
+ X X XOO 2
+ X X XOO 8
+ X XO    0
+ X XO   O2
+ X XO   O6
+ X XO   O7
+ X XO  O 0
+ X XO  O 2
+ X XO  O 5
+ X XO  O 6
+ X XO  O 8
+ X XO  OX0
+ X XO  OX2
+ X XO  XO0
+ X XO  XO2
+ X XO  XO5
+ X XO O  5
+ X XO O  8
+ X XO O X0
+ X XO O X2
+ X XO O X5
+ X XO OOX2
+ X XO OOX5
+ X XO OX 0
+ X XO OX 2
+ X XO OX 5
+ X XO OX 8
+ X XO OXO0
+ X XO OXO5
+ X XO X O0
+ X XO X O2
+ X XO X O5
+ X XO X O7
+ X XO XO 0
+ X XO XO 5
+ X XO XO 8
+ X XO XOO0
+ X XO XOO2
+ X XO XOO5
+ X XOO   0
+ X XOO   2
+ X XOO  X0
+ X XOO OX0
+ X XOO OX2
+ X XOO OX6
+ X XOO X 0
+ X XOO X 2
+ X XOO X 8
+ X XOO XO6
+ X XOOO X2
+ X XOOOX 0
+ X XOOOX 2
+ X XOOOX 8
+ X XOOOXX0
+ X XOOOXX2
+ X XOOX  0
+ X XOOX  7
+ X XOOX O0
+ X XOOXO 0
+ X XOOXO 2
+ X XOOXO 8
+ X XOOXOX0
+ X XOOXXO0
+ X XOOXXO2
+ X XOX  O0
+ X XOX  O6
+ X XOX  O7
+ X XOX O 0
+ X XOX O 2
+ X XOX O 6
+ X XOX O 8
+ X XOX OO0
+ X XOX OO2
+ X XOXO  0
+ X XOXO  2
+ X XOXO  7
+ X XOXO  8
+ X XOXO O0
+ X XOXO O7
+ X XOXOO 0
+ X XOXOO 2
+ X XOXOO 8
+ X XOXOOX2
+ X XOXOXO0
+ X XOXOXO2
+ X XOXXOO0
+ X XOXXOO2
+ X XX  OO6
+ X XX O O5
+ X XX O O7
+ X XX OO 5
+ X XX OO 8
+ X XXO  O2
+ X XXO  O7
+ X XXO O 0
+ X XXO O 2
+ X XXO O 8
+ X XXO OO0
+ X XXO OO2
+ X XXO OO6
+ X XXOO  7
+ X XXOO O2
+ X XXOO O7
+ X XXOOO 8
+ X XXOOOX0
+ X XXOXOO2
+ XO      4
+ XO     X4
+ XO    OX0
+ XO    OX3
+ XO    OX4
+ XO    OX5
+ XO    OX6
+ XO    X 3
+ XO    X 4
+ XO    X 5
+ XO    XO0
+ XO    XO3
+ XO    XO4
+ XO    XO5
+ XO    XO6
+ XO   O X3
+ XO   O X4
+ XO   OX 0
+ XO   OX 3
+ XO   OX 4
+ XO   OXX0
+ XO   OXX3
+ XO   OXX4
+ XO   X  7
+ XO   X O5
+ XO   XO 0
+ XO   XO 3
+ XO   XO 4
+ XO   XO 5
+ XO   XO 8
+ XO   XOX0
+ XO   XOX3
+ XO   XOX4
+ XO   XXO4
+ XO   XXO5
+ XO  O  X0
+ XO  O  X3
+ XO  O  X4
+ XO  O  X6
+ XO  O  X7
+ XO  O X 0
+ XO  O X 4
+ XO  O XX0
+ XO  O XX3
+ XO  O XX4
+ XO  OOXX0
+ XO  OOXX3
+ XO  OOXX4
+ XO  OX  3
+ XO  OX  4
+ XO  OX  8
+ XO  OX X0
+ XO  OX X3
+ XO  OX X4
+ XO  OX X7
+ XO  OXOX0
+ XO  OXOX3
+ XO  OXOX4
+ XO  OXX 0
+ XO  OXX 4
+ XO  OXX 8
+ XO  X   4
+ XO  X  O4
+ XO  X  O6
+ XO  X  O7
+ XO  X O 4
+ XO  X O 6
+ XO  X OX0
+ XO  X OX3
+ XO  X OX4
+ XO  X XO4
+ XO  XO  4
+ XO  XO X0
+ XO  XO X3
+ XO  XO X4
+ XO  XO X7
+ XO  XOOX4
+ XO  XOX 0
+ XO  XOX 3
+ XO  XOX 4
+ XO  XOX 8
+ XO  XX O3
+ XO  XX O4
+ XO  XXO 0
+ XO  XXO 3
+ XO  XXO 4
+ XO  XXOO0
+ XO  XXOO3
+ XO  XXOO4
+ XO O   X3
+ XO O   X6
+ XO O  X 3
+ XO O  XX6
+ XO O X  0
+ XO O X  3
+ XO O X  5
+ XO O X X7
+ XO O XOX0
+ XO O XOX3
+ XO O XOX5
+ XO O XX 8
+ XO O XXO5
+ XO OO XX3
+ XO OO XX6
+ XO OOX X0
+ XO OOX X3
+ XO OOX X7
+ XO OOXX 8
+ XO OX   6
+ XO OX  X0
+ XO OX  X3
+ XO OX  X6
+ XO OX  X7
+ XO OX OX6
+ XO OX X 0
+ XO OX X 3
+ XO OX X 6
+ XO OX X 8
+ XO OXX  0
+ XO OXX  8
+ XO OXX O0
+ XO OXXO 0
+ XO OXXO 3
+ XO OXXO 8
+ XO OXXOX0
+ XO OXXOX3
+ XO OXXXO0
+ XO OXXXO3
+ XO X    7
+ XO X   O3
+ XO X   O5
+ XO X   O7
+ XO X  O 5
+ XO X  O 8
+ XO X  OX0
+ XO X O  0
+ XO X O  3
+ XO X O  5
+ XO X O  7
+ XO X O  8
+ XO X O X3
+ XO X OOX0
+ XO X OOX3
+ XO X OOX5
+ XO X X O3
+ XO X X O5
+ XO X X O7
+ XO X XO 0
+ XO X XO 3
+ XO X XO 8
+ XO X XOO5
+ XO XO   7
+ XO XO   8
+ XO XO  X0
+ XO XO  X3
+ XO XO  X6
+ XO XO  X7
+ XO XO OX0
+ XO XO OX3
+ XO XO OX6
+ XO XOO X0
+ XO XOO X3
+ XO XOO X7
+ XO XOX  3
+ XO XOX  7
+ XO XOX  8
+ XO XOXO 8
+ XO XOXOX0
+ XO XX  O3
+ XO XX O 3
+ XO XX OO0
+ XO XX OO3
+ XO XX OO6
+ XO XXO O3
+ XO XXO O7
+ XO XXOO 0
+ XO XXOO 3
+ XO XXOO 8
+ XO XXOOX0
+ XO XXOOX3
+ XO XXXOO3
+ XOO    X6
+ XOO   X 4
+ XOO   X 5
+ XOO   X 6
+ XOO   X 8
+ XOO   XX0
+ XOO   XX5
+ XOO   XX6
+ XOO  OXX0
+ XOO  OXX4
+ XOO  X  0
+ XOO  X  4
+ XOO  X  5
+ XOO  X  7
+ XOO  X  8
+ XOO  X X0
+ XOO  XOX0
+ XOO  XOX4
+ XOO  XOX5
+ XOO  XX 4
+ XOO  XXO0
+ XOO  XXO4
+ XOO  XXO5
+ XOO O XX4
+ XOO O XX6
+ XOO OX X0
+ XOO OX X4
+ XOO OX X7
+ XOO OXX 0
+ XOO OXX 4
+ XOO OXX 8
+ XOO X   0
+ XOO X   4
+ XOO X   6
+ XOO X   7
+ XOO X  X0
+ XOO X  X4
+ XOO X  X6
+ XOO X  X7
+ XOO X OX0
+ XOO X OX4
+ XOO X OX6
+ XOO X X 4
+ XOO X X 6
+ XOO X X 8
+ XOO X XO0
+ XOO X XO4
+ XOO X XO6
+ XOO XOX 4
+ XOO XOXX0
+ XOO XOXX4
+ XOO XX  4
+ XOO XX  7
+ XOO XX  8
+ XOO XX O0
+ XOO XX O4
+ XOO XX O7
+ XOO XXO 0
+ XOO XXO 4
+ XOO XXO 8
+ XOO XXOX0
+ XOO XXOX4
+ XOO XXXO4
+ XOOO  XX6
+ XOOO X X5
+ XOOO X X7
+ XOOO XX 5
+ XOOO XX 8
+ XOOOX  X6
+ XOOOX X 6
+ XOOOX X 8
+ XOOOX XX6
+ XOOOXX  0
+ XOOOXX  7
+ XOOOXX  8
+ XOOOXX X7
+ XOOOXXOX0
+ XOOOXXX 8
+ XOOOXXXO0
+ XOOX    6
+ XOOX    7
+ XOOX   X0
+ XOOX   X5
+ XOOX   X7
+ XOOX  OX0
+ XOOX  OX5
+ XOOX  OX6
+ XOOX O X0
+ XOOX O X7
+ XOOX X  0
+ XOOX X  5
+ XOOX X  7
+ XOOX X  8
+ XOOX X O0
+ XOOX X O5
+ XOOX X O7
+ XOOX XO 0
+ XOOX XO 5
+ XOOX XO 8
+ XOOX XOX0
+ XOOXO  X0
+ XOOXO  X6
+ XOOXO  X7
+ XOOXOX  7
+ XOOXOX  8
+ XOOXOX X0
+ XOOXOX X7
+ XOOXOXOX0
+ XOOXX   7
+ XOOXX  O0
+ XOOXX  O6
+ XOOXX  O7
+ XOOXX O 0
+ XOOXX O 6
+ XOOXX O 8
+ XOOXX OX0
+ XOOXXO  0
+ XOOXXO  7
+ XOOXXO X0
+ XOOXXO X7
+ XOOXXOOX0
+ XOOXXX O7
+ XOOXXXO 0
+ XOOXXXO 8
+ XOOXXXOO0
+ XOX     0
+ XOX     4
+ XOX     8
+ XOX    O0
+ XOX    O5
+ XOX    O6
+ XOX    O7
+ XOX   O 4
+ XOX   O 6
+ XOX   O 8
+ XOX   OX0
+ XOX   OX4
+ XOX   XO0
+ XOX   XO4
+ XOX   XO5
+ XOX   XO6
+ XOX  O  0
+ XOX  O  4
+ XOX  O  5
+ XOX  O  7
+ XOX  O  8
+ XOX  O X0
+ XOX  O X4
+ XOX  O X7
+ XOX  OOX0
+ XOX  OOX4
+ XOX  OX 0
+ XOX  OX 4
+ XOX  OX 5
+ XOX  OXO0
+ XOX  OXO4
+ XOX  OXO5
+ XOX  X O0
+ XOX  X O4
+ XOX  X O5
+ XOX  XO 0
+ XOX  XOO0
+ XOX  XOO4
+ XOX  XOO5
+ XOX O   0
+ XOX O   4
+ XOX O   6
+ XOX O   8
+ XOX O OX0
+ XOX O OX4
+ XOX O OX6
+ XOX O X 0
+ XOX O X 4
+ XOX O X 8
+ XOX OO X0
+ XOX OO X4
+ XOX OO X7
+ XOX OOX 0
+ XOX OOX 4
+ XOX OOX 8
+ XOX OOXX4
+ XOX OX  0
+ XOX OX  4
+ XOX OX  7
+ XOX OX  8
+ XOX OXO 0
+ XOX OXO 4
+ XOX OXO 8
+ XOX OXOX0
+ XOX X  O0
+ XOX X  O4
+ XOX X  O6
+ XOX X  O7
+ XOX X O 0
+ XOX X O 4
+ XOX X OO4
+ XOX X OO6
+ XOX XO  0
+ XOX XO  4
+ XOX XO  7
+ XOX XO O0
+ XOX XO O4
+ XOX XO O7
+ XOX XOO 4
+ XOX XOO 8
+ XOX XOOX4
+ XOX XXOO4
+ XOXO    6
+ XOXO   X0
+ XOXO   X5
+ XOXO   X6
+ XOXO   X7
+ XOXO  OX6
+ XOXO  X 0
+ XOXO  X 5
+ XOXO  X 6
+ XOXO  X 8
+ XOXO  XO0
+ XOXO  XO5
+ XOXO  XO6
+ XOXO X  0
+ XOXO X O0
+ XOXO X O5
+ XOXO XO 0
+ XOXO XO 5
+ XOXO XO 8
+ XOXO XOX0
+ XOXO XXO0
+ XOXO XXO5
+ XOXOO  X6
+ XOXOO X 0
+ XOXOO X 6
+ XOXOO XX6
+ XOXOOX  0
+ XOXOOX  8
+ XOXOOX X0
+ XOXOOXOX0
+ XOXOOXX 8
+ XOXOX   0
+ XOXOX   6
+ XOXOX   7
+ XOXOX   8
+ XOXOX  O7
+ XOXOX O 0
+ XOXOX O 6
+ XOXOX O 8
+ XOXOX OX0
+ XOXOX OX6
+ XOXOX XO0
+ XOXOX XO6
+ XOXOXX O0
+ XOXOXXO 0
+ XOXOXXOO0
+ XOXX   O5
+ XOXX   O6
+ XOXX  O 5
+ XOXX  OO0
+ XOXX  OO5
+ XOXX O  5
+ XOXX O O5
+ XOXX O O7
+ XOXX OO 5
+ XOXX OO 8
+ XOXX OOX0
+ XOXX OOX5
+ XOXX XOO5
+ XOXXO   7
+ XOXXO   8
+ XOXXO O 0
+ XOXXO O 8
+ XOXXO OX0
+ XOXXOO  0
+ XOXXOO  7
+ XOXXOO  8
+ XOXXOO X7
+ XOXXOOOX0
+ XOXXOXO 0
+ XOXXOXO 8
+ XX     O0
+ XX     O3
+ XX     O4
+ XX     O5
+ XX     O6
+ XX    O 0
+ XX    OO0
+ XX    OO6
+ XX   O  0
+ XX   O  8
+ XX   O O0
+ XX   O O4
+ XX   O O7
+ XX   OO 0
+ XX   OO 3
+ XX   OO 8
+ XX   OOX0
+ XX   OOX3
+ XX   OOX4
+ XX   OOX5
+ XX   OXO3
+ XX  O   4
+ XX  O   6
+ XX  O  O0
+ XX  O  O3
+ XX  O  O4
+ XX  O  O7
+ XX  O O 0
+ XX  O O 3
+ XX  O O 4
+ XX  O O 8
+ XX  O OX0
+ XX  O XO3
+ XX  OO  0
+ XX  OO  3
+ XX  OO  7
+ XX  OO  8
+ XX  OO X0
+ XX  OO X3
+ XX  OO X4
+ XX  OO X7
+ XX  OOOX0
+ XX  OOOX3
+ XX  OOOX4
+ XX  OOX 0
+ XX  OOX 3
+ XX  OOX 4
+ XX  OOX 8
+ XX  OOXO0
+ XX  OOXO3
+ XX  OOXO4
+ XX  OXO 0
+ XX  OXO 4
+ XX  OXO 8
+ XX  OXOO0
+ XX  OXOO3
+ XX  OXOO4
+ XX  X OO0
+ XX  X OO3
+ XX  X OO4
+ XX  X OO6
+ XX  XO O0
+ XX  XO O3
+ XX  XO O7
+ XX  XOO 0
+ XX  XOO 8
+ XX O    0
+ XX O   O0
+ XX O   O3
+ XX O   O5
+ XX O  O 0
+ XX O  O 3
+ XX O  O 6
+ XX O  O 8
+ XX O  OX0
+ XX O  OX3
+ XX O  OX5
+ XX O  XO0
+ XX O O  0
+ XX O O  5
+ XX O O  7
+ XX O O  8
+ XX O O X0
+ XX O O X3
+ XX O OOX0
+ XX O OOX3
+ XX O OOX5
+ XX O OX 0
+ XX O OX 5
+ XX O OXO0
+ XX O OXO5
+ XX O X O0
+ XX O X O3
+ XX O X O5
+ XX O XO 0
+ XX O XOO0
+ XX OO   0
+ XX OO   8
+ XX OO  X0
+ XX OO  X3
+ XX OO  X6
+ XX OO OX0
+ XX OO OX3
+ XX OO X 0
+ XX OO X 3
+ XX OO X 6
+ XX OO XO0
+ XX OO XO3
+ XX OOO X0
+ XX OOO X3
+ XX OOOXX0
+ XX OOOXX3
+ XX OOX  0
+ XX OOX  3
+ XX OOX O0
+ XX OOX O7
+ XX OOXO 0
+ XX OOXO 3
+ XX OOXOX0
+ XX OOXOX3
+ XX OOXXO0
+ XX OOXXO3
+ XX OX  O0
+ XX OX  O6
+ XX OX OO0
+ XX OX OO3
+ XX OX OO6
+ XX OXO  8
+ XX OXO O0
+ XX OXO O3
+ XX OXO O7
+ XX OXOO 0
+ XX OXOO 3
+ XX OXOO 8
+ XX OXOXO0
+ XX OXXOO0
+ XX X  OO5
+ XX X  OO6
+ XX X O O3
+ XX X O O7
+ XX X OO 0
+ XX X OO 5
+ XX X OO 8
+ XX XO  O3
+ XX XO O 6
+ XX XO O 8
+ XX XO OO0
+ XX XO OO6
+ XX XOO  0
+ XX XOO  8
+ XX XOO O0
+ XX XOO O3
+ XX XOO O7
+ XX XOOO 0
+ XX XOOO 8
+ XX XOOOX0
+ XX XOOOX3
+ XXO     0
+ XXO     4
+ XXO     5
+ XXO     8
+ XXO    O0
+ XXO    O4
+ XXO    O6
+ XXO    O7
+ XXO   O 0
+ XXO   O 5
+ XXO   O 6
+ XXO   OX6
+ XXO   XO5
+ XXO  O  0
+ XXO  O  7
+ XXO  O  8
+ XXO  O X0
+ XXO  O X5
+ XXO  O X7
+ XXO  OOX0
+ XXO  OOX4
+ XXO  OOX5
+ XXO  OX 0
+ XXO  OX 4
+ XXO  OXO0
+ XXO  OXO4
+ XXO  OXO5
+ XXO  X O0
+ XXO  X O4
+ XXO  X O7
+ XXO  XOO0
+ XXO  XOO4
+ XXO  XOO5
+ XXO O   0
+ XXO O   4
+ XXO O   8
+ XXO O  X0
+ XXO O  X4
+ XXO O  X6
+ XXO O  X7
+ XXO O OX0
+ XXO O OX4
+ XXO O X 0
+ XXO O X 4
+ XXO O XO0
+ XXO O XO4
+ XXO O XO6
+ XXO OO X0
+ XXO OOX 0
+ XXO OOX 4
+ XXO OOX 8
+ XXO OOXX0
+ XXO OOXX4
+ XXO OX  0
+ XXO OX  4
+ XXO OX  7
+ XXO OX O0
+ XXO OX O4
+ XXO OXO 0
+ XXO OXO 4
+ XXO OXOX4
+ XXO OXXO0
+ XXO OXXO4
+ XXO X  O0
+ XXO X  O4
+ XXO X O 0
+ XXO X O 4
+ XXO X O 6
+ XXO X OO0
+ XXO X OO4
+ XXO X OO6
+ XXO XO  0
+ XXO XO  4
+ XXO XO  7
+ XXO XO  8
+ XXO XO O0
+ XXO XOO 0
+ XXO XOO 4
+ XXO XOO 8
+ XXO XOXO0
+ XXOO    0
+ XXOO    5
+ XXOO    8
+ XXOO   X5
+ XXOO   X6
+ XXOO   X7
+ XXOO  OX0
+ XXOO  OX5
+ XXOO  OX6
+ XXOO  X 0
+ XXOO  X 5
+ XXOO  X 8
+ XXOO  XO0
+ XXOO  XO6
+ XXOO O X0
+ XXOO O X5
+ XXOO OX 0
+ XXOO OX 5
+ XXOO OX 8
+ XXOO OXX0
+ XXOO OXX5
+ XXOO X  5
+ XXOO X O0
+ XXOO X O5
+ XXOO X O7
+ XXOO XO 0
+ XXOO XO 5
+ XXOO XOX5
+ XXOO XXO0
+ XXOO XXO5
+ XXOOX   0
+ XXOOX   6
+ XXOOX  O0
+ XXOOX  O6
+ XXOOX O 0
+ XXOOX O 6
+ XXOOX O 8
+ XXOOX XO0
+ XXOOXO  0
+ XXOOXO  7
+ XXOOXO  8
+ XXOOXOXO0
+ XXOOXX O0
+ XXOOXX O7
+ XXOOXXOO0
+ XXOX   O0
+ XXOX   O6
+ XXOX   O7
+ XXOX  O 6
+ XXOX  OO0
+ XXOX  OO6
+ XXOX O  0
+ XXOX O  5
+ XXOX O  8
+ XXOX O O0
+ XXOX O O7
+ XXOX OO 0
+ XXOX OOX0
+ XXOXO   7
+ XXOXO  O0
+ XXOXO  O6
+ XXOXO  O7
+ XXOXO O 0
+ XXOXO O 6
+ XXOXO O 8
+ XXOXO OX6
+ XXOXOO  0
+ XXOXOO  7
+ XXOXOO X0
+ XXOXOOOX0
+ XXOXX OO6
+ XXOXXO O0
+ XXOXXO O7
+ XXOXXOO 0
+ XXOXXOO 8
+ XXX   OO0
+ XXX   OO5
+ XXX   OO6
+ XXX  O O0
+ XXX  O O7
+ XXX  OO 0
+ XXX  OO 5
+ XXX  OO 8
+ XXX O  O4
+ XXX O  O6
+ XXX O  O7
+ XXX O O 0
+ XXX O O 4
+ XXX O O 6
+ XXX O OO0
+ XXX O OO4
+ XXX O OO6
+ XXX OO  0
+ XXX OO  4
+ XXX OO  7
+ XXX OO O0
+ XXX OO O4
+ XXX OO O7
+ XXX OOO 0
+ XXX OOO 8
+ XXX OOOX0
+ XXX OOXO4
+ XXX OXOO0
+ XXX OXOO4
+ XXXO   O0
+ XXXO   O5
+ XXXO   O7
+ XXXO  O 0
+ XXXO  OO0
+ XXXO  OO5
+ XXXO O  0
+ XXXO O O0
+ XXXO OO 0
+ XXXO OO 8
+ XXXO OXO0
+ XXXO OXO5
+ XXXO XOO0
+ XXXO XOO5
+ XXXOO   0
+ XXXOO   6
+ XXXOO  O0
+ XXXOO O 0
+ XXXOO O 6
+ XXXOO O 8
+ XXXOO OX0
+ XXXOO XO0
+ XXXOOO  0
+ XXXOOO  7
+ XXXOOO  8
+ XXXOOO X0
+ XXXOOOOX0
+ XXXOOOX 0
+ XXXOOOXO0
+ XXXOOX O0
+ XXXOOX O7
+ XXXOOXO 0
+ XXXOOXOO0
+ XXXOX OO0
+ XXXOX OO6
+ XXXOXO O0
+ XXXOXO O7
+ XXXOXOO 8
+ XXXXO OO6
+ XXXXOO O7
+ XXXXOOO 0
+ XXXXOOO 8
+O       X4
+O      X 1
+O      X 6
+O      XX1
+O      XX2
+O      XX6
+O     OXX1
+O     X  4
+O     X  8
+O     X X3
+O     XOX1
+O     XX 1
+O     XX 2
+O     XXO1
+O     XXO2
+O     XXO3
+O     XXO4
+O     XXO5
+O    O XX1
+O    O XX2
+O    O XX3
+O    O XX6
+O    OX X1
+O    OX X2
+O    OX X3
+O    OX X7
+O    OXX 2
+O    OXX 4
+O    OXX 8
+O    X   4
+O    X  X1
+O    X  X2
+O    X  X3
+O    X  X4
+O    X  X7
+O    X OX1
+O    X OX2
+O    X OX3
+O    X OX6
+O    X X 2
+O    X X 4
+O    X X 8
+O    X XO2
+O    XO X2
+O    XO X3
+O    XOXX2
+O    XOXX3
+O    XX  1
+O    XX  2
+O    XX  3
+O    XX  4
+O    XX  8
+O    XX O1
+O    XX O2
+O    XX O3
+O    XX O4
+O    XX O7
+O    XXO 1
+O    XXO 4
+O    XXO 8
+O    XXOX2
+O    XXOX4
+O    XXXO1
+O    XXXO4
+O   O  XX1
+O   O  XX2
+O   O  XX3
+O   O  XX5
+O   O  XX6
+O   O X X1
+O   O X X2
+O   O X X3
+O   O X X5
+O   O X X7
+O   O XX 8
+O   OX  X2
+O   OX X 1
+O   OX X 2
+O   OX X 3
+O   OX X 6
+O   OX X 8
+O   OX XX1
+O   OX XX2
+O   OX XX3
+O   OX XX6
+O   OXOXX2
+O   OXX  1
+O   OXX  8
+O   OXX X1
+O   OXX X7
+O   OXXOX1
+O   OXXOX2
+O   OXXX 8
+O   X    1
+O   X    2
+O   X    3
+O   X   X2
+O   X  OX6
+O   X  X 1
+O   X  XO1
+O   X  XO5
+O   X  XO6
+O   X O X3
+O   X OX 1
+O   X OX 3
+O   X OX 5
+O   X OXX1
+O   X OXX3
+O   X OXX5
+O   X X  1
+O   X X  2
+O   X X  3
+O   X X O1
+O   X X O2
+O   X X O5
+O   X XO 1
+O   X XO 2
+O   X XO 3
+O   X XO 5
+O   X XO 8
+O   X XOX2
+O   X XXO1
+O   X XXO2
+O   X XXO3
+O   XO  X1
+O   XO  X2
+O   XO  X6
+O   XO X 1
+O   XO X 2
+O   XO X 3
+O   XO X 6
+O   XO X 8
+O   XO XX1
+O   XO XX2
+O   XO XX6
+O   XOOXX1
+O   XOOXX3
+O   XOX  1
+O   XOX  2
+O   XOX  3
+O   XOX  8
+O   XOX X1
+O   XOX X3
+O   XOX X7
+O   XOXOX1
+O   XOXOX2
+O   XOXOX3
+O   XOXX 1
+O   XOXX 2
+O   XOXX 3
+O   XOXX 8
+O   XOXXO1
+O   XOXXO2
+O   XX   3
+O   XX  O1
+O   XX  O2
+O   XX  O3
+O   XX  O6
+O   XX  O7
+O   XX O 1
+O   XX O 2
+O   XX O 3
+O   XX O 6
+O   XX O 8
+O   XX OX2
+O   XXO  3
+O   XXO  7
+O   XXO X3
+O   XXOOX2
+O   XXOOX3
+O   XXOX 3
+O   XXOX 8
+O   XXOXO1
+O   XXOXO3
+O   XXX O7
+O   XXXO 3
+O   XXXOO1
+O   XXXOO2
+O   XXXOO3
+O  O   XX2
+O  O   XX5
+O  O   XX6
+O  O  X X1
+O  O  X X2
+O  O  X X4
+O  O  X X7
+O  O  XX 1
+O  O  XX 2
+O  O  XX 4
+O  O  XX 5
+O  O  XX 8
+O  O X  X2
+O  O X X 2
+O  O X X 4
+O  O X X 6
+O  O X XX1
+O  O X XX4
+O  O X XX6
+O  O XX  2
+O  O XX  8
+O  O XX X7
+O  O XXOX1
+O  O XXOX2
+O  O XXOX4
+O  O XXX 2
+O  O XXX 4
+O  O XXX 8
+O  O XXXO1
+O  O XXXO2
+O  O XXXO4
+O  OOX XX1
+O  OOX XX2
+O  OOX XX6
+O  OOXX X1
+O  OOXX X2
+O  OOXX X7
+O  OOXXX 2
+O  OOXXX 8
+O  OX   X1
+O  OX   X6
+O  OX   X7
+O  OX  X 1
+O  OX  XX1
+O  OX  XX5
+O  OX  XX6
+O  OX X  1
+O  OX X  2
+O  OX X  5
+O  OX X  7
+O  OX X  8
+O  OX X X7
+O  OX XOX1
+O  OX XOX2
+O  OX XOX5
+O  OX XXO1
+O  OX XXO2
+O  OX XXO5
+O  OXO XX1
+O  OXO XX6
+O  OXOX X1
+O  OXOX X2
+O  OXOX X7
+O  OXOXX 1
+O  OXOXX 2
+O  OXOXX 8
+O  OXX   6
+O  OXX  X2
+O  OXX  X6
+O  OXX  X7
+O  OXX OX1
+O  OXX OX2
+O  OXX OX6
+O  OXX X 1
+O  OXX X 2
+O  OXX X 6
+O  OXX XO1
+O  OXX XO6
+O  OXXX  2
+O  OXXX O1
+O  OXXX O2
+O  OXXX O7
+O  OXXXO 1
+O  OXXXO 2
+O  OXXXO 8
+O  OXXXOX2
+O  OXXXXO1
+O  OXXXXO2
+O  X     1
+O  X     4
+O  X    X2
+O  X    X4
+O  X    X5
+O  X   OX1
+O  X   OX2
+O  X   OX4
+O  X   OX5
+O  X   X 4
+O  X   XO1
+O  X   XO2
+O  X   XO4
+O  X   XO5
+O  X  O X2
+O  X  O X5
+O  X  OX 1
+O  X  OX 2
+O  X  OX 4
+O  X  OX 5
+O  X  OX 8
+O  X  OXX1
+O  X  OXX2
+O  X  OXX4
+O  X  OXX5
+O  X  X  1
+O  X  X  2
+O  X  X  5
+O  X  X  7
+O  X  X O1
+O  X  X O4
+O  X  X O5
+O  X  X O7
+O  X  XO 1
+O  X  XO 5
+O  X  XO 8
+O  X  XOX1
+O  X  XOX2
+O  X  XOX4
+O  X  XOX5
+O  X  XXO1
+O  X  XXO2
+O  X  XXO4
+O  X  XXO5
+O  X O  X1
+O  X O  X2
+O  X O X 1
+O  X O X 2
+O  X O X 6
+O  X O X 8
+O  X O XX6
+O  X OOXX1
+O  X OOXX2
+O  X OOXX4
+O  X OX  8
+O  X OX X7
+O  X OXOX1
+O  X OXOX2
+O  X OXOX4
+O  X OXX 8
+O  X OXXO1
+O  X OXXO2
+O  X OXXO4
+O  X X   4
+O  X X  O2
+O  X X  O4
+O  X X O 1
+O  X X O 2
+O  X X O 4
+O  X X O 6
+O  X X O 8
+O  X X OX2
+O  X X XO2
+O  X X XO4
+O  X XO  2
+O  X XO  4
+O  X XO X2
+O  X XO X4
+O  X XOOX1
+O  X XOOX2
+O  X XOOX4
+O  X XOX 2
+O  X XOX 8
+O  X XOXO1
+O  X XOXO4
+O  X XX O2
+O  X XX O4
+O  X XX O7
+O  X XXO 1
+O  X XXO 2
+O  X XXO 4
+O  X XXOO2
+O  X XXOO4
+O  XO   X2
+O  XO   X6
+O  XO   X7
+O  XO  X 8
+O  XO  XX6
+O  XO OXX2
+O  XO X  8
+O  XO X X7
+O  XO XOX1
+O  XO XX 8
+O  XOO XX1
+O  XOO XX2
+O  XOO XX6
+O  XOOX X1
+O  XOOX X2
+O  XOOX X7
+O  XOOXX 1
+O  XOOXX 2
+O  XOOXX 8
+O  XOX   1
+O  XOX   6
+O  XOX  X2
+O  XOX OX1
+O  XOX OX2
+O  XOX OX6
+O  XOX X 1
+O  XOX X 2
+O  XOX X 6
+O  XOX X 8
+O  XOXO X1
+O  XOXO X2
+O  XOXOXX2
+O  XOXX  1
+O  XOXX  2
+O  XOXX  7
+O  XOXX  8
+O  XOXXOX1
+O  XOXXOX2
+O  XX    5
+O  XX   O2
+O  XX   O5
+O  XX   O7
+O  XX  O 1
+O  XX  O 5
+O  XX  O 6
+O  XX  O 8
+O  XX  OX5
+O  XX  XO1
+O  XX  XO6
+O  XX O  2
+O  XX O  5
+O  XX O  7
+O  XX O  8
+O  XX O X5
+O  XX OOX1
+O  XX OOX2
+O  XX OOX5
+O  XX OX 1
+O  XX OXO1
+O  XX OXO2
+O  XX OXO5
+O  XX X O7
+O  XX XO 1
+O  XX XO 8
+O  XX XOO1
+O  XX XOO2
+O  XX XOO5
+O  XXO   1
+O  XXO   2
+O  XXO  X2
+O  XXO  X6
+O  XXO  X7
+O  XXO OX1
+O  XXO OX2
+O  XXO OX6
+O  XXO X 1
+O  XXO XO1
+O  XXO XO2
+O  XXO XO6
+O  XXOO X1
+O  XXOO X2
+O  XXOO X7
+O  XXOOX 1
+O  XXOOX 2
+O  XXOOX 8
+O  XXOOXX1
+O  XXOX  2
+O  XXOX O1
+O  XXOX O2
+O  XXOX O7
+O  XXOXO 1
+O  XXOXO 2
+O  XXOXO 8
+O  XXOXOX2
+O  XXOXXO2
+O O    XX5
+O O    XX6
+O O   X X1
+O O   X X7
+O O   XX 8
+O O  X X 1
+O O  X X 3
+O O  X X 4
+O O  X X 6
+O O  X XX1
+O O  X XX4
+O O  X XX6
+O O  XOXX1
+O O  XOXX4
+O O  XX  1
+O O  XX  3
+O O  XX X1
+O O  XX X7
+O O  XXOX1
+O O  XXOX4
+O O  XXX 1
+O O  XXX 4
+O O  XXX 8
+O O  XXXO1
+O O  XXXO3
+O O  XXXO4
+O O OX XX1
+O O OX XX3
+O O OX XX6
+O O OXX X1
+O O OXX X7
+O O OXXX 3
+O O OXXX 8
+O O X   X1
+O O X  X 1
+O O X  X 3
+O O X  X 6
+O O X  XX1
+O O X  XX6
+O O X OXX1
+O O X OXX5
+O O X X  1
+O O X X X1
+O O X X X5
+O O X X X7
+O O X XOX1
+O O X XX 1
+O O X XXO1
+O O X XXO5
+O O XO XX1
+O O XO XX6
+O O XOX X1
+O O XOX X7
+O O XOXX 1
+O O XOXX 8
+O O XX   1
+O O XX   3
+O O XX  X1
+O O XX  X3
+O O XX  X7
+O O XX OX1
+O O XX OX3
+O O XX X 1
+O O XX X 3
+O O XX XO1
+O O XX XO3
+O O XX XO6
+O O XXO X1
+O O XXO X3
+O O XXO X7
+O O XXOX 1
+O O XXOX 3
+O O XXOX 8
+O O XXOXX1
+O O XXOXX3
+O O XXX  1
+O O XXX  3
+O O XXX  7
+O O XXX O1
+O O XXX O3
+O O XXXO 1
+O O XXXO 3
+O O XXXOX1
+O O XXXOX3
+O O XXXXO1
+O OO X XX6
+O OO XX X1
+O OO XX X7
+O OO XXX 1
+O OO XXX 8
+O OOX  XX1
+O OOX  XX6
+O OOX X X1
+O OOX X X7
+O OOX XX 1
+O OOX XX 5
+O OOX XX 8
+O OOXX X 1
+O OOXX XX1
+O OOXX XX6
+O OOXXX  1
+O OOXXX X1
+O OOXXX X7
+O OOXXXOX1
+O OOXXXX 1
+O OOXXXXO1
+O OX    X1
+O OX    X7
+O OX   X 6
+O OX   XX1
+O OX   XX4
+O OX  OXX5
+O OX  X  4
+O OX  X  8
+O OX  X X1
+O OX  X X4
+O OX  X X5
+O OX  X X7
+O OX  XOX1
+O OX  XOX4
+O OX  XOX5
+O OX  XX 1
+O OX  XX 5
+O OX  XX 8
+O OX  XXO4
+O OX  XXO5
+O OX O XX1
+O OX O XX6
+O OX OX X1
+O OX OX X7
+O OX OXX 1
+O OX OXX 4
+O OX OXX 8
+O OX X   1
+O OX X   4
+O OX X   7
+O OX X  X1
+O OX X  X4
+O OX X  X6
+O OX X OX1
+O OX X OX4
+O OX X OX6
+O OX X X 1
+O OX X X 4
+O OX X X 6
+O OX X X 8
+O OX X XO4
+O OX XO X4
+O OX XO X7
+O OX XOX 1
+O OX XOX 4
+O OX XOX 8
+O OX XOXX1
+O OX XOXX4
+O OX XX  1
+O OX XX  4
+O OX XX  8
+O OX XX O4
+O OX XXO 1
+O OX XXO 4
+O OX XXO 8
+O OX XXOX1
+O OX XXOX4
+O OX XXXO1
+O OX XXXO4
+O OXO  XX5
+O OXO  XX6
+O OXO X X1
+O OXO X X7
+O OXO XX 8
+O OXOX  X7
+O OXOX X 1
+O OXOX X 6
+O OXOX X 8
+O OXOX XX1
+O OXOX XX6
+O OXOXX  1
+O OXOXX  7
+O OXOXX X1
+O OXOXX X7
+O OXOXXOX1
+O OXOXXX 1
+O OXOXXX 8
+O OXX    5
+O OXX   X1
+O OXX   X5
+O OXX   X6
+O OXX  OX1
+O OXX  OX5
+O OXX  X 1
+O OXX  X 5
+O OXX  X 8
+O OXX  XO1
+O OXX  XO5
+O OXX O X1
+O OXX O X5
+O OXX OX 1
+O OXX OX 5
+O OXX OX 8
+O OXX OXX1
+O OXX X  1
+O OXX X  5
+O OXX X  7
+O OXX X  8
+O OXX X O5
+O OXX XO 1
+O OXX XO 5
+O OXX XOX1
+O OXX XOX5
+O OXX XXO1
+O OXX XXO5
+O OXXO  X1
+O OXXO X 1
+O OXXO XX1
+O OXXOOXX1
+O OXXOX X1
+O OXXOX X7
+O OXXOXOX1
+O OXXOXX 1
+O OXXOXX 8
+O X      4
+O X     X4
+O X     X6
+O X     X7
+O X    OX1
+O X    OX3
+O X    OX4
+O X    OX5
+O X    OX6
+O X    X 4
+O X    X 5
+O X    X 8
+O X    XO3
+O X    XO4
+O X   O X3
+O X   O X5
+O X   OX 3
+O X   OXX3
+O X   OXX5
+O X   X  3
+O X   X  7
+O X   X O4
+O X   XO 3
+O X   XO 4
+O X   XO 8
+O X   XOX1
+O X   XOX3
+O X   XOX4
+O X   XOX5
+O X   XXO3
+O X   XXO4
+O X  O  X3
+O X  O  X4
+O X  O X 3
+O X  O X 4
+O X  O X 8
+O X  O XX3
+O X  O XX4
+O X  O XX6
+O X  OOXX3
+O X  OOXX4
+O X  OX  1
+O X  OX  3
+O X  OX  4
+O X  OX  7
+O X  OX X1
+O X  OX X3
+O X  OX X7
+O X  OXOX1
+O X  OXOX3
+O X  OXOX4
+O X  OXX 4
+O X  OXXO1
+O X  OXXO3
+O X  OXXO4
+O X  X   1
+O X  X   4
+O X  X   7
+O X  X   8
+O X  X  O1
+O X  X  O3
+O X  X  O4
+O X  X  O6
+O X  X O 1
+O X  X O 3
+O X  X O 8
+O X  X XO1
+O X  X XO3
+O X  X XO4
+O X  XO  3
+O X  XO  8
+O X  XOX 1
+O X  XOX 3
+O X  XOX 8
+O X  XOXO1
+O X  XOXO3
+O X  XX O3
+O X  XX O4
+O X  XXO 1
+O X  XXO 3
+O X  XXO 4
+O X  XXO 8
+O X  XXOO1
+O X  XXOO4
+O X O   X1
+O X O   X3
+O X O   X5
+O X O   X6
+O X O   X7
+O X O  X 8
+O X O  XX6
+O X O OXX3
+O X O OXX5
+O X O X  8
+O X O X X3
+O X O XOX1
+O X O XOX5
+O X O XX 3
+O X O XX 8
+O X OO XX1
+O X OO XX3
+O X OO XX6
+O X OOX X3
+O X OOX X7
+O X OOXX 1
+O X OOXX 3
+O X OOXX 8
+O X OX   1
+O X OX   8
+O X OX X 1
+O X OX X 3
+O X OX X 8
+O X OXOX 8
+O X OXX  3
+O X OXX  8
+O X OXXO 8
+O X X    6
+O X X   O1
+O X X   O3
+O X X   O5
+O X X   O6
+O X X   O7
+O X X  O 5
+O X X  O 6
+O X X  O 8
+O X X  OX1
+O X X  OX3
+O X X  OX5
+O X X  OX6
+O X X  XO1
+O X X  XO3
+O X X  XO5
+O X X  XO6
+O X X O  3
+O X X O X3
+O X X O X5
+O X X OOX3
+O X X OOX5
+O X X OX 1
+O X X OX 3
+O X X OXO1
+O X X OXO3
+O X XO   1
+O X XO   3
+O X XO   6
+O X XO  X6
+O X XO OX1
+O X XO OX3
+O X XO OX6
+O X XO X 6
+O X XO XO1
+O X XO XO3
+O X XO XO6
+O X XOO X3
+O X XOOX 1
+O X XOOX 3
+O X XOOXX1
+O X XOOXX3
+O X XX  O1
+O X XX O 1
+O X XX O 3
+O X XX O 6
+O X XX O 8
+O X XX OO1
+O X XX OO3
+O X XX OO6
+O X XXO  1
+O X XXO  3
+O X XXO O3
+O X XXOO 3
+O X XXOO 8
+O X XXOXO1
+O X XXOXO3
+O XO    X5
+O XO    X6
+O XO   X 8
+O XO   XX1
+O XO   XX4
+O XO   XX5
+O XO   XX6
+O XO  X  4
+O XO  X  5
+O XO  X  7
+O XO  X  8
+O XO  X X4
+O XO  X X5
+O XO  X X7
+O XO  XOX1
+O XO  XOX4
+O XO  XOX5
+O XO  XX 1
+O XO  XX 4
+O XO  XX 8
+O XO  XXO4
+O XO O XX4
+O XO O XX6
+O XO OX X4
+O XO OX X7
+O XO OXX 4
+O XO OXX 8
+O XO X   8
+O XO X X 1
+O XO X X 6
+O XO X X 8
+O XO X XO1
+O XO XX  1
+O XO XX O4
+O XO XXO 1
+O XO XXO 4
+O XO XXO 8
+O XO XXXO4
+O XOO  XX1
+O XOO  XX5
+O XOO  XX6
+O XOO X X1
+O XOO X X5
+O XOO X X7
+O XOO XX 1
+O XOO XX 5
+O XOO XX 8
+O XOOX X 1
+O XOOX X 8
+O XOOXX  1
+O XOOXX  8
+O XOOXXX 8
+O XOX    6
+O XOX   X6
+O XOX  OX5
+O XOX  OX6
+O XOX  X 5
+O XOX  X 6
+O XOX  X 8
+O XOX  XO1
+O XOX  XO5
+O XOX  XO6
+O XOXO  X6
+O XOXO X 1
+O XOXO X 6
+O XOXO XX1
+O XOXO XX6
+O XOXX   6
+O XOXX  O6
+O XOXX O 6
+O XOXX O 8
+O XOXX XO6
+O XX     1
+O XX     4
+O XX     5
+O XX     6
+O XX     8
+O XX    O4
+O XX   O 4
+O XX   O 8
+O XX   OX5
+O XX   XO1
+O XX   XO4
+O XX   XO5
+O XX  O  1
+O XX  O  4
+O XX  O  7
+O XX  O  8
+O XX  O X5
+O XX  OOX1
+O XX  OOX4
+O XX  OOX5
+O XX  OX 4
+O XX  OX 5
+O XX  OXO4
+O XX  X O1
+O XX  X O4
+O XX  X O7
+O XX  XO 4
+O XX  XO 5
+O XX  XOO4
+O XX  XOO5
+O XX O   4
+O XX O   6
+O XX O   8
+O XX O  X4
+O XX O  X6
+O XX O OX1
+O XX O OX4
+O XX O OX6
+O XX O X 4
+O XX O X 6
+O XX O XO4
+O XX O XO6
+O XX OO X1
+O XX OO X4
+O XX OO X7
+O XX OOX 1
+O XX OOX 4
+O XX OOX 8
+O XX OOXX1
+O XX OOXX4
+O XX OX  4
+O XX OX O1
+O XX OX O4
+O XX OXO 1
+O XX OXO 4
+O XX OXO 8
+O XX OXOX4
+O XX OXXO1
+O XX OXXO4
+O XX X  O1
+O XX X  O4
+O XX X  O6
+O XX X  O7
+O XX X O 6
+O XX X OO1
+O XX X OO4
+O XX X OO6
+O XX XO  1
+O XX XO  4
+O XX XO  7
+O XX XO  8
+O XX XO O4
+O XX XOO 4
+O XX XOO 8
+O XX XOXO4
+O XX XXOO4
+O XXO    8
+O XXO   X5
+O XXO  OX1
+O XXO  OX5
+O XXO  X 6
+O XXO  X 8
+O XXO O X1
+O XXO O X5
+O XXO O X7
+O XXO OX 8
+O XXO OXX5
+O XXO X  1
+O XXO X  5
+O XXO X  7
+O XXO X  8
+O XXO XO 1
+O XXO XO 5
+O XXO XOX1
+O XXO XOX5
+O XXOO  X1
+O XXOO  X6
+O XXOO  X7
+O XXOO X 8
+O XXOO XX6
+O XXOOOXX1
+O XXOOX  8
+O XXOOX X7
+O XXOOXOX1
+O XXOOXX 8
+O XXOX   6
+O XXOX   8
+O XXOX O 8
+O XXOXO  1
+O XXOXO  8
+O XXOXOX 8
+O XXOXXO 1
+O XXOXXO 8
+O XXX   O5
+O XXX   O6
+O XXX   O7
+O XXX  O 6
+O XXX  O 8
+O XXX  OO5
+O XXX  OO6
+O XXX O  5
+O XXX O O5
+O XXX O O7
+O XXX OO 5
+O XXX OO 8
+O XXX OOX1
+O XXX OOX5
+O XXX OXO1
+O XXX OXO5
+O XXXO   6
+O XXXO  O1
+O XXXO  O6
+O XXXO  O7
+O XXXO O 1
+O XXXO O 6
+O XXXO O 8
+O XXXO OX6
+O XXXO XO6
+O XXXOO  1
+O XXXOO  7
+O XXXOO  8
+O XXXOO X1
+O XXXOO X7
+O XXXOOOX1
+O XXXOOX 1
+O XXXOOXO1
+OO     XX2
+OO     XX6
+OO    X X7
+OO    XX 2
+OO    XX 8
+OO   X  X2
+OO   X  X6
+OO   X X 2
+OO   X X 3
+OO   X X 6
+OO   X X 8
+OO   X XX2
+OO   X XX4
+OO   XOXX2
+OO   XOXX3
+OO   XOXX4
+OO   XX X2
+OO   XX X7
+OO   XXOX2
+OO   XXOX3
+OO   XXX 2
+OO   XXX 4
+OO   XXX 8
+OO   XXXO2
+OO   XXXO3
+OO  OX XX2
+OO  OX XX3
+OO  OX XX6
+OO  OXX X2
+OO  OXX X7
+OO  OXXX 2
+OO  OXXX 8
+OO  X   X2
+OO  X   X5
+OO  X  X 2
+OO  X  XX2
+OO  X  XX3
+OO  X  XX6
+OO  X OXX2
+OO  X OXX3
+OO  X X  2
+OO  X X X2
+OO  X XOX2
+OO  X XX 2
+OO  X XX 3
+OO  X XXO2
+OO  X XXO3
+OO  XO XX2
+OO  XO XX3
+OO  XO XX6
+OO  XOX X2
+OO  XOX X7
+OO  XOXX 2
+OO  XOXX 3
+OO  XOXX 8
+OO  XX   2
+OO  XX   3
+OO  XX   6
+OO  XX   8
+OO  XX  X2
+OO  XX  X3
+OO  XX  X7
+OO  XX OX2
+OO  XX OX3
+OO  XX X 2
+OO  XX X 3
+OO  XX XO2
+OO  XX XO3
+OO  XX XO6
+OO  XXO X2
+OO  XXO X3
+OO  XXOX 2
+OO  XXOX 3
+OO  XXOX 8
+OO  XXOXX2
+OO  XXOXX3
+OO  XXX  2
+OO  XXX  7
+OO  XXX O2
+OO  XXX O3
+OO  XXXO 2
+OO  XXXO 3
+OO  XXXO 8
+OO  XXXOX2
+OO  XXXXO2
+OO O X XX2
+OO O X XX6
+OO O XX X2
+OO O XX X7
+OO O XXX 2
+OO O XXX 4
+OO O XXX 8
+OO OX  XX6
+OO OX X X2
+OO OX X X7
+OO OX XX 2
+OO OX XX 8
+OO OXX  X2
+OO OXX X 2
+OO OXX X 6
+OO OXX X 8
+OO OXX XX2
+OO OXX XX6
+OO OXXX  2
+OO OXXX  8
+OO OXXX X2
+OO OXXXOX2
+OO OXXXX 2
+OO OXXXXO2
+OO X    X2
+OO X    X4
+OO X    X6
+OO X    X7
+OO X   X 2
+OO X   X 4
+OO X   X 5
+OO X   X 8
+OO X   XX2
+OO X   XX6
+OO X  OXX2
+OO X  OXX5
+OO X  X X2
+OO X  X X4
+OO X  X X5
+OO X  XOX2
+OO X  XOX4
+OO X  XOX5
+OO X  XX 2
+OO X  XX 4
+OO X  XX 5
+OO X  XX 8
+OO X  XXO2
+OO X  XXO5
+OO X O XX2
+OO X O XX6
+OO X OX X2
+OO X OX X7
+OO X X   2
+OO X X   4
+OO X X   6
+OO X X   7
+OO X X   8
+OO X X  X2
+OO X X  X6
+OO X X  X7
+OO X X OX2
+OO X X OX4
+OO X X OX6
+OO X X X 2
+OO X X X 4
+OO X X X 6
+OO X X X 8
+OO X X XO2
+OO X X XO4
+OO X XO X2
+OO X XO X4
+OO X XOX 2
+OO X XOX 4
+OO X XOX 8
+OO X XOXX2
+OO X XX  2
+OO X XX  4
+OO X XX O4
+OO X XXO 4
+OO X XXO 8
+OO X XXOX2
+OO X XXOX4
+OO X XXXO2
+OO X XXXO4
+OO XO  XX2
+OO XO  XX6
+OO XO X X7
+OO XO XX 8
+OO XOX  X2
+OO XOX  X6
+OO XOX  X7
+OO XOX X 8
+OO XOX XX2
+OO XOXOXX2
+OO XOXX  2
+OO XOXX  7
+OO XOXX  8
+OO XOXX X2
+OO XOXX X7
+OO XOXXX 2
+OO XOXXX 8
+OO XX    2
+OO XX    5
+OO XX    7
+OO XX    8
+OO XX   X2
+OO XX   X5
+OO XX  OX2
+OO XX  OX5
+OO XX  OX6
+OO XX  X 2
+OO XX  X 5
+OO XX  XO2
+OO XX  XO5
+OO XX  XO6
+OO XX O X2
+OO XX O X5
+OO XX OX 2
+OO XX OX 5
+OO XX OX 8
+OO XX OXX2
+OO XX OXX5
+OO XX X  2
+OO XX X O2
+OO XX X O5
+OO XX XO 2
+OO XX XO 5
+OO XX XOX2
+OO XX XXO2
+OO XXO  X2
+OO XXO X 2
+OO XXO XX2
+OO XXO XX6
+OO XXOOXX2
+OO XXOX  2
+OO XXOX  7
+OO XXOX  8
+OO XXOX X2
+OO XXOXOX2
+OO XXOXX 2
+OO XXOXX 8
+OO XXOXXO2
+OOX     X3
+OOX     X5
+OOX     X6
+OOX     X7
+OOX    X 3
+OOX    X 4
+OOX    X 6
+OOX    X 8
+OOX    XX3
+OOX    XX4
+OOX    XX5
+OOX   OXX3
+OOX   OXX5
+OOX   X  3
+OOX   X  4
+OOX   X  5
+OOX   X  7
+OOX   X  8
+OOX   X X4
+OOX   XOX4
+OOX   XOX5
+OOX   XX 3
+OOX   XX 4
+OOX   XX 5
+OOX   XX 8
+OOX   XXO3
+OOX   XXO4
+OOX   XXO5
+OOX  O XX3
+OOX  O XX4
+OOX  O XX6
+OOX  OX X3
+OOX  OX X4
+OOX  OX X7
+OOX  OXX 3
+OOX  OXX 4
+OOX  OXX 8
+OOX  X   4
+OOX  X   6
+OOX  X   8
+OOX  X X 3
+OOX  X XO4
+OOX  XOX 3
+OOX  XOX 4
+OOX  XOX 8
+OOX  XX  8
+OOX  XX O3
+OOX  XX O4
+OOX  XXO 4
+OOX  XXO 8
+OOX  XXXO4
+OOX O  XX3
+OOX O  XX5
+OOX O  XX6
+OOX O X X3
+OOX O X X5
+OOX O X X7
+OOX O XX 8
+OOX OX X 3
+OOX OX X 8
+OOX OXX  3
+OOX OXX  8
+OOX OXXX 8
+OOX X    3
+OOX X    5
+OOX X    6
+OOX X    8
+OOX X   X7
+OOX X  OX3
+OOX X  OX5
+OOX X  OX6
+OOX X  X 6
+OOX X  XO3
+OOX X  XO5
+OOX X  XO6
+OOX X O X3
+OOX X O X5
+OOX X OX 3
+OOX X OXX3
+OOX X OXX5
+OOX XO  X3
+OOX XO  X6
+OOX XO  X7
+OOX XO X 3
+OOX XO X 6
+OOX XO X 8
+OOX XO XX3
+OOX XO XX6
+OOX XOOXX3
+OOX XX   6
+OOX XX   7
+OOX XX  O3
+OOX XX  O6
+OOX XX  O7
+OOX XX O 3
+OOX XX O 6
+OOX XX O 8
+OOX XX XO6
+OOX XXO  3
+OOX XXO  8
+OOX XXOX 3
+OOX XXOXO3
+OOXO   XX4
+OOXO   XX5
+OOXO   XX6
+OOXO  X X4
+OOXO  X X5
+OOXO  X X7
+OOXO  XX 4
+OOXO  XX 5
+OOXO  XX 8
+OOXO X X 4
+OOXO X X 6
+OOXO X X 8
+OOXO XX  4
+OOXO XX  7
+OOXO XX  8
+OOXO XXX 4
+OOXO XXXO4
+OOXOOXXX 8
+OOXOX   X5
+OOXOX   X6
+OOXOX  X 6
+OOXOX  XX6
+OOXOXO XX6
+OOXOXX   6
+OOXOXX   7
+OOXOXX   8
+OOXOXX X 6
+OOXOXX X 8
+OOXOXX XO6
+OOXX     4
+OOXX     5
+OOXX     6
+OOXX     7
+OOXX     8
+OOXX    X5
+OOXX   OX4
+OOXX   OX5
+OOXX   OX6
+OOXX   X 4
+OOXX   X 5
+OOXX   X 6
+OOXX   X 8
+OOXX   XO4
+OOXX   XO5
+OOXX   XO6
+OOXX  O X4
+OOXX  O X5
+OOXX  O X7
+OOXX  OX 4
+OOXX  OX 5
+OOXX  OX 8
+OOXX  OXX5
+OOXX  X  4
+OOXX  X O4
+OOXX  X O5
+OOXX  X O7
+OOXX  XO 4
+OOXX  XOX4
+OOXX  XXO4
+OOXX O  X4
+OOXX O  X6
+OOXX O  X7
+OOXX O X 4
+OOXX O X 6
+OOXX O X 8
+OOXX O XX6
+OOXX OOXX4
+OOXX OX  4
+OOXX OX  7
+OOXX OX  8
+OOXX OX X4
+OOXX OXOX4
+OOXX OXX 4
+OOXX OXX 8
+OOXX OXXO4
+OOXX X   4
+OOXX X   8
+OOXX X  O4
+OOXX X  O6
+OOXX X  O7
+OOXX X O 4
+OOXX X O 6
+OOXX X O 8
+OOXX X XO4
+OOXX XO  4
+OOXX XO  7
+OOXX XO  8
+OOXX XOX 8
+OOXX XOXO4
+OOXX XX O4
+OOXX XXO 4
+OOXX XXOO4
+OOXXO   X5
+OOXXO   X7
+OOXXO  X 5
+OOXXO  X 8
+OOXXO  XX5
+OOXXO  XX6
+OOXXO OXX5
+OOXXO X  5
+OOXXO X  8
+OOXXO X X7
+OOXXO XX 8
+OOXXOO XX6
+OOXXOOX X7
+OOXXOOXX 8
+OOXXOX   8
+OOXXOX X 8
+OOXXOXOX 8
+OOXXOXX  7
+OOXXOXX  8
+OOXXX    5
+OOXXX   O5
+OOXXX   O6
+OOXXX   O7
+OOXXX  O 5
+OOXXX  O 6
+OOXXX  O 8
+OOXXX  OX5
+OOXXX  XO5
+OOXXX  XO6
+OOXXX O  5
+OOXXX O  7
+OOXXX O  8
+OOXXX O X5
+OOXXX OOX5
+OOXXX OX 5
+OOXXX OXO5
+OOXXXO   6
+OOXXXO   7
+OOXXXO   8
+OOXXXO  X6
+OOXXXO OX6
+OOXXXO X 6
+OOXXXO XO6
+OOXXXOO X7
+OOXXXOOX 8
+OX       3
+OX       4
+OX       6
+OX      X2
+OX      X6
+OX      X7
+OX     OX2
+OX     OX3
+OX     OX4
+OX     OX5
+OX     OX6
+OX     X 2
+OX     X 4
+OX     X 5
+OX     X 8
+OX     XO2
+OX     XO3
+OX     XO4
+OX     XO5
+OX     XO6
+OX    O X2
+OX    O X3
+OX    O X5
+OX    OX 4
+OX    OX 8
+OX    OXX3
+OX    OXX4
+OX    OXX5
+OX    X  4
+OX    X O2
+OX    X O3
+OX    X O5
+OX    X O7
+OX    XO 2
+OX    XO 3
+OX    XO 4
+OX    XO 8
+OX    XOX2
+OX    XXO2
+OX    XXO4
+OX    XXO5
+OX   O  X2
+OX   O  X3
+OX   O  X4
+OX   O  X6
+OX   O  X7
+OX   O X 2
+OX   O X 3
+OX   O X 4
+OX   O X 8
+OX   O XX2
+OX   O XX3
+OX   O XX4
+OX   O XX6
+OX   OOXX2
+OX   OOXX3
+OX   OOXX4
+OX   OX  4
+OX   OX  8
+OX   OX X2
+OX   OX X7
+OX   OXOX2
+OX   OXOX3
+OX   OXOX4
+OX   OXX 2
+OX   OXXO2
+OX   OXXO4
+OX   X   4
+OX   X   6
+OX   X  O3
+OX   X  O4
+OX   X  O7
+OX   X O 2
+OX   X O 3
+OX   X O 8
+OX   X OX2
+OX   X XO2
+OX   X XO3
+OX   X XO4
+OX   X XO6
+OX   XO  2
+OX   XO  3
+OX   XO  4
+OX   XO  7
+OX   XO  8
+OX   XO X2
+OX   XO X3
+OX   XO X4
+OX   XOOX2
+OX   XOOX3
+OX   XOOX4
+OX   XOX 2
+OX   XOX 3
+OX   XOX 4
+OX   XOX 8
+OX   XOXO2
+OX   XOXO4
+OX   XX O2
+OX   XX O3
+OX   XX O4
+OX   XX O7
+OX   XXO 2
+OX   XXO 4
+OX   XXOO4
+OX  O   X2
+OX  O   X3
+OX  O   X5
+OX  O   X6
+OX  O   X7
+OX  O  X 3
+OX  O  XX6
+OX  O X  8
+OX  O X X7
+OX  O XOX2
+OX  O XOX3
+OX  O XOX5
+OX  O XX 8
+OX  OO XX2
+OX  OO XX3
+OX  OO XX6
+OX  OOX X2
+OX  OOX X3
+OX  OOX X7
+OX  OOXX 8
+OX  OX   8
+OX  OX  X2
+OX  OX OX2
+OX  OX OX3
+OX  OX OX6
+OX  OX X 3
+OX  OX X 6
+OX  OX X 8
+OX  OXO X2
+OX  OXO X7
+OX  OXOX 2
+OX  OXOX 8
+OX  OXOXX2
+OX  OXOXX3
+OX  OXX  2
+OX  OXX  7
+OX  OXX  8
+OX  OXXO 8
+OX  OXXOX2
+OX  X    7
+OX  X   O2
+OX  X   O3
+OX  X   O6
+OX  X   O7
+OX  X  O 6
+OX  X  OX2
+OX  X  OX3
+OX  X  OX5
+OX  X O  2
+OX  X O  3
+OX  X O  7
+OX  X O X2
+OX  X O X3
+OX  X O X5
+OX  X O X7
+OX  X OOX3
+OX  X XO 2
+OX  X XOO2
+OX  X XOO3
+OX  X XOO5
+OX  XO   6
+OX  XO   7
+OX  XO   8
+OX  XO  X2
+OX  XO  X6
+OX  XO  X7
+OX  XO OX2
+OX  XO OX3
+OX  XO OX6
+OX  XOO X2
+OX  XOO X3
+OX  XOO X7
+OX  XOX  3
+OX  XOX  7
+OX  XOX O2
+OX  XOX O7
+OX  XOXO 2
+OX  XOXO 3
+OX  XOXO 8
+OX  XOXOX2
+OX  XX  O2
+OX  XX  O6
+OX  XX O 3
+OX  XX OO3
+OX  XX OO6
+OX  XXO  3
+OX  XXO O2
+OX  XXO O3
+OX  XXO O7
+OX  XXOO 3
+OX  XXOO 8
+OX  XXOOX3
+OX  XXXOO3
+OX O    X6
+OX O   X 4
+OX O   X 6
+OX O   X 8
+OX O   XX2
+OX O   XX5
+OX O   XX6
+OX O  X  4
+OX O  X  5
+OX O  X  7
+OX O  X  8
+OX O  X X2
+OX O  X X4
+OX O  X X5
+OX O  X X7
+OX O  XOX2
+OX O  XOX4
+OX O  XOX5
+OX O  XX 2
+OX O  XX 4
+OX O  XX 5
+OX O  XX 8
+OX O  XXO4
+OX O  XXO5
+OX O O XX4
+OX O O XX6
+OX O OX X2
+OX O OX X4
+OX O OX X7
+OX O OXX 2
+OX O OXX 4
+OX O OXX 8
+OX O X   2
+OX O X   4
+OX O X   6
+OX O X   7
+OX O X   8
+OX O X  X2
+OX O X  X4
+OX O X  X6
+OX O X  X7
+OX O X OX2
+OX O X OX6
+OX O X X 6
+OX O X X 8
+OX O X XO4
+OX O X XO6
+OX O XX  7
+OX O XX  8
+OX O XX O4
+OX O XXO 2
+OX O XXO 4
+OX O XXO 8
+OX O XXOX2
+OX O XXXO4
+OX OO  XX2
+OX OO  XX5
+OX OO  XX6
+OX OO X X2
+OX OO X X5
+OX OO X X7
+OX OO XX 8
+OX OOX  X2
+OX OOX  X6
+OX OOX  X7
+OX OOX X 8
+OX OOX XX6
+OX OOXX  2
+OX OOXX  8
+OX OOXX X2
+OX OOXX X7
+OX OOXXOX2
+OX OOXXX 8
+OX OX    2
+OX OX    5
+OX OX    6
+OX OX    7
+OX OX   X6
+OX OX  OX6
+OX OX X  2
+OX OX X  5
+OX OX X  7
+OX OX X O2
+OX OX X O5
+OX OX X O7
+OX OX XO 2
+OX OX XO 5
+OX OX XO 8
+OX OX XOX2
+OX OXO  X6
+OX OXO  X7
+OX OXOX  2
+OX OXOX  7
+OX OXOX  8
+OX OXOX X7
+OX OXOXOX2
+OX OXX   6
+OX OXX   7
+OX OXX  O6
+OX OXX  O7
+OX OXX O 6
+OX OXX O 8
+OX OXX OX2
+OX OXX OX6
+OX OXXX O7
+OX OXXXO 2
+OX OXXXOO2
+OX X     4
+OX X    O4
+OX X   O 2
+OX X   O 4
+OX X   O 5
+OX X   O 6
+OX X   O 8
+OX X   OX4
+OX X   OX5
+OX X   XO2
+OX X   XO4
+OX X   XO5
+OX X   XO6
+OX X  O  4
+OX X  O  8
+OX X  O X5
+OX X  OOX2
+OX X  OOX4
+OX X  OOX5
+OX X  OX 4
+OX X  OX 8
+OX X  OXO4
+OX X  X O2
+OX X  X O4
+OX X  X O5
+OX X  XO 2
+OX X  XO 4
+OX X  XO 5
+OX X  XO 8
+OX X  XOO2
+OX X  XOO4
+OX X O   2
+OX X O   4
+OX X O   6
+OX X O   8
+OX X O  X4
+OX X O  X7
+OX X O OX2
+OX X O OX4
+OX X O OX6
+OX X O X 4
+OX X O X 8
+OX X O XO4
+OX X OO X2
+OX X OO X4
+OX X OO X7
+OX X OOXX4
+OX X OX  2
+OX X OX  4
+OX X OX  7
+OX X OX  8
+OX X OX O4
+OX X OX O7
+OX X OXO 2
+OX X OXO 4
+OX X OXO 8
+OX X OXOX2
+OX X OXOX4
+OX X OXXO2
+OX X OXXO4
+OX X X  O2
+OX X X  O4
+OX X X  O6
+OX X X  O7
+OX X X O 2
+OX X X O 4
+OX X X O 6
+OX X X O 8
+OX X X OO4
+OX X X OO6
+OX X XO  2
+OX X XO  4
+OX X XO  7
+OX X XO  8
+OX X XO O4
+OX X XOO 2
+OX X XOO 4
+OX X XOO 8
+OX X XOOX4
+OX X XOXO2
+OX X XOXO4
+OX X XXOO4
+OX XO    8
+OX XO   X2
+OX XO   X6
+OX XO   X7
+OX XO  OX2
+OX XO  OX5
+OX XO  OX6
+OX XO  X 2
+OX XO  X 5
+OX XO  X 6
+OX XO  X 8
+OX XO O X2
+OX XO OX 2
+OX XO OX 8
+OX XO OXX2
+OX XO OXX5
+OX XO X  2
+OX XO X  7
+OX XO X  8
+OX XO XO 2
+OX XO XO 8
+OX XO XOX2
+OX XO XOX5
+OX XOO  X2
+OX XOO  X6
+OX XOO  X7
+OX XOO X 2
+OX XOO X 6
+OX XOO X 8
+OX XOO XX6
+OX XOOOXX2
+OX XOOX  8
+OX XOOX X7
+OX XOOXOX2
+OX XOOXX 8
+OX XOX   2
+OX XOX   6
+OX XOX   8
+OX XOX O 2
+OX XOX O 6
+OX XOX O 8
+OX XOX OX2
+OX XOXO  8
+OX XOXO X2
+OX XOXOOX2
+OX XOXOX 2
+OX XOXOX 8
+OX XOXXO 2
+OX XOXXO 8
+OX XX   O6
+OX XX   O7
+OX XX  O 5
+OX XX  OO5
+OX XX  OO6
+OX XX O  5
+OX XX O  7
+OX XX O O5
+OX XX O O7
+OX XX OO 5
+OX XX OO 8
+OX XX OOX5
+OX XX XOO2
+OX XX XOO5
+OX XXO   7
+OX XXO  O2
+OX XXO  O7
+OX XXO O 2
+OX XXO O 6
+OX XXO O 8
+OX XXO OX2
+OX XXO OX6
+OX XXOO  2
+OX XXOO  7
+OX XXOO  8
+OX XXOO X7
+OX XXOOOX2
+OX XXOX O2
+OX XXOXO 2
+OX XXOXOO2
+OXO     X3
+OXO     X4
+OXO     X5
+OXO     X6
+OXO     X7
+OXO    X 4
+OXO    X 5
+OXO    X 6
+OXO    X 8
+OXO    XX4
+OXO    XX5
+OXO   OXX4
+OXO   X  4
+OXO   X  5
+OXO   X  7
+OXO   X  8
+OXO   X X7
+OXO   XOX3
+OXO   XOX4
+OXO   XOX5
+OXO   XX 8
+OXO   XXO3
+OXO   XXO4
+OXO   XXO5
+OXO  O XX3
+OXO  O XX4
+OXO  O XX6
+OXO  OX X3
+OXO  OX X4
+OXO  OX X7
+OXO  OXX 3
+OXO  OXX 4
+OXO  OXX 8
+OXO  X   7
+OXO  X  X3
+OXO  X  X4
+OXO  X  X6
+OXO  X  X7
+OXO  X OX3
+OXO  X OX4
+OXO  X OX6
+OXO  X X 3
+OXO  X X 4
+OXO  X X 6
+OXO  X X 8
+OXO  X XO3
+OXO  X XO4
+OXO  XO X4
+OXO  XOX 4
+OXO  XOX 8
+OXO  XOXX3
+OXO  XOXX4
+OXO  XX  4
+OXO  XX  7
+OXO  XX O4
+OXO  XXO 3
+OXO  XXO 4
+OXO  XXO 8
+OXO  XXOX3
+OXO  XXOX4
+OXO  XXXO4
+OXO O  XX3
+OXO O  XX5
+OXO O  XX6
+OXO O X X3
+OXO O X X5
+OXO O X X7
+OXO O XX 3
+OXO O XX 8
+OXO OX  X3
+OXO OX  X6
+OXO OX  X7
+OXO OX X 3
+OXO OX X 6
+OXO OX X 8
+OXO OX XX6
+OXO OXX  8
+OXO OXX X7
+OXO OXXOX3
+OXO OXXX 8
+OXO X    3
+OXO X    5
+OXO X    6
+OXO X    7
+OXO X    8
+OXO X   X7
+OXO X  OX3
+OXO X  OX5
+OXO X  OX6
+OXO X O X3
+OXO X O X7
+OXO X X  7
+OXO X X O3
+OXO X X O5
+OXO X X O7
+OXO X XO 3
+OXO X XO 5
+OXO X XO 8
+OXO X XOX3
+OXO X XOX5
+OXO XO  X3
+OXO XO  X6
+OXO XO  X7
+OXO XOX  3
+OXO XOX  7
+OXO XOX  8
+OXO XOX X7
+OXO XOXOX3
+OXO XX   3
+OXO XX   8
+OXO XX  O3
+OXO XX  O6
+OXO XX  O7
+OXO XX O 3
+OXO XX O 6
+OXO XX O 8
+OXO XX OX3
+OXO XXO  3
+OXO XXO  7
+OXO XXO X3
+OXO XXOOX3
+OXO XXX O3
+OXO XXXO 3
+OXO XXXOO3
+OXOO   XX4
+OXOO   XX5
+OXOO   XX6
+OXOO  X X4
+OXOO  X X5
+OXOO  X X7
+OXOO  XX 4
+OXOO  XX 5
+OXOO  XX 8
+OXOO X  X4
+OXOO X  X6
+OXOO X X 4
+OXOO X X 6
+OXOO X X 8
+OXOO X XX6
+OXOO XX  4
+OXOO XX  7
+OXOO XX  8
+OXOO XX X7
+OXOO XXOX4
+OXOO XXX 8
+OXOO XXXO4
+OXOOOX XX6
+OXOOOXX X7
+OXOOOXXX 8
+OXOOX   X6
+OXOOX   X7
+OXOOX X  5
+OXOOX X  7
+OXOOX X  8
+OXOOX X X7
+OXOOX XOX5
+OXOOXOX X7
+OXOOXX   6
+OXOOXX   7
+OXOOXX   8
+OXOOXX  X6
+OXOOXX  X7
+OXOOXX OX6
+OXOOXXX  7
+OXOOXXX O7
+OXOOXXXO 8
+OXOX     4
+OXOX     5
+OXOX     6
+OXOX     7
+OXOX     8
+OXOX    X4
+OXOX    X7
+OXOX   OX4
+OXOX   OX5
+OXOX   OX6
+OXOX   X 4
+OXOX   X 6
+OXOX   X 8
+OXOX   XO4
+OXOX   XO5
+OXOX   XO6
+OXOX  O X4
+OXOX  OX 4
+OXOX  OX 5
+OXOX  OX 8
+OXOX  OXX4
+OXOX  OXX5
+OXOX  X  5
+OXOX  X  7
+OXOX  X  8
+OXOX  X O7
+OXOX  XO 4
+OXOX  XO 5
+OXOX  XO 8
+OXOX  XOX4
+OXOX  XOX5
+OXOX  XXO4
+OXOX  XXO5
+OXOX O  X4
+OXOX O  X6
+OXOX O  X7
+OXOX O X 4
+OXOX O X 6
+OXOX O X 8
+OXOX O XX4
+OXOX O XX6
+OXOX OOXX4
+OXOX OX  4
+OXOX OX  7
+OXOX OX  8
+OXOX OX X7
+OXOX OXOX4
+OXOX OXX 8
+OXOX X   4
+OXOX X   7
+OXOX X  O4
+OXOX X  O6
+OXOX X  O7
+OXOX X O 4
+OXOX X O 6
+OXOX X O 8
+OXOX X OX4
+OXOX X XO4
+OXOX XO  4
+OXOX XO  7
+OXOX XO X4
+OXOX XO X7
+OXOX XOOX4
+OXOX XOX 4
+OXOX XOXO4
+OXOX XX O4
+OXOX XX O7
+OXOX XXO 4
+OXOX XXOO4
+OXOXO   X6
+OXOXO  X 5
+OXOXO  X 6
+OXOXO  X 8
+OXOXO  XX5
+OXOXO  XX6
+OXOXO X  8
+OXOXO X X7
+OXOXO XOX5
+OXOXO XX 8
+OXOXOO XX6
+OXOXOOX X7
+OXOXOOXX 8
+OXOXOX   7
+OXOXOX   8
+OXOXOX  X6
+OXOXOX  X7
+OXOXOX OX6
+OXOXOX X 6
+OXOXOX X 8
+OXOXOXX  7
+OXOXOXX  8
+OXOXOXXO 8
+OXOXX    5
+OXOXX    7
+OXOXX    8
+OXOXX   O5
+OXOXX   O7
+OXOXX  O 5
+OXOXX  O 6
+OXOXX  O 8
+OXOXX  OX5
+OXOXX O  5
+OXOXX O  7
+OXOXX O  8
+OXOXX O X5
+OXOXX O X7
+OXOXX OOX5
+OXOXX X O5
+OXOXX XO 5
+OXOXX XOO5
+OXOXXO   7
+OXOXXO   8
+OXOXXO  X7
+OXOXXO OX6
+OXOXXOO X7
+OXOXXOX  7
+OXOXXOX  8
+OXOXXOXO 8
+OXX      3
+OXX      4
+OXX      5
+OXX      8
+OXX     O5
+OXX     O6
+OXX    O 8
+OXX    OX5
+OXX    XO4
+OXX   O  4
+OXX   O X3
+OXX   O X4
+OXX   O X5
+OXX   O X7
+OXX   OOX3
+OXX   OOX4
+OXX   OOX5
+OXX   OX 3
+OXX   OX 4
+OXX   OX 5
+OXX   OX 8
+OXX   OXO3
+OXX   OXO4
+OXX   OXO5
+OXX   X O3
+OXX   X O4
+OXX   X O7
+OXX   XO 4
+OXX   XOO3
+OXX   XOO4
+OXX   XOO5
+OXX  O   3
+OXX  O   4
+OXX  O   6
+OXX  O   8
+OXX  O  X3
+OXX  O  X4
+OXX  O  X6
+OXX  O  X7
+OXX  O OX3
+OXX  O OX4
+OXX  O OX6
+OXX  O X 4
+OXX  O X 6
+OXX  O XO3
+OXX  O XO4
+OXX  O XO6
+OXX  OO X3
+OXX  OO X4
+OXX  OOX 3
+OXX  OOX 4
+OXX  OOX 8
+OXX  OOXX3
+OXX  OOXX4
+OXX  OX  3
+OXX  OX  4
+OXX  OX  7
+OXX  OX  8
+OXX  OX O4
+OXX  OXO 3
+OXX  OXO 4
+OXX  OXO 8
+OXX  OXOX4
+OXX  OXXO3
+OXX  OXXO4
+OXX  X  O3
+OXX  X  O4
+OXX  X  O6
+OXX  X  O7
+OXX  X O 3
+OXX  X O 4
+OXX  X O 6
+OXX  X O 8
+OXX  X OO6
+OXX  XO  3
+OXX  XO  7
+OXX  XO  8
+OXX  XO O3
+OXX  XOO 3
+OXX  XOO 8
+OXX  XOXO3
+OXX  XOXO4
+OXX  XXOO3
+OXX  XXOO4
+OXX O    8
+OXX O   X5
+OXX O  OX3
+OXX O  OX5
+OXX O  OX6
+OXX O  X 3
+OXX O  X 5
+OXX O  X 6
+OXX O  X 8
+OXX O O X3
+OXX O O X5
+OXX O OX 3
+OXX O OXX3
+OXX O OXX5
+OXX O X  3
+OXX O X  5
+OXX O X  7
+OXX O X  8
+OXX O XO 8
+OXX O XOX5
+OXX OO  X3
+OXX OO X 8
+OXX OO XX3
+OXX OO XX6
+OXX OOOXX3
+OXX OOX  3
+OXX OOX  7
+OXX OOX  8
+OXX OOX X3
+OXX OOX X7
+OXX OOXOX3
+OXX OOXX 3
+OXX OOXX 8
+OXX OX   8
+OXX OX O 3
+OXX OX O 8
+OXX OXO  3
+OXX OXO  8
+OXX OXOX 3
+OXX OXOX 8
+OXX OXXO 8
+OXX X   O5
+OXX X  O 6
+OXX X  OO3
+OXX X  OO6
+OXX X O  3
+OXX X O  5
+OXX X O  7
+OXX X O O7
+OXX X OO 3
+OXX X OO 5
+OXX X OO 8
+OXX X OOX3
+OXX X OOX5
+OXX XO   6
+OXX XO   7
+OXX XO  O3
+OXX XO  O6
+OXX XO  O7
+OXX XO O 3
+OXX XO O 6
+OXX XO O 8
+OXX XO OX6
+OXX XOO  3
+OXX XOO  7
+OXX XOO X3
+OXX XOO X7
+OXX XOOOX3
+OXX XX OO6
+OXX XXO O3
+OXX XXO O7
+OXX XXOO 3
+OXX XXOO 8
+OXXO     4
+OXXO     8
+OXXO    X5
+OXXO    X6
+OXXO   OX5
+OXXO   OX6
+OXXO   X 4
+OXXO   X 5
+OXXO   X 6
+OXXO   XO4
+OXXO  X  4
+OXXO  X  5
+OXXO  X  7
+OXXO  X  8
+OXXO  X O4
+OXXO  X O5
+OXXO  XO 4
+OXXO  XO 5
+OXXO  XO 8
+OXXO  XOX5
+OXXO  XXO4
+OXXO O  X6
+OXXO O X 4
+OXXO O XX4
+OXXO O XX6
+OXXO OX  4
+OXXO OX  7
+OXXO OX  8
+OXXO OX X4
+OXXO OX X7
+OXXO OXOX4
+OXXO OXX 4
+OXXO OXX 8
+OXXO OXXO4
+OXXO X   6
+OXXO X   7
+OXXO X  O6
+OXXO X  O7
+OXXO X O 4
+OXXO X O 6
+OXXO X O 8
+OXXO X XO4
+OXXO X XO6
+OXXO XX O4
+OXXO XXO 4
+OXXO XXO 8
+OXXO XXOO4
+OXXOO   X5
+OXXOO  X 5
+OXXOO  XX5
+OXXOO  XX6
+OXXOO X  8
+OXXOO X X5
+OXXOO XOX5
+OXXOO XX 5
+OXXOO XX 8
+OXXOOX   8
+OXXOOX X 6
+OXXOOX X 8
+OXXOOXX  8
+OXXOOXXO 8
+OXXOX    5
+OXXOX    6
+OXXOX    7
+OXXOX   O6
+OXXOX   O7
+OXXOX  O 6
+OXXOX  OX6
+OXXOXO   6
+OXXOXO   7
+OXXOXO  X6
+OXXOXO OX6
+OXXOXX  O6
+OXXOXX  O7
+OXXOXX O 6
+OXXOXX OO6
+OXXX    O4
+OXXX    O5
+OXXX    O6
+OXXX    O7
+OXXX   O 4
+OXXX   O 5
+OXXX   O 6
+OXXX   O 8
+OXXX   OO4
+OXXX   OO5
+OXXX   OO6
+OXXX  O  4
+OXXX  O  5
+OXXX  O  7
+OXXX  O  8
+OXXX  O O5
+OXXX  O O7
+OXXX  OO 4
+OXXX  OO 8
+OXXX  OOX5
+OXXX  OXO4
+OXXX  XOO4
+OXXX  XOO5
+OXXX O   4
+OXXX O   6
+OXXX O   7
+OXXX O  O4
+OXXX O  O6
+OXXX O O 4
+OXXX O O 6
+OXXX O O 8
+OXXX O OX4
+OXXX O OX6
+OXXX O XO4
+OXXX OO  4
+OXXX OO  7
+OXXX OO  8
+OXXX OO X4
+OXXX OO X7
+OXXX OOOX4
+OXXX OOX 4
+OXXX OOXO4
+OXXX OX O4
+OXXX OXO 4
+OXXX OXOO4
+OXXX X OO4
+OXXX X OO6
+OXXX XO O4
+OXXX XO O7
+OXXX XOO 4
+OXXX XOO 8
+OXXXO    5
+OXXXO    6
+OXXXO    7
+OXXXO    8
+OXXXO  O 8
+OXXXO  OX5
+OXXXO O  5
+OXXXO O  8
+OXXXO O X5
+OXXXO OOX5
+OXXXO OX 5
+OXXXO OX 8
+OXXXO XO 5
+OXXXO XO 8
+OXXXOO   8
+OXXXOO  X6
+OXXXOO  X7
+OXXXOO OX6
+OXXXOO X 6
+OXXXOO X 8
+OXXXOOO X7
+OXXXOOOX 8
+OXXXOOX  7
+OXXXOOX  8
+OXXXOOXO 8
+OXXXOX O 8
+OXXXOXO  7
+OXXXOXO  8
+OXXXOXOO 8
+OXXXX  OO6
+OXXXX O O7
+OXXXX OO 5
+OXXXX OO 8
+OXXXXO  O6
+OXXXXO  O7
+OXXXXO O 6
+OXXXXO OO6
+OXXXXOO  7
+OXXXXOO O7
+OXXXXOOO 8
+X        4
+X       O4
+X      O 8
+X      OX4
+X      XO4
+X     O  4
+X     O X1
+X     O X4
+X     O X5
+X     O X7
+X     OOX1
+X     OOX2
+X     OOX4
+X     OX 1
+X     OX 4
+X     OXO1
+X     OXO2
+X     OXO3
+X     OXO5
+X     X O1
+X     X O2
+X     X O3
+X     X O5
+X     X O7
+X     XO 1
+X     XOO2
+X     XOO3
+X     XOO4
+X     XOO5
+X    O   2
+X    O   8
+X    O  X4
+X    O OX1
+X    O OX2
+X    O OX3
+X    O OX4
+X    O OX6
+X    O X 3
+X    O X 6
+X    O XO1
+X    O XO2
+X    OO X1
+X    OO X2
+X    OO X3
+X    OO X4
+X    OO X7
+X    OOX 1
+X    OOX 2
+X    OOX 4
+X    OOXX1
+X    OOXX2
+X    OOXX4
+X    OX O2
+X    OX O3
+X    OXO 1
+X    OXO 2
+X    OXO 3
+X    OXOX2
+X    OXOX3
+X    OXOX4
+X    OXXO1
+X    OXXO2
+X    OXXO3
+X    OXXO4
+X    X  O4
+X    X  O7
+X    X O 1
+X    X O 2
+X    X O 3
+X    X O 4
+X    X O 8
+X    X OO1
+X    X OO2
+X    X OO3
+X    X OO4
+X    X OO6
+X    XO  2
+X    XO  3
+X    XO  4
+X    XO  8
+X    XO O7
+X    XOO 1
+X    XOO 2
+X    XOO 3
+X    XOO 8
+X    XOOX1
+X    XOOX3
+X    XOXO1
+X    XOXO4
+X    XXOO2
+X   O    2
+X   O   X5
+X   O  OX1
+X   O  X 3
+X   O  X 8
+X   O  XO5
+X   O  XO6
+X   O O X1
+X   O O X2
+X   O O X3
+X   O O X5
+X   O OX 2
+X   O OXX1
+X   O OXX2
+X   O OXX3
+X   O OXX5
+X   O X  3
+X   O X O1
+X   O X O2
+X   O X O3
+X   O X O5
+X   O X O7
+X   O XO 1
+X   O XO 3
+X   O XOX1
+X   O XOX3
+X   O XXO3
+X   OO  X3
+X   OO X 3
+X   OO XX1
+X   OO XX2
+X   OO XX3
+X   OO XX6
+X   OOOXX2
+X   OOOXX3
+X   OOX  3
+X   OOX  8
+X   OOX X3
+X   OOXOX3
+X   OOXX 1
+X   OOXX 3
+X   OOXX 8
+X   OOXXO3
+X   OX   2
+X   OX  O6
+X   OX  O7
+X   OX O 1
+X   OX OX1
+X   OX OX2
+X   OX OX3
+X   OX XO2
+X   OXO  2
+X   OXO X2
+X   OXO X7
+X   OXOOX2
+X   OXOX 2
+X   OXOX 8
+X   OXOXO2
+X   OXX O2
+X   OXX O3
+X   OXXO 1
+X   OXXO 3
+X   OXXOO1
+X   OXXOO2
+X   OXXOO3
+X   X   O6
+X   X  O 1
+X   X  O 2
+X   X  O 3
+X   X  O 6
+X   X  O 8
+X   X  OO6
+X   X O  8
+X   X O O7
+X   X OO 8
+X   X OXO1
+X   X XOO1
+X   XO   1
+X   XO   6
+X   XO   7
+X   XO   8
+X   XO  O2
+X   XO  O3
+X   XO  O6
+X   XO O 1
+X   XO O 2
+X   XO O 6
+X   XO O 8
+X   XO XO1
+X   XO XO2
+X   XOO  1
+X   XOO  2
+X   XOO  3
+X   XOO  7
+X   XOO  8
+X   XOOX 1
+X   XOOX 2
+X   XOOX 3
+X   XOOXO1
+X   XOOXO2
+X   XOX O2
+X   XOXO 1
+X   XOXO 2
+X   XOXO 3
+X   XOXO 8
+X   XOXOO2
+X   XOXOO3
+X   XX OO1
+X   XX OO2
+X   XX OO3
+X   XX OO6
+X   XXO O1
+X   XXO O3
+X   XXO O7
+X   XXOO 2
+X   XXOO 3
+X   XXOO 8
+X  O     2
+X  O     4
+X  O     5
+X  O    X4
+X  O   OX1
+X  O   OX2
+X  O   OX4
+X  O   OX5
+X  O   X 1
+X  O   X 4
+X  O   X 5
+X  O   X 8
+X  O   XO2
+X  O   XO5
+X  O  O X1
+X  O  O X2
+X  O  O X4
+X  O  O X7
+X  O  OX 1
+X  O  OX 4
+X  O  OX 5
+X  O  OX 8
+X  O  OXX4
+X  O  X  4
+X  O  X O2
+X  O  X O4
+X  O  X O5
+X  O  XO 1
+X  O  XO 4
+X  O  XOX1
+X  O  XOX4
+X  O  XXO2
+X  O  XXO4
+X  O  XXO5
+X  O O  X4
+X  O O X 1
+X  O O X 2
+X  O O X 4
+X  O O X 6
+X  O O X 8
+X  O O XX2
+X  O O XX4
+X  O O XX6
+X  O OOXX2
+X  O OOXX4
+X  O OX  4
+X  O OX  8
+X  O OX X4
+X  O OX X7
+X  O OXOX4
+X  O OXX 2
+X  O OXX 4
+X  O OXX 8
+X  O OXXO1
+X  O X   1
+X  O X   2
+X  O X   7
+X  O X   8
+X  O X  O1
+X  O X  O2
+X  O X  O4
+X  O X  O6
+X  O X  O7
+X  O X O 1
+X  O X O 4
+X  O X O 6
+X  O X OX4
+X  O X XO1
+X  O X XO2
+X  O XO  1
+X  O XO  2
+X  O XO  4
+X  O XO  7
+X  O XO  8
+X  O XO X1
+X  O XO X4
+X  O XO X7
+X  O XOOX1
+X  O XOOX2
+X  O XOOX4
+X  O XOX 1
+X  O XOX 2
+X  O XOX 4
+X  O XOXO1
+X  O XOXO2
+X  O XOXO4
+X  O XX O2
+X  O XX O4
+X  O XXO 2
+X  O XXO 4
+X  O XXOO1
+X  O XXOO2
+X  O XXOO4
+X  OO   X5
+X  OO  X 1
+X  OO  X 2
+X  OO  X 5
+X  OO  X 6
+X  OO  X 8
+X  OO  XX5
+X  OO OXX1
+X  OO OXX2
+X  OO OXX5
+X  OO X  5
+X  OO X X5
+X  OO X X7
+X  OO XX 5
+X  OO XX 8
+X  OO XXO5
+X  OOX   6
+X  OOX   8
+X  OOX  X2
+X  OOX OX1
+X  OOX OX2
+X  OOX OX6
+X  OOX X 2
+X  OOX X 8
+X  OOX XO1
+X  OOX XO2
+X  OOX XO6
+X  OOXO X1
+X  OOXO X2
+X  OOXOX 1
+X  OOXOX 2
+X  OOXOX 8
+X  OOXOXX2
+X  OOXX  2
+X  OOXX  7
+X  OOXX  8
+X  OOXX O1
+X  OOXX O2
+X  OOXX O7
+X  OOXXO 1
+X  OOXXOX1
+X  OOXXOX2
+X  OOXXXO1
+X  OOXXXO2
+X  OX    1
+X  OX    2
+X  OX    5
+X  OX    6
+X  OX    7
+X  OX    8
+X  OX   O1
+X  OX   O5
+X  OX   O7
+X  OX  O 1
+X  OX  O 6
+X  OX  O 8
+X  OX  XO1
+X  OX  XO5
+X  OX O  1
+X  OX O  2
+X  OX O  7
+X  OX O  8
+X  OX OXO1
+X  OX OXO2
+X  OX OXO5
+X  OX X O1
+X  OX X O2
+X  OX XO 2
+X  OX XO 8
+X  OX XOO1
+X  OX XOO2
+X  OX XOO5
+X  OXO   1
+X  OXO   2
+X  OXO   6
+X  OXO   7
+X  OXO   8
+X  OXO X 1
+X  OXO X 2
+X  OXO X 6
+X  OXO XO1
+X  OXO XO2
+X  OXOOX 1
+X  OXOOX 2
+X  OXOOX 8
+X  OXOX  2
+X  OXOX  7
+X  OXOX  8
+X  OXOX O2
+X  OXOXO 1
+X  OXOXO 2
+X  OXOXO 8
+X  OXOXXO1
+X  OXOXXO2
+X  OXX  O1
+X  OXX  O2
+X  OXX  O6
+X  OXX  O7
+X  OXX O 1
+X  OXX O 6
+X  OXX O 8
+X  OXX OO6
+X  OXXO  8
+X  OXXO O7
+X  OXXOO 2
+X  OXXOO 8
+X  OXXOXO1
+X  OXXXOO2
+X  X    O2
+X  X    O5
+X  X    O6
+X  X    O7
+X  X   O 6
+X  X   OO1
+X  X   OO2
+X  X   OO5
+X  X   OO6
+X  X  O  1
+X  X  O  4
+X  X  O  7
+X  X  O O4
+X  X  O O5
+X  X  OO 1
+X  X  OO 2
+X  X  OO 5
+X  X  OO 8
+X  X  OOX1
+X  X  OOX2
+X  X  OOX4
+X  X  OXO2
+X  X  OXO4
+X  X  OXO5
+X  X O   1
+X  X O   6
+X  X O  O2
+X  X O  O6
+X  X O O 1
+X  X O O 2
+X  X O O 4
+X  X O O 6
+X  X O O 8
+X  X O OX4
+X  X O XO1
+X  X O XO2
+X  X O XO4
+X  X O XO6
+X  X OO  2
+X  X OO X1
+X  X OO X2
+X  X OO X4
+X  X OO X7
+X  X OOOX1
+X  X OOOX2
+X  X OOOX4
+X  X OOX 1
+X  X OOX 2
+X  X OOX 4
+X  X OOX 8
+X  X OOXO1
+X  X OOXO2
+X  X OOXO4
+X  X X OO2
+X  X X OO6
+X  X XO O1
+X  X XO O2
+X  X XO O4
+X  X XO O7
+X  X XOO 1
+X  X XOO 2
+X  X XOO 4
+X  X XOO 8
+X  XO    6
+X  XO   O1
+X  XO   O2
+X  XO   O6
+X  XO  O 6
+X  XO  OX1
+X  XO  OX2
+X  XO  OX5
+X  XO  OX6
+X  XO  XO6
+X  XO O  2
+X  XO O X1
+X  XO O X2
+X  XO O X7
+X  XO OOX1
+X  XO OOX2
+X  XO OOX5
+X  XO OX 1
+X  XO OX 2
+X  XO OX 8
+X  XO OXO2
+X  XOO   1
+X  XOO   2
+X  XOO   6
+X  XOO   7
+X  XOO   8
+X  XOO  X6
+X  XOO OX1
+X  XOO OX6
+X  XOO X 6
+X  XOO XO2
+X  XOO XO6
+X  XOOO X2
+X  XOOOX 2
+X  XOOOXX1
+X  XOOOXX2
+X  XOX  O1
+X  XOX  O2
+X  XOX  O6
+X  XOX  O7
+X  XOX O 1
+X  XOX O 2
+X  XOX O 6
+X  XOX OO1
+X  XOX OO6
+X  XOXO  1
+X  XOXO  2
+X  XOXO  7
+X  XOXO  8
+X  XOXO O7
+X  XOXOO 2
+X  XOXOO 8
+X  XOXOOX1
+X  XOXOOX2
+X  XOXOXO1
+X  XOXOXO2
+X  XX  OO1
+X  XX  OO5
+X  XX  OO6
+X  XX O O5
+X  XX O O7
+X  XX OO 2
+X  XX OO 8
+X  XXO  O1
+X  XXO  O2
+X  XXO  O6
+X  XXO  O7
+X  XXO O 1
+X  XXO O 2
+X  XXO O 8
+X  XXO OO6
+X  XXOO  8
+X  XXOO O2
+X  XXOO O7
+X  XXOOO 8
+X  XXOOXO1
+X  XXOOXO2
+X O      4
+X O     X3
+X O     X4
+X O     X5
+X O     X7
+X O    OX1
+X O    OX4
+X O    OX6
+X O    X 5
+X O    X 8
+X O    XO5
+X O   O X4
+X O   OX 4
+X O   OXX3
+X O   OXX4
+X O   OXX5
+X O   X O3
+X O   X O5
+X O   XO 1
+X O   XO 3
+X O   XO 5
+X O   XO 8
+X O   XOX3
+X O   XXO1
+X O   XXO3
+X O   XXO4
+X O   XXO5
+X O  O  X1
+X O  O  X3
+X O  O  X4
+X O  O  X6
+X O  O X 8
+X O  O XX1
+X O  O XX3
+X O  O XX4
+X O  OOXX3
+X O  OOXX4
+X O  OX  3
+X O  OX  4
+X O  OX  8
+X O  OX X1
+X O  OX X3
+X O  OX X4
+X O  OX X7
+X O  OXOX1
+X O  OXOX3
+X O  OXOX4
+X O  OXX 4
+X O  OXX 8
+X O  X   3
+X O  X   4
+X O  X   8
+X O  X  O1
+X O  X  O3
+X O  X  O6
+X O  X O 3
+X O  X O 4
+X O  X O 6
+X O  X OX3
+X O  X OX4
+X O  X OX6
+X O  X XO3
+X O  X XO4
+X O  XO  1
+X O  XO  4
+X O  XO  8
+X O  XO X4
+X O  XO X7
+X O  XOOX1
+X O  XOOX4
+X O  XOX 1
+X O  XOX 3
+X O  XOX 4
+X O  XOX 8
+X O  XOXO4
+X O  XX O3
+X O  XXO 3
+X O  XXO 4
+X O  XXO 8
+X O  XXOO1
+X O  XXOO3
+X O  XXOO4
+X O O   X3
+X O O   X6
+X O O  X 5
+X O O  X 6
+X O O  X 8
+X O O  XX6
+X O O X  1
+X O O X  3
+X O O X  5
+X O O X  7
+X O O X X1
+X O O X X3
+X O O X X5
+X O O XOX1
+X O O XOX3
+X O O XX 1
+X O O XX 5
+X O O XX 8
+X O O XXO3
+X O O XXO5
+X O OO XX3
+X O OO XX6
+X O OOX X1
+X O OOX X3
+X O OOX X7
+X O OOXX 1
+X O OOXX 3
+X O OOXX 8
+X O OX   6
+X O OX  X6
+X O OX  X7
+X O OX OX3
+X O OX OX6
+X O OX X 1
+X O OX X 6
+X O OX X 8
+X O OX XO6
+X O OXX  3
+X O OXX O1
+X O OXX O3
+X O OXX O7
+X O OXXO 1
+X O OXXO 3
+X O OXXOX1
+X O OXXOX3
+X O OXXXO3
+X O X    8
+X O X   O5
+X O X  O 3
+X O X  O 5
+X O X  O 6
+X O X  O 8
+X O X  XO5
+X O X O  3
+X O X O  7
+X O X O  8
+X O X OX 3
+X O X OXO1
+X O X OXO5
+X O X X O3
+X O X X O5
+X O X XO 1
+X O X XO 3
+X O X XO 5
+X O X XO 8
+X O X XOO3
+X O X XOO5
+X O XO   8
+X O XO X 1
+X O XO X 6
+X O XO X 8
+X O XOOX 1
+X O XOOX 8
+X O XOX  1
+X O XOX  3
+X O XOX  8
+X O XOXO 3
+X O XOXO 8
+X O XX  O3
+X O XX O 6
+X O XX OO3
+X O XX OO6
+X O XXO  1
+X O XXO  3
+X O XXO  8
+X O XXO O1
+X O XXO O3
+X O XXO O7
+X O XXOO 3
+X O XXOO 8
+X O XXOXO1
+X O XXXOO3
+X OO    X1
+X OO    X4
+X OO    X5
+X OO    X6
+X OO    X7
+X OO   X 1
+X OO   X 4
+X OO   X 5
+X OO   X 6
+X OO   X 8
+X OO   XX5
+X OO  OXX4
+X OO  OXX5
+X OO  X  5
+X OO  X  8
+X OO  X X1
+X OO  X X4
+X OO  X X7
+X OO  XOX1
+X OO  XOX4
+X OO  XOX5
+X OO  XX 1
+X OO  XX 5
+X OO  XX 8
+X OO  XXO1
+X OO  XXO5
+X OO O XX1
+X OO O XX4
+X OO O XX6
+X OO OX X1
+X OO OX X4
+X OO OX X7
+X OO OXX 1
+X OO OXX 8
+X OO X   1
+X OO X   4
+X OO X   6
+X OO X   7
+X OO X   8
+X OO X  X4
+X OO X OX1
+X OO X OX4
+X OO X OX6
+X OO X X 4
+X OO X X 8
+X OO X XO1
+X OO X XO4
+X OO X XO6
+X OO XO X4
+X OO XOX 4
+X OO XOXX4
+X OO XX  1
+X OO XX  4
+X OO XX  7
+X OO XX  8
+X OO XX O1
+X OO XX O4
+X OO XX O7
+X OO XXO 1
+X OO XXO 4
+X OO XXO 8
+X OO XXOX4
+X OO XXXO1
+X OO XXXO4
+X OOO  XX1
+X OOO  XX5
+X OOO  XX6
+X OOO X X5
+X OOO X X7
+X OOO XX 5
+X OOO XX 8
+X OOOX  X6
+X OOOX X 6
+X OOOX XX6
+X OOOXX  1
+X OOOXX  7
+X OOOXX  8
+X OOOXX X7
+X OOOXXOX1
+X OOOXXX 8
+X OOOXXXO1
+X OOX    1
+X OOX    5
+X OOX    6
+X OOX    7
+X OOX    8
+X OOX  X 8
+X OOX  XO1
+X OOX  XO5
+X OOX OX 1
+X OOX OX 5
+X OOX OX 8
+X OOX X  5
+X OOX X  7
+X OOX X  8
+X OOX X O5
+X OOX XO 1
+X OOX XO 5
+X OOX XO 8
+X OOX XXO1
+X OOX XXO5
+X OOXO X 1
+X OOXO X 6
+X OOXO X 8
+X OOXOX  7
+X OOXOX  8
+X OOXOXX 1
+X OOXOXX 8
+X OOXX   8
+X OOXX  O1
+X OOXX  O6
+X OOXX  O7
+X OOXX O 1
+X OOXX O 6
+X OOXX O 8
+X OOXX XO1
+X OOXXO  1
+X OOXXO  7
+X OOXXO  8
+X OOXXOX 1
+X OOXXOXO1
+X OOXXX O1
+X OOXXX O7
+X OOXXXO 8
+X OOXXXOO1
+X OX     6
+X OX     7
+X OX    O1
+X OX    O4
+X OX    O5
+X OX    O6
+X OX    O7
+X OX   O 1
+X OX   O 5
+X OX   O 6
+X OX   O 8
+X OX   OX1
+X OX   OX5
+X OX   XO1
+X OX   XO5
+X OX   XO6
+X OX  O  1
+X OX  O  4
+X OX  O  5
+X OX  O  7
+X OX  O  8
+X OX  O X4
+X OX  O X5
+X OX  OOX4
+X OX  OX 1
+X OX  OX 4
+X OX  OX 5
+X OX  OX 8
+X OX  OXO4
+X OX O   6
+X OX O   7
+X OX O   8
+X OX O  X4
+X OX O  X7
+X OX O OX1
+X OX O OX4
+X OX O OX6
+X OX O X 6
+X OX O X 8
+X OX OO X1
+X OX OO X4
+X OX OO X7
+X OX OOX 1
+X OX OOX 8
+X OX OOXX1
+X OX OOXX4
+X OX X  O4
+X OX X O 1
+X OX X O 4
+X OX X OO1
+X OX X OO4
+X OX X OO6
+X OX XO  1
+X OX XO  4
+X OX XO  8
+X OX XO O4
+X OX XOO 4
+X OX XOO 8
+X OX XOOX4
+X OX XOXO4
+X OXO    6
+X OXO   X5
+X OXO   X6
+X OXO  OX5
+X OXO  OX6
+X OXO  X 6
+X OXO  X 8
+X OXO  XO5
+X OXO  XO6
+X OXOO  X6
+X OXOO X 1
+X OXOO X 6
+X OXOO X 8
+X OXOO XX1
+X OXOO XX6
+X OXOX   1
+X OXOX   6
+X OXOX   8
+X OXOX  O6
+X OXOX  O7
+X OXOX O 1
+X OXOX O 6
+X OXOX OX1
+X OXOX OX6
+X OXOX XO6
+X OXX   O1
+X OXX   O5
+X OXX   O6
+X OXX   O7
+X OXX  O 8
+X OXX  OO5
+X OXX  OO6
+X OXX O  5
+X OXX O  8
+X OXX O O1
+X OXX O O5
+X OXX OO 5
+X OXX OO 8
+X OXX OXO5
+X OXXO   8
+X OXXO O 6
+X OXXO O 8
+X OXXOO  1
+X OXXOO  8
+X OXXOOX 8
+X X     O1
+X X     O6
+X X    O 1
+X X    O 3
+X X    O 4
+X X    O 5
+X X    O 6
+X X    O 8
+X X    OO1
+X X   O  3
+X X   O  4
+X X   O  5
+X X   O  8
+X X   O O1
+X X   O O7
+X X   OO 1
+X X   OO 3
+X X   OO 8
+X X   OOX1
+X X   OOX3
+X X   OOX4
+X X   OOX5
+X X   OXO1
+X X   OXO4
+X X   XOO1
+X X   XOO3
+X X   XOO4
+X X   XOO5
+X X  O   3
+X X  O   4
+X X  O   7
+X X  O  O1
+X X  O  O3
+X X  O  O4
+X X  O  O6
+X X  O  O7
+X X  O O 1
+X X  O O 4
+X X  O O 6
+X X  O OX1
+X X  O OX3
+X X  O OX4
+X X  O OX6
+X X  O XO1
+X X  O XO3
+X X  O XO4
+X X  O XO6
+X X  OO  1
+X X  OO  3
+X X  OO  4
+X X  OO  7
+X X  OO  8
+X X  OO X1
+X X  OO X3
+X X  OO X4
+X X  OO X7
+X X  OOOX1
+X X  OOOX3
+X X  OOOX4
+X X  OOX 4
+X X  OOX 8
+X X  OOXO1
+X X  OOXO3
+X X  OOXO4
+X X  OX O1
+X X  OX O3
+X X  OX O4
+X X  OXO 1
+X X  OXO 3
+X X  OXO 8
+X X  OXOO1
+X X  OXOO3
+X X  OXOO4
+X X  X OO1
+X X  X OO4
+X X  X OO6
+X X  XO O1
+X X  XO O3
+X X  XO O7
+X X  XOO 1
+X X  XOO 4
+X X  XOO 8
+X X O    1
+X X O   O1
+X X O   O3
+X X O   O5
+X X O   O6
+X X O   O7
+X X O  O 1
+X X O  OX1
+X X O  OX5
+X X O  XO1
+X X O O  1
+X X O O  3
+X X O O  5
+X X O O  8
+X X O O X1
+X X O O X3
+X X O O X5
+X X O O X7
+X X O OOX1
+X X O OOX5
+X X O OX 1
+X X O OXO1
+X X O OXO3
+X X O OXO5
+X X O X O3
+X X O XO 1
+X X O XO 3
+X X O XOO1
+X X O XOO3
+X X OO   1
+X X OO   3
+X X OO  X1
+X X OO  X3
+X X OO OX1
+X X OO OX3
+X X OO OX6
+X X OO X 3
+X X OO X 6
+X X OO X 8
+X X OO XO1
+X X OO XO3
+X X OOO X1
+X X OOO X3
+X X OOOX 1
+X X OOOX 3
+X X OOOXX1
+X X OOOXX3
+X X OOX  3
+X X OOX  7
+X X OOX  8
+X X OOX O1
+X X OOX O3
+X X OOXO 1
+X X OOXO 3
+X X OOXOX1
+X X OOXOX3
+X X OOXXO3
+X X OX  O1
+X X OX O 1
+X X OX O 6
+X X OX OO1
+X X OXO  7
+X X OXO O1
+X X OXO O7
+X X OXOO 1
+X X OXOO 3
+X X OXOO 8
+X X OXOXO1
+X X OXXOO1
+X X X  OO1
+X X X  OO6
+X X X O O1
+X X X O O7
+X X X OO 5
+X X X OO 8
+X X XO  O1
+X X XO  O3
+X X XO  O6
+X X XO O 1
+X X XO O 3
+X X XO O 6
+X X XO O 8
+X X XO OO1
+X X XO OO6
+X X XOO  1
+X X XOO  3
+X X XOO  7
+X X XOO  8
+X X XOO O1
+X X XOO O7
+X X XOOO 1
+X X XOOO 8
+X X XOOXO1
+X XO     1
+X XO     5
+X XO    O1
+X XO    O5
+X XO    O6
+X XO    O7
+X XO   O 1
+X XO   O 4
+X XO   O 5
+X XO   O 8
+X XO   OX6
+X XO   XO1
+X XO   XO6
+X XO  O  1
+X XO  O  4
+X XO  O  5
+X XO  O  7
+X XO  O X4
+X XO  O X7
+X XO  OOX1
+X XO  OOX4
+X XO  OOX5
+X XO  OX 1
+X XO  OX 4
+X XO  OX 5
+X XO  OX 8
+X XO  OXO1
+X XO  OXO4
+X XO  OXO5
+X XO  X O1
+X XO  X O4
+X XO  X O5
+X XO  X O7
+X XO  XOO1
+X XO  XOO4
+X XO  XOO5
+X XO O   1
+X XO O   4
+X XO O  X4
+X XO O OX1
+X XO O OX4
+X XO O X 1
+X XO O X 4
+X XO O XO1
+X XO O XO4
+X XO O XO6
+X XO OO X1
+X XO OO X4
+X XO OOX 1
+X XO OOX 4
+X XO OOXX1
+X XO OOXX4
+X XO OX  1
+X XO OX  4
+X XO OX  7
+X XO OX O1
+X XO OX O4
+X XO OX O7
+X XO OXO 1
+X XO OXO 4
+X XO OXO 8
+X XO OXOX4
+X XO OXXO4
+X XO X  O1
+X XO X  O6
+X XO X O 1
+X XO X O 4
+X XO X O 6
+X XO X O 8
+X XO X OO1
+X XO X OO6
+X XO XO  1
+X XO XO  4
+X XO XO  7
+X XO XO  8
+X XO XO O1
+X XO XO O4
+X XO XO O7
+X XO XOO 1
+X XO XOO 8
+X XO XOXO1
+X XO XXOO1
+X XOO    1
+X XOO    5
+X XOO   X5
+X XOO  OX1
+X XOO  OX5
+X XOO  X 1
+X XOO  X 5
+X XOO  XO1
+X XOO  XO5
+X XOO O X1
+X XOO O X5
+X XOO OX 1
+X XOO OX 5
+X XOO OXX5
+X XOO X  1
+X XOO X  5
+X XOO X O1
+X XOO X O5
+X XOO X O7
+X XOO XO 1
+X XOO XO 5
+X XOO XOX1
+X XOO XOX5
+X XOO XXO1
+X XOO XXO5
+X XOOX  O1
+X XOOX  O6
+X XOOX  O7
+X XOOX O 1
+X XOOX O 6
+X XOOX O 8
+X XOOX XO1
+X XOOXO  1
+X XOOXO  7
+X XOOXO  8
+X XOOXOX 1
+X XOOXOX 8
+X XOOXOXO1
+X XOOXX O1
+X XOOXXO 1
+X XOOXXOO1
+X XOX   O5
+X XOX  O 5
+X XOX  OO1
+X XOX  OO6
+X XOX O  1
+X XOX O  5
+X XOX O O1
+X XOX O O7
+X XOX OO 1
+X XOX OO 8
+X XOX OXO1
+X XOXO   1
+X XOXO   6
+X XOXO   7
+X XOXO   8
+X XOXO  O1
+X XOXO  O6
+X XOXO  O7
+X XOXO O 1
+X XOXO O 6
+X XOXO O 8
+X XOXO XO1
+X XOXOO  1
+X XOXOO  7
+X XOXOO  8
+X XOXOOX 8
+X XOXOOXO1
+X XOXX OO6
+X XOXXO O1
+X XOXXO O7
+X XOXXOO 8
+X XX   OO1
+X XX   OO4
+X XX   OO6
+X XX  O O1
+X XX  O O5
+X XX  O O7
+X XX  OO 1
+X XX  OO 4
+X XX  OO 5
+X XX  OO 8
+X XX O O 1
+X XX O O 4
+X XX O OO1
+X XX O OO4
+X XX O OO6
+X XX OO  1
+X XX OO O1
+X XX OO O4
+X XX OO O7
+X XX OOO 1
+X XX OOO 8
+X XX OOOX1
+X XX OOXO1
+X XXO  O 1
+X XXO  O 5
+X XXO  OO1
+X XXO  OO5
+X XXO  OO6
+X XXO O  1
+X XXO O O1
+X XXO O O7
+X XXO OO 1
+X XXO OO 5
+X XXO OO 8
+X XXO OOX1
+X XXO OOX5
+X XXO OXO1
+X XXOO   1
+X XXOO   8
+X XXOO  O1
+X XXOO  O6
+X XXOO  O7
+X XXOO O 1
+X XXOO O 6
+X XXOO OX1
+X XXOO XO1
+X XXOO XO6
+X XXOOO  1
+X XXOOO  7
+X XXOOO  8
+X XXOOO X1
+X XXOOOOX1
+X XXOOOX 1
+X XXOOOXO1
+X XXOX OO1
+X XXOX OO6
+X XXOXO O1
+X XXOXO O7
+X XXOXOO 1
+X XXOXOO 8
+X XXXO OO6
+X XXXOO O1
+X XXXOO O7
+X XXXOOO 8
+XO       4
+XO       6
+XO       7
+XO      X4
+XO     OX4
+XO     X 6
+XO     XO2
+XO     XO3
+XO     XO4
+XO     XO5
+XO     XO6
+XO    O X2
+XO    O X4
+XO    O X7
+XO    OX 2
+XO    OX 3
+XO    OX 4
+XO    OXX4
+XO    X  3
+XO    X  5
+XO    X  7
+XO    X O2
+XO    X O3
+XO    X O4
+XO    X O5
+XO    X O7
+XO    XO 3
+XO    XO 4
+XO    XOX2
+XO    XOX3
+XO    XOX4
+XO    XOX5
+XO    XXO3
+XO   O  X2
+XO   O  X3
+XO   O  X4
+XO   O  X6
+XO   O  X7
+XO   O X 2
+XO   O X 3
+XO   O X 6
+XO   O X 8
+XO   O XX4
+XO   OOXX2
+XO   OOXX3
+XO   OOXX4
+XO   OX  2
+XO   OX  3
+XO   OX  8
+XO   OX X2
+XO   OXOX3
+XO   OXOX4
+XO   OXX 4
+XO   OXX 8
+XO   OXXO2
+XO   OXXO3
+XO   X   2
+XO   X   4
+XO   X   6
+XO   X   7
+XO   X   8
+XO   X  O2
+XO   X  O3
+XO   X  O4
+XO   X  O7
+XO   X O 2
+XO   X O 3
+XO   X O 6
+XO   X O 8
+XO   X OX2
+XO   X OX4
+XO   X XO2
+XO   X XO3
+XO   X XO4
+XO   X XO6
+XO   XO  2
+XO   XO  4
+XO   XO  8
+XO   XO X3
+XO   XO X7
+XO   XOOX2
+XO   XOOX3
+XO   XOOX4
+XO   XOX 3
+XO   XOX 4
+XO   XOX 8
+XO   XOXO2
+XO   XOXO3
+XO   XOXO4
+XO   XX O2
+XO   XX O7
+XO   XXO 2
+XO   XXO 4
+XO   XXO 8
+XO   XXOO3
+XO   XXOO4
+XO  O   X3
+XO  O   X7
+XO  O  X 3
+XO  O  X 6
+XO  O  X 8
+XO  O  XX6
+XO  O OXX2
+XO  O X  3
+XO  O X X5
+XO  O X X7
+XO  O XX 3
+XO  O XX 5
+XO  O XX 8
+XO  O XXO2
+XO  O XXO3
+XO  O XXO5
+XO  OO XX3
+XO  OO XX6
+XO  OOX X2
+XO  OOX X3
+XO  OOX X7
+XO  OOXX 3
+XO  OOXX 8
+XO  OX   7
+XO  OX  X2
+XO  OX  X3
+XO  OX  X7
+XO  OX X 6
+XO  OX X 8
+XO  OX XO2
+XO  OX XO3
+XO  OX XO6
+XO  OXO X2
+XO  OXOX 2
+XO  OXOXX2
+XO  OXX  2
+XO  OXX  3
+XO  OXX  7
+XO  OXX O2
+XO  OXX O3
+XO  OXX O7
+XO  OXXXO3
+XO  X    2
+XO  X    3
+XO  X    5
+XO  X   O2
+XO  X   O6
+XO  X  O 2
+XO  X  O 5
+XO  X  O 6
+XO  X  O 8
+XO  X  XO2
+XO  X  XO3
+XO  X  XO5
+XO  X  XO6
+XO  X O  3
+XO  X O  5
+XO  X O  7
+XO  X O  8
+XO  X OX 8
+XO  X OXO2
+XO  X OXO3
+XO  X OXO5
+XO  X X O2
+XO  X X O3
+XO  X X O5
+XO  X X O7
+XO  X XO 8
+XO  X XOO2
+XO  X XOO3
+XO  X XOO5
+XO  XO   2
+XO  XO   3
+XO  XO   6
+XO  XO   7
+XO  XO   8
+XO  XO X 6
+XO  XO X 8
+XO  XO XO2
+XO  XOOX 2
+XO  XOOX 3
+XO  XOOX 8
+XO  XOX  7
+XO  XOX  8
+XO  XOX O2
+XO  XOX O3
+XO  XOXO 2
+XO  XOXO 3
+XO  XOXO 8
+XO  XOXXO2
+XO  XX  O2
+XO  XX  O3
+XO  XX O 3
+XO  XX O 8
+XO  XX OO3
+XO  XX OO6
+XO  XXO  3
+XO  XXO  7
+XO  XXO O3
+XO  XXO O7
+XO  XXOO 3
+XO  XXOO 8
+XO  XXOXO3
+XO  XXXOO2
+XO O    X2
+XO O    X4
+XO O    X5
+XO O    X6
+XO O   X 2
+XO O   X 4
+XO O   X 5
+XO O   X 6
+XO O   X 8
+XO O   XX2
+XO O  OXX2
+XO O  OXX4
+XO O  OXX5
+XO O  X  4
+XO O  X  7
+XO O  X X7
+XO O  XOX2
+XO O  XOX4
+XO O  XX 2
+XO O  XX 4
+XO O  XX 5
+XO O  XX 8
+XO O  XXO2
+XO O  XXO4
+XO O  XXO5
+XO O O XX4
+XO O O XX6
+XO O OX X2
+XO O OX X4
+XO O OX X7
+XO O OXX 2
+XO O OXX 4
+XO O OXX 8
+XO O X   2
+XO O X   4
+XO O X   7
+XO O X   8
+XO O X  X2
+XO O X  X6
+XO O X  X7
+XO O X OX2
+XO O X OX4
+XO O X X 4
+XO O X X 6
+XO O X X 8
+XO O X XO2
+XO O X XO4
+XO O X XO6
+XO O XO X2
+XO O XO X4
+XO O XO X7
+XO O XOX 2
+XO O XOX 4
+XO O XOX 8
+XO O XOXX2
+XO O XX  4
+XO O XX  8
+XO O XX O2
+XO O XX O4
+XO O XX O7
+XO O XXO 4
+XO O XXOX4
+XO O XXXO2
+XO O XXXO4
+XO OO  XX5
+XO OO  XX6
+XO OO X X7
+XO OO XX 2
+XO OO XX 5
+XO OO XX 8
+XO OOX  X2
+XO OOX  X6
+XO OOX  X7
+XO OOX X 2
+XO OOX X 6
+XO OOX X 8
+XO OOX XX2
+XO OOX XX6
+XO OOXOXX2
+XO OOXX  7
+XO OOXX X7
+XO OOXXX 8
+XO OOXXXO2
+XO OX    2
+XO OX    5
+XO OX    6
+XO OX    7
+XO OX    8
+XO OX  X 2
+XO OX  X 8
+XO OX  XO2
+XO OX  XO5
+XO OX  XO6
+XO OX OX 2
+XO OX OX 5
+XO OX OX 8
+XO OX X  2
+XO OX X  5
+XO OX X  7
+XO OX X O2
+XO OX X O5
+XO OX X O7
+XO OX XO 2
+XO OX XO 5
+XO OX XO 8
+XO OX XXO2
+XO OXO X 2
+XO OXO X 6
+XO OXO X 8
+XO OXOX  2
+XO OXOX  7
+XO OXOX  8
+XO OXOXX 2
+XO OXOXXO2
+XO OXX   8
+XO OXX  O2
+XO OXX  O6
+XO OXX  O7
+XO OXX O 2
+XO OXX O 6
+XO OXX O 8
+XO OXX XO2
+XO OXX XO6
+XO OXXO  2
+XO OXXO  7
+XO OXXO  8
+XO OXXOX 8
+XO OXXOXO2
+XO OXXX O2
+XO OXXXO 2
+XO OXXXOO2
+XO X     2
+XO X     4
+XO X     5
+XO X     7
+XO X     8
+XO X    O5
+XO X    O6
+XO X   O 4
+XO X   O 6
+XO X   O 8
+XO X   OX2
+XO X   OX4
+XO X   XO4
+XO X   XO5
+XO X   XO6
+XO X  O  2
+XO X  O  4
+XO X  O  7
+XO X  O X2
+XO X  O X4
+XO X  O X5
+XO X  OOX2
+XO X  OOX4
+XO X  OOX5
+XO X  OX 4
+XO X  OX 5
+XO X  OX 8
+XO X  OXO2
+XO X  OXO4
+XO X  OXO5
+XO X O   2
+XO X O   4
+XO X O   6
+XO X O   7
+XO X O   8
+XO X O  X2
+XO X O  X4
+XO X O  X7
+XO X O OX2
+XO X O OX4
+XO X O OX6
+XO X O X 6
+XO X O X 8
+XO X O XO2
+XO X O XO6
+XO X OO X2
+XO X OO X4
+XO X OO X7
+XO X OOX 2
+XO X OOX 4
+XO X OOX 8
+XO X OOXX4
+XO X X  O4
+XO X X  O7
+XO X X O 2
+XO X X O 4
+XO X X O 6
+XO X X OO2
+XO X X OO4
+XO X X OO6
+XO X XO  2
+XO X XO  4
+XO X XO  7
+XO X XO O4
+XO X XO O7
+XO X XOOX4
+XO X XOXO4
+XO XO    6
+XO XO   X2
+XO XO   X5
+XO XO   X6
+XO XO   X7
+XO XO  X 2
+XO XO  X 5
+XO XO  X 6
+XO XO  X 8
+XO XO  XO2
+XO XO  XO5
+XO XO  XO6
+XO XO O X5
+XO XO O X7
+XO XO OX 2
+XO XO OXX2
+XO XO OXX5
+XO XOO  X2
+XO XOO  X6
+XO XOO  X7
+XO XOO X 2
+XO XOO X 6
+XO XOO X 8
+XO XOO XX6
+XO XOOOXX2
+XO XOX   2
+XO XOX   6
+XO XOX   7
+XO XOX   8
+XO XOX  O6
+XO XOX  O7
+XO XOX XO6
+XO XOXO  2
+XO XOXO  7
+XO XOXO  8
+XO XOXO X2
+XO XOXO X7
+XO XOXOX 2
+XO XOXOX 8
+XO XOXOXO2
+XO XX  O 2
+XO XX  O 6
+XO XX  O 8
+XO XX  OO2
+XO XX  OO5
+XO XX  OO6
+XO XX O  2
+XO XX O  5
+XO XX O  7
+XO XX O  8
+XO XX O O5
+XO XX O O7
+XO XX OO 5
+XO XX OO 8
+XO XX OXO5
+XO XXO   2
+XO XXO   7
+XO XXO  O2
+XO XXO  O6
+XO XXO O 2
+XO XXO O 6
+XO XXO O 8
+XO XXO XO2
+XO XXO XO6
+XO XXOO  2
+XO XXOO  7
+XO XXOO  8
+XO XXOOX 8
+XO XXOOXO2
+XOO     X4
+XOO     X6
+XOO     X7
+XOO    X 3
+XOO    X 4
+XOO    X 6
+XOO    XX4
+XOO    XX6
+XOO   OXX4
+XOO   OXX5
+XOO   X  3
+XOO   X  4
+XOO   X  5
+XOO   X  8
+XOO   X X3
+XOO   X X4
+XOO   X X7
+XOO   XOX3
+XOO   XOX4
+XOO   XX 3
+XOO   XX 4
+XOO   XX 5
+XOO   XXO3
+XOO   XXO5
+XOO  O XX3
+XOO  O XX4
+XOO  O XX6
+XOO  OX X3
+XOO  OX X4
+XOO  OX X7
+XOO  OXX 3
+XOO  OXX 8
+XOO  X   3
+XOO  X   4
+XOO  X   7
+XOO  X   8
+XOO  X  X4
+XOO  X  X6
+XOO  X  X7
+XOO  X OX3
+XOO  X OX4
+XOO  X OX6
+XOO  X X 3
+XOO  X X 4
+XOO  X X 6
+XOO  X X 8
+XOO  X XO3
+XOO  X XO4
+XOO  X XO6
+XOO  XO X4
+XOO  XO X7
+XOO  XOX 4
+XOO  XOXX4
+XOO  XX  8
+XOO  XX O3
+XOO  XX O4
+XOO  XX O7
+XOO  XXO 3
+XOO  XXO 4
+XOO  XXOX4
+XOO  XXXO3
+XOO O  XX3
+XOO O  XX6
+XOO O X X3
+XOO O X X7
+XOO O XX 3
+XOO O XX 5
+XOO O XX 8
+XOO OX  X6
+XOO OX  X7
+XOO OX XX6
+XOO OXX  3
+XOO OXX  7
+XOO OXX  8
+XOO OXX X7
+XOO OXXX 3
+XOO OXXX 8
+XOO OXXXO3
+XOO X    3
+XOO X    5
+XOO X    7
+XOO X    8
+XOO X  X 8
+XOO X  XO5
+XOO X OX 3
+XOO X OX 5
+XOO X OX 8
+XOO X X  7
+XOO X X  8
+XOO X X O3
+XOO X X O5
+XOO X XO 3
+XOO X XO 5
+XOO X XO 8
+XOO X XXO3
+XOO X XXO5
+XOO XO X 8
+XOO XOX  3
+XOO XOX  8
+XOO XOXX 8
+XOO XX   7
+XOO XX  O3
+XOO XX  O6
+XOO XX  O7
+XOO XX O 3
+XOO XX O 6
+XOO XX O 8
+XOO XX XO3
+XOO XXO  3
+XOO XXO  7
+XOO XXO  8
+XOO XXOX 8
+XOO XXOXO3
+XOO XXX O3
+XOO XXXO 3
+XOO XXXOO3
+XOOO   XX4
+XOOO   XX5
+XOOO   XX6
+XOOO  X X4
+XOOO  X X5
+XOOO  X X7
+XOOO  XX 4
+XOOO  XX 5
+XOOO  XX 8
+XOOO X  X4
+XOOO X  X6
+XOOO X  X7
+XOOO X X 4
+XOOO X X 6
+XOOO X X 8
+XOOO X XX4
+XOOO X XX6
+XOOO XOXX4
+XOOO XX  4
+XOOO XX  7
+XOOO XX  8
+XOOO XX X4
+XOOO XXOX4
+XOOO XXX 8
+XOOO XXXO4
+XOOOOX XX6
+XOOOOXX X7
+XOOOOXXX 8
+XOOOX  X 5
+XOOOX  X 6
+XOOOX  X 8
+XOOOX X  5
+XOOOX X  7
+XOOOX X  8
+XOOOX XX 8
+XOOOX XXO5
+XOOOXOXX 8
+XOOOXX   6
+XOOOXX   7
+XOOOXX   8
+XOOOXX X 8
+XOOOXX XO6
+XOOOXXOX 8
+XOOOXXX  8
+XOOOXXX O7
+XOOOXXXO 8
+XOOX     4
+XOOX     5
+XOOX     6
+XOOX     7
+XOOX     8
+XOOX    X5
+XOOX    X6
+XOOX    X7
+XOOX   OX4
+XOOX   OX5
+XOOX   OX6
+XOOX   X 4
+XOOX   X 5
+XOOX   X 6
+XOOX   X 8
+XOOX   XO5
+XOOX   XO6
+XOOX  O X4
+XOOX  OX 4
+XOOX  OX 5
+XOOX  OXX4
+XOOX O  X4
+XOOX O  X6
+XOOX O  X7
+XOOX O X 4
+XOOX O X 6
+XOOX O X 8
+XOOX O XX6
+XOOX OOXX4
+XOOX X   6
+XOOX X   7
+XOOX X  O4
+XOOX X  O6
+XOOX X  O7
+XOOX X XO4
+XOOX XO  4
+XOOX XO  7
+XOOX XO  8
+XOOX XO X4
+XOOX XO X7
+XOOX XOOX4
+XOOX XOX 4
+XOOX XOXO4
+XOOXO   X6
+XOOXO   X7
+XOOXO  X 5
+XOOXO  X 6
+XOOXO  X 8
+XOOXO  XX6
+XOOXOO XX6
+XOOXOX   6
+XOOXOX   7
+XOOXOX   8
+XOOXOX  X6
+XOOXOX  X7
+XOOXOX X 6
+XOOXOX X 8
+XOOXOX XO6
+XOOXX    6
+XOOXX    7
+XOOXX    8
+XOOXX   O5
+XOOXX   O6
+XOOXX   O7
+XOOXX  O 5
+XOOXX  O 6
+XOOXX  O 8
+XOOXX  XO5
+XOOXX  XO6
+XOOXX O  5
+XOOXX O  7
+XOOXX O  8
+XOOXX OX 5
+XOOXX OX 8
+XOOXX OXO5
+XOOXXO   6
+XOOXXO   7
+XOOXXO   8
+XOOXXO X 8
+XOOXXOOX 8
+XOX      3
+XOX      4
+XOX      5
+XOX      7
+XOX      8
+XOX     O4
+XOX     O6
+XOX     O7
+XOX    OX3
+XOX    OX4
+XOX    OX5
+XOX    OX6
+XOX    XO4
+XOX    XO6
+XOX   O  4
+XOX   O  7
+XOX   O X4
+XOX   O X5
+XOX   O X7
+XOX   OOX4
+XOX   OOX5
+XOX   OX 4
+XOX   OX 5
+XOX   OX 8
+XOX   OXO3
+XOX   OXO4
+XOX   OXO5
+XOX   X O3
+XOX   X O4
+XOX   X O5
+XOX   X O7
+XOX   XO 3
+XOX   XO 4
+XOX   XO 5
+XOX   XO 8
+XOX   XOO3
+XOX   XOO4
+XOX  O   3
+XOX  O   4
+XOX  O   7
+XOX  O  X3
+XOX  O  X4
+XOX  O  X7
+XOX  O OX4
+XOX  O X 6
+XOX  O XO3
+XOX  O XO4
+XOX  O XO6
+XOX  OO X3
+XOX  OO X4
+XOX  OO X7
+XOX  OOX 3
+XOX  OOX 4
+XOX  OOX 8
+XOX  OOXX4
+XOX  OX  3
+XOX  OX  4
+XOX  OX  7
+XOX  OX  8
+XOX  OX O3
+XOX  OX O4
+XOX  OX O7
+XOX  OXO 3
+XOX  OXO 4
+XOX  OXOX4
+XOX  OXXO3
+XOX  OXXO4
+XOX  X  O3
+XOX  X  O4
+XOX  X  O6
+XOX  X  O7
+XOX  X O 4
+XOX  X O 6
+XOX  X OO3
+XOX  X OO6
+XOX  XO  3
+XOX  XO  4
+XOX  XO  7
+XOX  XO  8
+XOX  XO O7
+XOX  XOO 8
+XOX  XOXO3
+XOX  XOXO4
+XOX  XXOO4
+XOX O    7
+XOX O   X5
+XOX O   X7
+XOX O  X 3
+XOX O  X 5
+XOX O  X 6
+XOX O  X 8
+XOX O  XO3
+XOX O  XO5
+XOX O  XO6
+XOX O O X5
+XOX O O X7
+XOX O OX 3
+XOX O OX 5
+XOX O OX 8
+XOX O OXX5
+XOX O X  3
+XOX O X  7
+XOX O X  8
+XOX O X O3
+XOX O X O7
+XOX O XXO3
+XOX OO  X7
+XOX OO X 3
+XOX OO XX3
+XOX OO XX6
+XOX OOOXX3
+XOX OOX  3
+XOX OOX X3
+XOX OOX X7
+XOX OOXX 3
+XOX OOXXO3
+XOX OX   7
+XOX OX   8
+XOX OX  O7
+XOX OX XO3
+XOX OX XO6
+XOX OXO  3
+XOX OXO  7
+XOX OXO  8
+XOX OXOX 8
+XOX OXOXO3
+XOX OXX O3
+XOX OXX O7
+XOX X   O6
+XOX X  O 5
+XOX X  O 6
+XOX X  O 8
+XOX X  OO6
+XOX X O  5
+XOX X O  7
+XOX X O  8
+XOX X O O7
+XOX X OO 8
+XOX X OXO3
+XOX X OXO5
+XOX XO   6
+XOX XO   7
+XOX XO   8
+XOX XO  O3
+XOX XO  O6
+XOX XO  O7
+XOX XO O 3
+XOX XO O 6
+XOX XO O 8
+XOX XO XO6
+XOX XOO  3
+XOX XOO  7
+XOX XOO  8
+XOX XOOX 8
+XOX XOOXO3
+XOX XX OO3
+XOX XX OO6
+XOX XXO O3
+XOX XXO O7
+XOX XXOO 8
+XOXO     4
+XOXO     5
+XOXO    X4
+XOXO    X5
+XOXO    X7
+XOXO   OX4
+XOXO   OX5
+XOXO   X 4
+XOXO   X 8
+XOXO   XO4
+XOXO   XO5
+XOXO   XO6
+XOXO  O X4
+XOXO  O X5
+XOXO  O X7
+XOXO  OX 4
+XOXO  OX 5
+XOXO  OX 8
+XOXO  OXX4
+XOXO  X  4
+XOXO  X O4
+XOXO  X O5
+XOXO  X O7
+XOXO  XO 4
+XOXO  XOX4
+XOXO  XXO4
+XOXO O  X4
+XOXO O X 4
+XOXO O XX4
+XOXO OOXX4
+XOXO OX  4
+XOXO OX X4
+XOXO OXOX4
+XOXO OXX 4
+XOXO OXXO4
+XOXO X   8
+XOXO X  O4
+XOXO X  O6
+XOXO X  O7
+XOXO X O 4
+XOXO X O 6
+XOXO X O 8
+XOXO X XO4
+XOXO X XO6
+XOXO XO  4
+XOXO XO  7
+XOXO XO  8
+XOXO XOX 8
+XOXO XOXO4
+XOXO XX O4
+XOXO XXO 4
+XOXO XXOO4
+XOXOO   X5
+XOXOO   X6
+XOXOO   X7
+XOXOO  X 5
+XOXOO  XX5
+XOXOO OXX5
+XOXOO X X5
+XOXOO X X7
+XOXOO XX 5
+XOXOO XX 8
+XOXOO XXO5
+XOXOOX   7
+XOXOOX   8
+XOXOOX X 8
+XOXOOX XO6
+XOXOOXOX 8
+XOXOOXX  7
+XOXOOXX  8
+XOXOOXX O7
+XOXOX    5
+XOXOX    6
+XOXOX    8
+XOXOX   O5
+XOXOX   O6
+XOXOX   O7
+XOXOX  O 5
+XOXOX  O 6
+XOXOX  O 8
+XOXOX  XO6
+XOXOX O  5
+XOXOX O  7
+XOXOX O  8
+XOXOX OX 8
+XOXOX OXO5
+XOXOXO   6
+XOXOXO   7
+XOXOXO   8
+XOXOXO X 6
+XOXOXO X 8
+XOXOXO XO6
+XOXOXOOX 8
+XOXOXX  O6
+XOXOXX O 6
+XOXOXX O 8
+XOXOXX OO6
+XOXOXXO  8
+XOXOXXO O7
+XOXOXXOO 8
+XOXX    O5
+XOXX    O6
+XOXX    O7
+XOXX   O 4
+XOXX   O 5
+XOXX   O 6
+XOXX   O 8
+XOXX   OO5
+XOXX   OO6
+XOXX  O  4
+XOXX  O  5
+XOXX  O  8
+XOXX  O O7
+XOXX  OO 5
+XOXX  OOX4
+XOXX  OXO4
+XOXX  OXO5
+XOXX O   4
+XOXX O   6
+XOXX O   8
+XOXX O  O4
+XOXX O  O6
+XOXX O  O7
+XOXX O O 4
+XOXX O O 6
+XOXX O O 8
+XOXX O OX4
+XOXX O XO4
+XOXX O XO6
+XOXX OO  4
+XOXX OO  7
+XOXX OO  8
+XOXX OO X4
+XOXX OOOX4
+XOXX OOX 4
+XOXX OOX 8
+XOXX OOXO4
+XOXX X OO4
+XOXX X OO6
+XOXX XO O4
+XOXX XO O7
+XOXX XOO 4
+XOXX XOO 8
+XOXXO    6
+XOXXO    7
+XOXXO   O6
+XOXXO   O7
+XOXXO  XO6
+XOXXO O  7
+XOXXO O X5
+XOXXO O X7
+XOXXO OX 5
+XOXXO OX 8
+XOXXO OXO5
+XOXXOO   6
+XOXXOO   7
+XOXXOO  X6
+XOXXOO  X7
+XOXXOO X 6
+XOXXOO XO6
+XOXXOOO X7
+XOXXOOOX 8
+XOXXOX  O6
+XOXXOX  O7
+XOXXOXO  7
+XOXXOXO  8
+XOXXOXO O7
+XOXXX  OO5
+XOXXX  OO6
+XOXXX O O5
+XOXXX O O7
+XOXXX OO 5
+XOXXX OO 8
+XOXXXO  O6
+XOXXXO O 6
+XOXXXO O 8
+XOXXXO OO6
+XOXXXOO  8
+XOXXXOO O7
+XOXXXOOO 8
+XX      O3
+XX      O5
+XX      O7
+XX     O 2
+XX     O 4
+XX     O 8
+XX     OO2
+XX     OO4
+XX     OO5
+XX     OO6
+XX    O  3
+XX    O  7
+XX    O  8
+XX    O O2
+XX    O O4
+XX    O O7
+XX    OO 2
+XX    OO 5
+XX    OOX2
+XX    OXO2
+XX    OXO3
+XX    OXO4
+XX    OXO5
+XX    XOO2
+XX    XOO3
+XX    XOO4
+XX    XOO5
+XX   O   2
+XX   O   8
+XX   O  O2
+XX   O  O6
+XX   O O 2
+XX   O O 3
+XX   O O 4
+XX   O O 8
+XX   O OX2
+XX   O OX3
+XX   O OX6
+XX   O XO2
+XX   O XO4
+XX   O XO6
+XX   OO  2
+XX   OO  4
+XX   OO  8
+XX   OO X2
+XX   OO X3
+XX   OOOX2
+XX   OOOX3
+XX   OOOX4
+XX   OOX 3
+XX   OOXO2
+XX   OOXO3
+XX   OOXO4
+XX   OX O2
+XX   OX O3
+XX   OX O4
+XX   OXO 8
+XX   OXOO2
+XX   OXOO3
+XX   XO O2
+XX   XO O3
+XX   XO O4
+XX   XO O7
+XX   XOO 3
+XX   XOO 4
+XX   XOO 8
+XX  O    2
+XX  O   O2
+XX  O   O3
+XX  O   O5
+XX  O   O7
+XX  O  O 2
+XX  O  O 5
+XX  O  O 6
+XX  O  OX2
+XX  O  XO2
+XX  O O  2
+XX  O O  8
+XX  O O X2
+XX  O OOX2
+XX  O OOX5
+XX  O OX 2
+XX  O OXO2
+XX  O OXO3
+XX  O OXO5
+XX  O X O3
+XX  O X O5
+XX  O XO 3
+XX  O XOO2
+XX  O XOO3
+XX  O XOO5
+XX  OO   2
+XX  OO   3
+XX  OO   6
+XX  OO  X2
+XX  OO  X3
+XX  OO  X6
+XX  OO OX2
+XX  OO OX3
+XX  OO OX6
+XX  OO X 2
+XX  OO X 3
+XX  OO X 6
+XX  OO X 8
+XX  OO XO2
+XX  OOO X2
+XX  OOO X3
+XX  OOOX 2
+XX  OOOXX2
+XX  OOOXX3
+XX  OOX  2
+XX  OOX  3
+XX  OOX  8
+XX  OOX O2
+XX  OOX O3
+XX  OOXO 2
+XX  OOXO 3
+XX  OOXO 8
+XX  OOXOX3
+XX  OOXXO2
+XX  OOXXO3
+XX  OX  O2
+XX  OX  O3
+XX  OX O 2
+XX  OX O 3
+XX  OX OO2
+XX  OX OO3
+XX  OX OO6
+XX  OXO  2
+XX  OXO  3
+XX  OXO  7
+XX  OXO  8
+XX  OXO O2
+XX  OXOO 2
+XX  OXOO 3
+XX  OXOO 8
+XX  OXOOX2
+XX  OXOOX3
+XX  OXOXO2
+XX  OXOXO3
+XX  OXXOO2
+XX  OXXOO3
+XX  X  OO2
+XX  X  OO3
+XX  X  OO5
+XX  X  OO6
+XX  X O O2
+XX  X O O5
+XX  X O O7
+XX  X OO 8
+XX  XO  O2
+XX  XO  O6
+XX  XO O 2
+XX  XO O 6
+XX  XO O 8
+XX  XO OO2
+XX  XO OO6
+XX  XOO  2
+XX  XOO  3
+XX  XOO O2
+XX  XOO O7
+XX  XOOO 2
+XX  XOOO 8
+XX  XOXOO2
+XX O     2
+XX O     4
+XX O     5
+XX O     6
+XX O     8
+XX O    O2
+XX O    O5
+XX O    O7
+XX O   O 2
+XX O   O 5
+XX O   O 6
+XX O   O 8
+XX O   OX2
+XX O   OX4
+XX O   XO2
+XX O   XO4
+XX O   XO5
+XX O   XO6
+XX O  O  2
+XX O  O  4
+XX O  O  5
+XX O  O X4
+XX O  O X5
+XX O  OOX2
+XX O  OOX4
+XX O  OOX5
+XX O  OX 4
+XX O  OXO2
+XX O  OXO4
+XX O  OXO5
+XX O  X O2
+XX O  X O4
+XX O  XO 2
+XX O  XOO2
+XX O  XOO4
+XX O  XOO5
+XX O O   2
+XX O O   4
+XX O O   7
+XX O O  X4
+XX O O OX2
+XX O O OX4
+XX O O OX6
+XX O O X 2
+XX O O X 4
+XX O O X 6
+XX O O XO2
+XX O O XO4
+XX O OO X2
+XX O OO X4
+XX O OO X7
+XX O OOX 2
+XX O OOX 4
+XX O OOXX4
+XX O OX  2
+XX O OX  4
+XX O OX  7
+XX O OX O2
+XX O OX O4
+XX O OXO 2
+XX O OXO 4
+XX O OXOX4
+XX O OXXO2
+XX O OXXO4
+XX O X  O2
+XX O X  O7
+XX O X O 2
+XX O X O 4
+XX O X OO2
+XX O X OO4
+XX O X OO6
+XX O XO  2
+XX O XO  4
+XX O XO  7
+XX O XO  8
+XX O XO O2
+XX O XO O7
+XX O XOO 2
+XX O XOO 4
+XX O XOO 8
+XX O XOOX2
+XX O XOOX4
+XX O XOXO2
+XX O XXOO2
+XX OO    2
+XX OO   X2
+XX OO   X5
+XX OO   X6
+XX OO   X7
+XX OO  OX2
+XX OO  OX5
+XX OO  X 2
+XX OO  X 5
+XX OO  X 6
+XX OO  XO2
+XX OO  XO5
+XX OO  XO6
+XX OO O X2
+XX OO O X7
+XX OO OX 2
+XX OO OX 8
+XX OO OXX2
+XX OO OXX5
+XX OO X  2
+XX OO X  5
+XX OO X O2
+XX OO X O5
+XX OO XO 2
+XX OO XO 5
+XX OO XOX2
+XX OO XOX5
+XX OO XXO2
+XX OO XXO5
+XX OOX   2
+XX OOX   6
+XX OOX  O2
+XX OOX  O6
+XX OOX  O7
+XX OOX O 2
+XX OOX O 6
+XX OOX O 8
+XX OOX OX2
+XX OOX XO2
+XX OOXO  2
+XX OOXO X2
+XX OOXOOX2
+XX OOXOX 2
+XX OOXOXO2
+XX OOXX O2
+XX OOXXO 2
+XX OOXXOO2
+XX OX  O 5
+XX OX  O 6
+XX OX  O 8
+XX OX  OO2
+XX OX  OO6
+XX OX O  8
+XX OX O O2
+XX OX O O7
+XX OX OO 2
+XX OX OO 5
+XX OX OO 8
+XX OX XOO2
+XX OXO   8
+XX OXO  O2
+XX OXO  O6
+XX OXO  O7
+XX OXO O 2
+XX OXO O 6
+XX OXO O 8
+XX OXOO  2
+XX OXOO  7
+XX OXOO  8
+XX OXOX O2
+XX OXOXO 8
+XX OXOXOO2
+XX OXX OO2
+XX OXX OO6
+XX OXXO O7
+XX OXXOO 8
+XX X   OO4
+XX X   OO5
+XX X   OO6
+XX X  O O2
+XX X  O O4
+XX X  O O5
+XX X  O O7
+XX X  OO 2
+XX X  OO 4
+XX X  OO 5
+XX X  OO 8
+XX X O  O2
+XX X O  O4
+XX X O  O6
+XX X O O 2
+XX X O O 4
+XX X O O 6
+XX X O O 8
+XX X O OO2
+XX X O OO6
+XX X OO  2
+XX X OO  8
+XX X OO O2
+XX X OOO 2
+XX X OOO 8
+XX X OOOX4
+XX X OOXO2
+XX X OOXO4
+XX XO   O2
+XX XO   O5
+XX XO   O6
+XX XO  O 2
+XX XO  OO2
+XX XO  OO6
+XX XO O  2
+XX XO O O2
+XX XO O O7
+XX XO OO 2
+XX XO OOX2
+XX XO OXO2
+XX XOO   2
+XX XOO  O2
+XX XOO  O6
+XX XOO  O7
+XX XOO O 2
+XX XOO O 6
+XX XOO O 8
+XX XOO OX2
+XX XOO OX6
+XX XOO XO2
+XX XOOO  2
+XX XOOO  7
+XX XOOO X2
+XX XOOOOX2
+XX XOOOX 2
+XX XOOOXO2
+XX XOX OO6
+XX XOXO O2
+XX XOXO O7
+XX XOXOO 2
+XX XOXOO 8
+XX XXO OO2
+XX XXO OO6
+XX XXOO O2
+XX XXOO O7
+XX XXOOO 2
+XX XXOOO 8
+XXO      3
+XXO      4
+XXO      6
+XXO      7
+XXO      8
+XXO    O 6
+XXO    O 8
+XXO    OX3
+XXO    OX4
+XXO    XO3
+XXO    XO4
+XXO    XO5
+XXO    XO6
+XXO   O  4
+XXO   O X4
+XXO   OOX3
+XXO   OOX4
+XXO   OX 4
+XXO   OX 5
+XXO   OX 8
+XXO   X O3
+XXO   X O5
+XXO   XO 3
+XXO   XOO3
+XXO   XOO5
+XXO  O  X3
+XXO  O  X4
+XXO  O  X6
+XXO  O OX3
+XXO  O OX4
+XXO  O OX6
+XXO  O X 3
+XXO  O X 4
+XXO  O X 6
+XXO  O X 8
+XXO  OO X3
+XXO  OO X4
+XXO  OO X7
+XXO  OOX 3
+XXO  OOX 4
+XXO  OOX 8
+XXO  OOXX4
+XXO  OX  3
+XXO  OX  4
+XXO  OX  7
+XXO  OX  8
+XXO  OXO 3
+XXO  OXO 8
+XXO  OXOX4
+XXO  X  O3
+XXO  X  O4
+XXO  X  O6
+XXO  X  O7
+XXO  X O 3
+XXO  X O 4
+XXO  X O 6
+XXO  X O 8
+XXO  X OO3
+XXO  X OO6
+XXO  XO  3
+XXO  XO  4
+XXO  XO  7
+XXO  XO  8
+XXO  XO O3
+XXO  XO O7
+XXO  XOO 8
+XXO  XOOX4
+XXO  XOXO3
+XXO  XOXO4
+XXO  XXOO3
+XXO O    7
+XXO O   X3
+XXO O   X5
+XXO O   X6
+XXO O   X7
+XXO O  OX6
+XXO O  X 3
+XXO O  X 5
+XXO O  X 6
+XXO O  X 8
+XXO O  XO6
+XXO O X  3
+XXO O X O3
+XXO O X O5
+XXO O XO 3
+XXO O XO 5
+XXO O XO 8
+XXO O XOX3
+XXO O XXO3
+XXO O XXO5
+XXO OO  X7
+XXO OO XX3
+XXO OO XX6
+XXO OOX  3
+XXO OOX X3
+XXO OOXOX3
+XXO OOXX 3
+XXO OOXX 8
+XXO OX   3
+XXO OX   6
+XXO OX   8
+XXO OX  O6
+XXO OX O 6
+XXO OX OX3
+XXO OX OX6
+XXO OX XO3
+XXO OX XO6
+XXO OXX O3
+XXO OXXO 3
+XXO OXXOO3
+XXO X   O3
+XXO X   O5
+XXO X   O6
+XXO X   O7
+XXO X  O 8
+XXO X O O5
+XXO X O O7
+XXO X OO 5
+XXO X OO 8
+XXO X XOO3
+XXO X XOO5
+XXO XO   6
+XXO XO   7
+XXO XO   8
+XXO XO O 6
+XXO XO O 8
+XXO XOO  3
+XXO XOO  7
+XXO XOO  8
+XXO XOXO 8
+XXO XX OO3
+XXO XX OO6
+XXO XXO O7
+XXO XXOO 3
+XXO XXOO 8
+XXOO    X4
+XXOO    X5
+XXOO    X7
+XXOO   OX4
+XXOO   OX5
+XXOO   OX6
+XXOO   X 4
+XXOO   X 5
+XXOO   X 6
+XXOO   X 8
+XXOO   XO4
+XXOO   XO5
+XXOO  O X4
+XXOO  O X5
+XXOO  O X7
+XXOO  OX 4
+XXOO  OXX4
+XXOO  X  4
+XXOO  X  5
+XXOO  X  7
+XXOO  X  8
+XXOO  X O5
+XXOO  XO 4
+XXOO  XO 5
+XXOO  XO 8
+XXOO  XOX4
+XXOO  XXO4
+XXOO  XXO5
+XXOO O  X4
+XXOO O  X6
+XXOO O  X7
+XXOO O X 4
+XXOO O X 6
+XXOO O X 8
+XXOO O XX4
+XXOO OOXX4
+XXOO OX  7
+XXOO OX  8
+XXOO OXOX4
+XXOO OXX 4
+XXOO OXX 8
+XXOO X   4
+XXOO X  O4
+XXOO X  O6
+XXOO X  O7
+XXOO X O 4
+XXOO X O 6
+XXOO X O 8
+XXOO X OX4
+XXOO X XO4
+XXOO XO  4
+XXOO XO  8
+XXOO XO X4
+XXOO XOOX4
+XXOO XOX 4
+XXOO XOX 8
+XXOO XOXO4
+XXOO XX O4
+XXOO XX O7
+XXOO XXO 4
+XXOO XXO 8
+XXOO XXOO4
+XXOOO   X5
+XXOOO  X 5
+XXOOO  XX5
+XXOOO  XX6
+XXOOO X  5
+XXOOO X X5
+XXOOO X X7
+XXOOO XOX5
+XXOOO XX 5
+XXOOO XX 8
+XXOOO XXO5
+XXOOOX   6
+XXOOOX   8
+XXOOOX  X6
+XXOOOX  X7
+XXOOOX OX6
+XXOOOX X 6
+XXOOOX X 8
+XXOOOX XO6
+XXOOOXX  7
+XXOOOXX  8
+XXOOOXX O7
+XXOOOXXO 8
+XXOOX    6
+XXOOX    7
+XXOOX   O5
+XXOOX   O7
+XXOOX  O 5
+XXOOX  O 6
+XXOOX  O 8
+XXOOX O  5
+XXOOX O  7
+XXOOX O  8
+XXOOX X O5
+XXOOX X O7
+XXOOX XO 8
+XXOOX XOO5
+XXOOXO   7
+XXOOXO   8
+XXOOXOX  8
+XXOOXOXO 8
+XXOOXX  O7
+XXOOXX O 8
+XXOOXX OO6
+XXOOXXO  7
+XXOOXXO  8
+XXOOXXO O7
+XXOOXXOO 8
+XXOX    O5
+XXOX    O6
+XXOX    O7
+XXOX   O 6
+XXOX   OO4
+XXOX   OO5
+XXOX   OO6
+XXOX  O  4
+XXOX  O  5
+XXOX  O  7
+XXOX  O  8
+XXOX  O O5
+XXOX  O O7
+XXOX  OO 5
+XXOX  OO 8
+XXOX  OOX4
+XXOX  OXO4
+XXOX  OXO5
+XXOX O   4
+XXOX O   6
+XXOX O   7
+XXOX O   8
+XXOX O O 4
+XXOX O O 6
+XXOX O O 8
+XXOX O OX4
+XXOX OO X4
+XXOX OO X7
+XXOX OOOX4
+XXOX OOX 4
+XXOX OOX 8
+XXOX X OO6
+XXOX XO O4
+XXOX XO O7
+XXOX XOO 4
+XXOX XOO 8
+XXOXO    6
+XXOXO   O5
+XXOXO   O6
+XXOXO  O 5
+XXOXO  O 6
+XXOXO  O 8
+XXOXO  OX6
+XXOXO  XO5
+XXOXO  XO6
+XXOXOO   6
+XXOXOO   8
+XXOXOO  X6
+XXOXOO OX6
+XXOXOO X 6
+XXOXOO X 8
+XXOXOX  O6
+XXOXOX O 6
+XXOXOX OO6
+XXOXX  OO5
+XXOXX  OO6
+XXOXX O O5
+XXOXX O O7
+XXOXX OO 8
+XXOXXO O 8
+XXOXXOO  8
+XXOXXOOO 8
